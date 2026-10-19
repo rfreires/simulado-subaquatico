@@ -1,0 +1,3236 @@
+[
+    {
+        "id": 1,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "O cabo que conecta o aparelho de ultrassom ao cabeçote é especialmente projetado de forma que um condutor seja perfeitamente centrado dentro de outro condutor. O nome tecnicamente correto deste cabo é:",
+        "opcoes": [
+            "A) Cabo BX.",
+            "B) Conduite.",
+            "C) Cabo condutor ultrassônico grau 20.",
+            "D) Cabo coaxial."
+        ],
+        "resposta": "D",
+        "explicacao": "O cabo coaxial possui um condutor central envolto por um isolante e uma malha externa concêntrica, ideal para a transmissão de sinais de alta frequência sem interferências.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 2,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "O processo para comparar um instrumento ou dispositivo com um padrão é denominado:",
+        "opcoes": [
+            "A) Angulação.",
+            "B) Atenuação.",
+            "C) Correlação.",
+            "D) Calibração."
+        ],
+        "resposta": "D",
+        "explicacao": "A calibração consiste na comparação metrológica de um instrumento com um padrão rastreável para determinar seus desvios.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 3,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "As ondas de compressão também são denominadas:",
+        "opcoes": [
+            "A) Ondas de Lamb.",
+            "B) Ondas de corte.",
+            "C) Ondas transversais.",
+            "D) Ondas longitudinais."
+        ],
+        "resposta": "D",
+        "explicacao": "As ondas longitudinais caracterizam-se pelo movimento de partículas na mesma direção da propagação, sendo comumente chamadas de ondas de compressão.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 4,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "As ondas de Rayleigh são também denominadas:",
+        "opcoes": [
+            "A) Ondas de corte.",
+            "B) Ondas longitudinais.",
+            "C) Ondas transversais.",
+            "D) Ondas de superfície."
+        ],
+        "resposta": "D",
+        "explicacao": "As ondas de Rayleigh propagam-se estritamente na superfície do material e são amplamente conhecidas como ondas superficiais.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 5,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "O material usado entre a face do cabeçote e a superfície em exame para melhorar a transmissão das ondas ultrassônicas é denominado:",
+        "opcoes": [
+            "A) Agente umedecedor.",
+            "B) Transmissor acústico.",
+            "C) lubrificante.",
+            "D) Acoplante."
+        ],
+        "resposta": "D",
+        "explicacao": "O acoplante elimina a camada de ar entre o transdutor e a peça, viabilizando a transferência de energia sônica.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 6,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "O material piezelétrico existente num cabeçote, que vibra para produzir ondas sônicas é denominado:",
+        "opcoes": [
+            "A) Bloco de apoio.",
+            "B) Cunha de lucite.",
+            "C) Acoplante.",
+            "D) Cristal."
+        ],
+        "resposta": "D",
+        "explicacao": "O elemento ativo que converte energia elétrica em mecânica (e vice-versa) é o cristal piezelétrico.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 7,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "O método de exame por meio de ultrassom que emprega dois cabeçotes, trabalhando em superfícies opostas da peça em exame, é denominado:",
+        "opcoes": [
+            "A) Exame por contato.",
+            "B) Exame por meio de ultrassom com ondas de Lamb.",
+            "C) Método de exame por transparência.",
+            "D) Nenhuma das respostas acima está certa."
+        ],
+        "resposta": "C",
+        "explicacao": "O ensaio por transparência (ou transmissão direta) utiliza um cabeçote emissor em uma face e um receptor na face oposta.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 8,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "O número de ondas completas que passam num determinado ponto na unidade de tempo é denominado:",
+        "opcoes": [
+            "A) Amplitude do movimento ondulatório.",
+            "B) Duração de um pulso do movimento ondulatório.",
+            "C) Comprimento de onda do movimento ondulatório.",
+            "D) Frequência do movimento ondulatório."
+        ],
+        "resposta": "D",
+        "explicacao": "Frequência é o número de ciclos ou ondas completas por unidade de tempo, medida em Hertz (Hz).",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 9,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "O método de exame no qual a peça não está em contato com o cabeçote, sendo separada deste por uma camada de água ou outro líquido de acoplante é denominado:",
+        "opcoes": [
+            "A) Exame por contato.",
+            "B) Exame com ondas superficiais.",
+            "C) Método de inspeção por transparência.",
+            "D) Exame por imersão."
+        ],
+        "resposta": "D",
+        "explicacao": "Na imersão, a peça e o transdutor ficam submersos ou banhados por uma coluna de líquido acoplante.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 10,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "O limite entre dois materiais diferentes que estão em contato entre si é denominado:",
+        "opcoes": [
+            "A) Rarefator.",
+            "B) Refrator.",
+            "C) Marcador.",
+            "D) Interface."
+        ],
+        "resposta": "D",
+        "explicacao": "Interface é a superfície de separação entre dois meios físicos com propriedades acústicas distintas.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 11,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "Quando o movimento das partículas de um meio possui sentido paralelo ao sentido de propagação ondas, estas ondas são denominadas:",
+        "opcoes": [
+            "A) Transversais.",
+            "B) Superficiais.",
+            "C) De lamb.",
+            "D) Longitudinais."
+        ],
+        "resposta": "D",
+        "explicacao": "O deslocamento paralelo das partículas em relação à onda caracteriza as ondas longitudinais.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 12,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "Outra maneira de dizer 25 milhões de ciclos é:",
+        "opcoes": [
+            "A) 25 quilociclos.",
+            "B) 2.500 quilociclos.",
+            "C) 25 microciclos.",
+            "D) 25 megaciclos."
+        ],
+        "resposta": "D",
+        "explicacao": "Um milhão de ciclos corresponde a 1 megaciclo (MHz). Logo, 25 milhões equivalem a 25 megaciclos.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 13,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "O termo usado em ultrassom para expressar a velocidade com que as ondas de sons passam através de várias substâncias é:",
+        "opcoes": [
+            "A) Frequência.",
+            "B) Comprimento de onda.",
+            "C) Velocidade.",
+            "D) Nenhuma das respostas acima está certa."
+        ],
+        "resposta": "C",
+        "explicacao": "A rapidez de propagação acústica no meio é definida como velocidade sônica.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 14,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "A técnica usada nos exames por meio de ultrassom na qual o feixe de vibrações emitido pelo cristal faz um ângulo com a superfície da peça em exame é denominada:",
+        "opcoes": [
+            "A) Técnica de imersão.",
+            "B) Exame por contato.",
+            "C) Exame por transferência.",
+            "D) Exame por meio de ultrassom utilizando cabeçote angular."
+        ],
+        "resposta": "D",
+        "explicacao": "Cabeçotes angulares utilizam cunhas para introduzir ondas refratadas em ângulos específicos na peça.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 15,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "O ângulo marcado num cabeçote angular corresponde:",
+        "opcoes": [
+            "A) Que a direção de propagação do feixe de ondas ultrassônicas emitido pelo cabeçote faz com a normal oblíqua a superfície da peça por onde é feito o exame.",
+            "B) Do eixo do cabeçote com a normal a superfície.",
+            "C) Do eixo do cabeçote com o plano da superfície.",
+            "D) Que a direção da propagação do feixe de ondas ultrassônicas emitido pelo cabeçote faz com a normal à superfície por onde é feito o exame de uma peça de aço."
+        ],
+        "resposta": "D",
+        "explicacao": "O ângulo nominal do cabeçote angular refere-se ao ângulo de refração gerado especificamente no aço em relação à normal da superfície.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 16,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "O ponto de emissão de um certo cabeçote angular:",
+        "opcoes": [
+            "A) Depende do material da peça em exame.",
+            "B) Não se altera com o uso do cabeçote.",
+            "C) Pode ser modificado para reduzir a atenuação das ondas ultrassônicas.",
+            "D) Varia de acordo com o desgaste da sapata."
+        ],
+        "resposta": "D",
+        "explicacao": "O ponto de saída (index) sofre alterações geométricas devido ao desgaste mecânico da base/sapata plástica durante o uso.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 17,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "A maioria dos exames por meio de ultrassom é feito na Frequência de:",
+        "opcoes": [
+            "A) De 1 a 25 quilociclos.",
+            "B) De 1 a 1.000 quilociclos.",
+            "C) De 15 a 100 megaciclos.",
+            "D) De 1 a 25 megaciclos."
+        ],
+        "resposta": "D",
+        "explicacao": "A faixa industrial típica para ensaios ultrassônicos convencionais situa-se entre 1 MHz e 25 MHz.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 18,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "Indique a frequência que proporciona a melhor penetração numa peça de aço, com granulação grosseira, com espessura de 30 mm:",
+        "opcoes": [
+            "A) 2,25 megahertz.",
+            "B) 5,0 megahertz.",
+            "C) 10 mc.",
+            "D) 1,0 megahertz."
+        ],
+        "resposta": "D",
+        "explicacao": "Frequências mais baixas (como 1,0 MHz) sofrem menor atenuação e espalhamento em materiais de granulação grosseira, garantindo maior penetração.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 19,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "Um aparelho para exame por meio de ultrassom, utilizando cabeçote normal, é usado para examinar uma peça que consiste em uma chapa plana. Este exame detectará:",
+        "opcoes": [
+            "A) Defeitos transversais, planos, perpendiculares à superfície da chapa.",
+            "B) Defeitos longitudinais, planos, perpendiculares à superfície da chapa.",
+            "C) Defeitos laminares, planos, paralelos à superfície.",
+            "D) Nenhum dos defeitos citados nestas respostas."
+        ],
+        "resposta": "C",
+        "explicacao": "O cabeçote normal (ondas longitudinais) é altamente eficiente na detecção de descontinuidades paralelas à superfície (lâminas, dupla laminação).",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 20,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "No exame por meio de ultrassom, o uso de acoplante entre o cabeçote e a superfície da peça em exame se faz necessário porque:",
+        "opcoes": [
+            "A) Serve como lubrificante para minimizar o desgaste do cabeçote.",
+            "B) O cristal do cabeçote não vibrará se este for colocado diretamente sobre a peça.",
+            "C) O acoplante é necessário para fechar o circuito elétrico do cabeçote.",
+            "D) Caso não seja usado, o ar existente na interface entre o cabeçote e a superfície da peça, refletirá quase todo feixe sônico, permitindo que apenas uma pequena quantidade de energia ultrassônica gerada no cabeçote seja transmitida para a peça impedindo praticamente a realização do exame."
+        ],
+        "resposta": "D",
+        "explicacao": "A enorme diferença de impedância acústica entre o ar e o sólido causa reflexão quase total se o acoplante não for aplicado.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 21,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "Considerando que as demais variáveis permanecem inalteradas, qual dos seguintes tipos de ondas se propaga com maior velocidade:",
+        "opcoes": [
+            "A) Ondas de corte.",
+            "B) Ondas transversais.",
+            "C) Ondas superficiais.",
+            "D) Ondas Longitudinais."
+        ],
+        "resposta": "D",
+        "explicacao": "As ondas longitudinais possuem velocidade superior às ondas transversais e superficiais em um mesmo meio sólido.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 22,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "As ondas de som com frequência superior a máxima que pode ser captada pelo ouvido humano são chamadas de ondas ultrassônicas este tempo se aplica a todas as ondas com frequência superior à:",
+        "opcoes": [
+            "A) 2 megaciclos por segundo.",
+            "B) 2 hilociclos por segundo.",
+            "C) 200 kilociclos por segundo.",
+            "D) 20.000 ciclos por segundo."
+        ],
+        "resposta": "D",
+        "explicacao": "O limite superior da audição humana ronda 20 kHz (20.000 ciclos por segundo); acima disso, classificam-se como ultrassom.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 23,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "Fundamentalmente, a velocidade das ondas de som depende:",
+        "opcoes": [
+            "A) Da duração do pulso.",
+            "B) Da Frequência.",
+            "C) Do material através do qual o som se transmite e do tipo de ondas.",
+            "D) De nenhum dos fatores acima citados."
+        ],
+        "resposta": "C",
+        "explicacao": "A velocidade sônica é uma propriedade elástica intrínseca do meio material e do modo de vibração da onda.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 24,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "A desvantagem do uso cristais de quartzo em cabeçotes reside no fato de que o quartzo:",
+        "opcoes": [
+            "A) Se dissolve na água.",
+            "B) Apresenta instabilidade e mecânica.",
+            "C) Perde suas características de operação à medida que envelhece.",
+            "D) É o material usado para gerar energia ultrassônica, que possui menor eficiência energética."
+        ],
+        "resposta": "D",
+        "explicacao": "O quartzo apresenta menor eficiência de conversão eletromecânica (constante piezelétrica baixa) em comparação com cerâmicas modernas.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 25,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "A vantagem que os materiais cerâmicos apresentam quando usados em cabeçotes é que:",
+        "opcoes": [
+            "A) Apresentam muita eficiência na recepção de energia ultrassônica.",
+            "B) Possuem impedância mecânica muito baixa.",
+            "C) Podem trabalhar em temperaturas de até 700 graus Celsius.",
+            "D) Apresentam muita eficiência em geração de até 700 graus Celsius."
+        ],
+        "resposta": "A",
+        "explicacao": "Materiais cerâmicos (como o titanato de bário e PZT) destacam-se pela alta eficiência tanto na emissão quanto na recepção de sinais.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 26,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "A vantagem proporcionada pelo uso de cristais de sulfato de lítio em cabeçotes é que:",
+        "opcoes": [
+            "A) Este material é um dos mais eficientes geradores de energia ultrassônica.",
+            "B) É insolúvel.",
+            "C) Suporta temperatura de até 700 graus Celsius.",
+            "D) Este material é um dos mais eficientes receptores de energia ultrassônica."
+        ],
+        "resposta": "D",
+        "explicacao": "O sulfato de lítio é amplamente reconhecido como um dos melhores materiais receptores de ondas ultrassônicas.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 27,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "Indique a Frequência do cabeçote que possui o cristal de quartzo de menor espessura:",
+        "opcoes": [
+            "A) 1 megaciclo.",
+            "B) 5 megaciclos.",
+            "C) 15 megaciclos.",
+            "D) 25 megaciclos."
+        ],
+        "resposta": "D",
+        "explicacao": "A espessura do cristal é inversamente proporcional à frequência de ressonância; quanto maior a frequência, mais fino é o cristal.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 28,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "Um cabeçote de 25 megaciclos é adequado:",
+        "opcoes": [
+            "A) Para uso em exames por contato, com ondas longitudinais.",
+            "B) Para uso em exames por contato, com ondas transversais.",
+            "C) Para uso em exames por contato, com ondas superficiais.",
+            "D) Quando se usa a técnica de imersão."
+        ],
+        "resposta": "D",
+        "explicacao": "Frequências elevadas (25 MHz) exigem geralmente o controle rigoroso da lâmina de acoplamento, sendo típicas de sistemas automatizados ou imersão.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 29,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "Quando um feixe de ondas ultrassônicas incide na interface que separa dois materiais desiguais num ângulo diferente de 90 graus e passa por ela, sua propagação no segundo material será feita em direção diferente, em outro ângulo em relação a normal com a interface, devido a:",
+        "opcoes": [
+            "A) Atenuação.",
+            "B) Rarefação.",
+            "C) Compressão.",
+            "D) Refração."
+        ],
+        "resposta": "D",
+        "explicacao": "A mudança de direção do feixe ao cruzar uma interface obliquamente é o fenômeno da refração.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 30,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "A execução de exames pelo método do contato direto usando cabeçotes normais não é praticada em alguns casos:",
+        "opcoes": [
+            "A) Porque geralmente é limitado as baixas Frequências.",
+            "B) Porque é impossível fazer angulação.",
+            "C) Porque a angulação é impossível e porque é geralmente limitada a baixas Frequências.",
+            "D) Nenhuma das respostas acima é correta."
+        ],
+        "resposta": "D",
+        "explicacao": "O contato direto com cabeçote normal é amplamente utilizado e abrange diversas faixas de frequência conforme a aplicação.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 31,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "Nas mesmas circunstâncias, qual das Frequências relacionadas abaixo proporcionaria melhor resolução:",
+        "opcoes": [
+            "A) 1 megaciclo.",
+            "B) 5 megaciclos.",
+            "C) 10 megaciclos.",
+            "D) 25 megaciclos."
+        ],
+        "resposta": "D",
+        "explicacao": "Altas frequências encurtam o comprimento de onda, melhorando significativamente a resolução axial e a capacidade de detecção de pequenos refletores.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 32,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "Qual das seguintes peças produz maior atenuação do som numa certa distância:",
+        "opcoes": [
+            "A) Uma peça forjada.",
+            "B) Uma peça extrudada.",
+            "C) A estimação é igual em todas as peças citadas.",
+            "D) Uma peça fundida de granulação grosseira."
+        ],
+        "resposta": "D",
+        "explicacao": "Fundidos de granulação grosseira dispersam fortemente as ondas sônicas, gerando alta atenuação e ruído de fundo.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 33,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "O princípio da ressonância ultrassônica é geralmente usada para:",
+        "opcoes": [
+            "A) Detectar grandes descontinuidades.",
+            "B) Detectar porosidade.",
+            "C) Nenhuma das respostas citadas está correta.",
+            "D) Medir espessura de parede."
+        ],
+        "resposta": "D",
+        "explicacao": "Medidores de espessura por ressonância aproveitam a frequência estacionária para calcular com precisão milimétrica a espessura de paredes.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 34,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "O material piezelétrico do cabeçote:",
+        "opcoes": [
+            "A) Converte energia elétrica em energia mecânica.",
+            "B) Converte energia mecânica em energia elétrica.",
+            "C) Converte energia elétrica em energia mecânica e vice-versa.",
+            "D) Nenhuma das respostas anteriores."
+        ],
+        "resposta": "C",
+        "explicacao": "A reversibilidade do efeito piezelétrico permite atuar tanto como emissor (elétrica para mecânica) quanto receptor (mecânica para elétrica).",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 35,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "Comprimento de onda mais curto:",
+        "opcoes": [
+            "A) 1 megaciclo.",
+            "B) 10 megaciclos.",
+            "C) 5 megaciclos.",
+            "D) 25 megaciclos."
+        ],
+        "resposta": "D",
+        "explicacao": "Como o comprimento de onda é inversamente proporcional à frequência, a maior frequência (25 MHz) resulta no menor comprimento de onda.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 36,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "O ângulo de incidência é ................. ângulo de reflexão:",
+        "opcoes": [
+            "A) Maior do que o.",
+            "B) Menor do que o.",
+            "C) Igual ao.",
+            "D) Nenhuma das respostas acima está correta."
+        ],
+        "resposta": "C",
+        "explicacao": "Pela lei da reflexão acústica, o ângulo de incidência é sempre rigorosamente igual ao ângulo de reflexão.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 37,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "Uma Frequência de 100.000 ciclos por segundo também pode ser designada por:",
+        "opcoes": [
+            "A) 10 quilociclos.",
+            "B) 100 megaciclos.",
+            "C) 0,1 quilociclos.",
+            "D) 100 quilociclos."
+        ],
+        "resposta": "D",
+        "explicacao": "1.000 ciclos equivalem a 1 quilociclo (kHz). Portanto, 100.000 ciclos correspondem a 100 kHz.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 38,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "A perda gradual de energia sônica que ocorre a medida que o feixe de ondas ultrassônicas se propaga numa peça é denominada:",
+        "opcoes": [
+            "A) Reflexão.",
+            "B) Refração.",
+            "C) Reprodutibilidade.",
+            "D) Atenuação."
+        ],
+        "resposta": "D",
+        "explicacao": "Atenuação engloba todos os fenômenos (absorção e espalhamento) que reduzem a amplitude do feixe sônico ao longo da distância.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 39,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "O termo geral aplicado a trincas, inclusão, porosidade etc. que possam causar a reflexão do feixe de ondas ultrassônicas é:",
+        "opcoes": [
+            "A) Dispersador.",
+            "B) Atenuador.",
+            "C) Refrator.",
+            "D) Descontinuidade."
+        ],
+        "resposta": "D",
+        "explicacao": "Qualquer interrupção na homogeneidade física do material é tecnicamente classificada como descontinuidade.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 40,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 01",
+        "pergunta": "A presença de uma descontinuidade na peça em exame não produzirá nenhuma indicação na tela do aparelho se estiver sendo usado o exame:",
+        "opcoes": [
+            "A) Com cabeçote normal.",
+            "B) Com ondas superficiais.",
+            "C) Com cabeçote angular.",
+            "D) Pelo método de transparência."
+        ],
+        "resposta": "D",
+        "explicacao": "No método por transparência, a descontinuidade impede ou reduz a chegada do som ao receptor, resultando na queda do sinal de fundo, mas sem refletir um eco direto para o emissor no modo pulso-eco.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 41,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "Indique qual é a frequência da onda ultrassônica que perde mais energia ao propagar-se numa peça metálica de granulação grosseira:",
+        "opcoes": [
+            "A) 1,0 megaciclos.",
+            "B) 10,0 megaciclos.",
+            "C) 5,0 megaciclos.",
+            "D) 2,25 megaciclos."
+        ],
+        "resposta": "B",
+        "explicacao": "Frequências mais altas (10 MHz) sofrem espalhamento intenso nos grãos grosseiros, resultando em perdas elevadas de energia.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 42,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "Indique a frequência do cabeçote que possui o cristal de quartzo de maior espessura:",
+        "opcoes": [
+            "A) 1,0 megaciclos.",
+            "B) 5,0 megaciclos.",
+            "C) 10,0 megaciclos.",
+            "D) 2,25 megaciclos."
+        ],
+        "resposta": "A",
+        "explicacao": "A menor frequência (1,0 MHz) requer o cristal de maior espessura física para ressoar.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 43,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "Cabeçotes construídos de forma que o cristal se apoie numa cunha plástica, sendo feito através desta o contato com a peça em exame, são geralmente usados para:",
+        "opcoes": [
+            "A) exames com feixes de ondas ultrassônicas normal a superfície da peça.",
+            "B) exame por meio de ultrassom usando a técnica de imersão.",
+            "C) exames com feixes de ondas ultrassônicas em ângulo com a superfície da peça.",
+            "D) nenhuma das respostas acima está correta."
+        ],
+        "resposta": "C",
+        "explicacao": "Cunhas plásticas angulares são empregadas para refração e geração de ondas angulares (transversais/shear) na peça.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 44,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "Após atravessar a interface plana que separa dois metais diferentes, um feixe de ondas ultrassônicas muda de direção, fazendo um ângulo diferente com a interface. Este novo ângulo é denominado:",
+        "opcoes": [
+            "A) ângulo de incidência.",
+            "B) ângulo de rarefação.",
+            "C) ângulo de reflexão.",
+            "D) ângulo de refração."
+        ],
+        "resposta": "D",
+        "explicacao": "O ângulo formado no segundo meio após a travessia da interface é o ângulo de refração.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 45,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "O processo para comparar um instrumento ou aparelho com um padrão de referência é denominado:",
+        "opcoes": [
+            "A) angulação.",
+            "B) varredura.",
+            "C) correção para variações de distância-amplitude.",
+            "D) calibração."
+        ],
+        "resposta": "D",
+        "explicacao": "Calibração é o ato de aferir o equipamento frente a blocos padrão conhecidos.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 46,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "O espalhamento de um feixe ultrassônico, causado pela sua reflexão numa superfície irregular é denominado:",
+        "opcoes": [
+            "A) angulação.",
+            "B) refração.",
+            "C) rarefação.",
+            "D) dispersão."
+        ],
+        "resposta": "D",
+        "explicacao": "A dispersão (scattering) ocorre quando o som incide em superfícies rugosas ou estruturas granulares, espalhando-se em várias Direções.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 47,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "O ângulo de reflexão:",
+        "opcoes": [
+            "A) é igual ao ângulo de incidência.",
+            "B) depende da frequência usada.",
+            "C) é igual ao ângulo de refração.",
+            "D) depende do acoplamento usado."
+        ],
+        "resposta": "A",
+        "explicacao": "A lei da reflexão estabelece a igualdade estrita entre o ângulo de incidência e o de reflexão.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 48,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "Um fluxo de curta duração e intenso de energia elétrica alternada é denominado:",
+        "opcoes": [
+            "A) onda contínua.",
+            "B) pico de voltagem de corrente contínua.",
+            "C) onda ultrassônica.",
+            "D) pulso."
+        ],
+        "resposta": "D",
+        "explicacao": "O gerador do aparelho envia um pulso elétrico de curtíssima duração para excitar o transdutor.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 49,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "No exame por meio de ultrassom, a duração de um pulso é denominada:",
+        "opcoes": [
+            "A) amplitude do pulso.",
+            "B) forma de pulso.",
+            "C) comprimento do pulso ou largura do pulso.",
+            "D) nenhuma das respostas acima está correta."
+        ],
+        "resposta": "C",
+        "explicacao": "A extensão temporal da excitação sônica caracteriza o comprimento ou largura do pulso.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 50,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "Uma onda muda sua direção de propagação ao atingir o limite do meio em que se desloca e este fenômeno é denominado:",
+        "opcoes": [
+            "A) reflexão.",
+            "B) rarefação.",
+            "C) angulação.",
+            "D) divergência."
+        ],
+        "resposta": "A",
+        "explicacao": "Ao atingir uma fronteira, parte da energia pode retornar ao meio de origem por reflexão.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 51,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "Ao incidir com ângulo diferente de 90 graus na interface que separa dois meios de elasticidade e densidade diferentes, uma onda ultrassônica continuará se propagando no segundo meio com direção diferente, este fenômeno é denominado:",
+        "opcoes": [
+            "A) angulação.",
+            "B) rarefação.",
+            "C) refração.",
+            "D) reflexão."
+        ],
+        "resposta": "C",
+        "explicacao": "A refração governa a mudança de direção angular quando o feixe atravessa meios com propriedades elásticas e densidades distintas.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 52,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "O método de medir espessura, no qual ondas ultrassônicas de frequência variável são produzidas na peça em exame por meio de um transdutor é denominado:",
+        "opcoes": [
+            "A) exame por ressonância.",
+            "B) exame por manetoestricção.",
+            "C) exame por transparência.",
+            "D) exame por feixe angular."
+        ],
+        "resposta": "A",
+        "explicacao": "O método de ressonância varia a frequência para encontrar ondas estacionárias proporcionais à espessura da peça.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 53,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "No exame por ressonância, as indicações podem ser obtidas na frequência fundamental de ressonância ou que são múltiplas da frequência fundamental:",
+        "opcoes": [
+            "A) na reflexão múltipla.",
+            "B) nos antinodos.",
+            "C) nos nodos.",
+            "D) nenhuma das respostas acima está correta."
+        ],
+        "resposta": "B",
+        "explicacao": "As ressonâncias ocorrem nos pontos de máxima amplitude de vibração (antinodos).",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 54,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "Qual das seguintes maneiras de vibração produz pulsos de menor comprimento de onda numa dada frequência e num dado material:",
+        "opcoes": [
+            "A) ondas superficiais.",
+            "B) ondas de compressão.",
+            "C) ondas de corte.",
+            "D) ondas longitudinais."
+        ],
+        "resposta": "C",
+        "explicacao": "Como a velocidade das ondas de corte (transversais) é menor que a das longitudinais para uma mesma frequência, seu comprimento de onda é correspondentemente menor.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 55,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "Qual dos seguintes modos de vibração possui geralmente o maior poder de penetração, com frequências iguais, em peças metálicas de granulação grosseira:",
+        "opcoes": [
+            "A) de corte.",
+            "B) transversal.",
+            "C) longitudinal.",
+            "D) todas as citadas tem o mesmo poder de penetração."
+        ],
+        "resposta": "C",
+        "explicacao": "As ondas longitudinais sofrem menor atenuação e dispersão relativa em materiais grossos comparadas às transversais de mesma frequência.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 56,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "O tipo de exame, no qual a face maior do cristal é disposta paralelamente a superfície da peça por onde é feito o exame, de forma que o feixe de ondas ultrassônicas seja transmitido a peça perpendicularmente a superfície é denominado:",
+        "opcoes": [
+            "A) exame com feixe angular.",
+            "B) exame com ondas superficiais.",
+            "C) exame com feixe normal.",
+            "D) todas as respostas acima estão corretas."
+        ],
+        "resposta": "C",
+        "explicacao": "O arranjo paralelo à superfície gera incidência perpendicular (normal).",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 57,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "Um método de exame no qual o som é emitido para a peça, por um cabeçote colocado numa de suas superfícies é recebido por outro situado na superfície oposta é denominado:",
+        "opcoes": [
+            "A) exame com ondas superficiais.",
+            "B) exame com cabeçote angular.",
+            "C) exame com cabeçote normal.",
+            "D) exame por transparência."
+        ],
+        "resposta": "D",
+        "explicacao": "Transparência ou transmissão direta envolve duas faces opostas da peça.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 58,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "Um dispositivo que transforma energia de uma forma em outra é denominado:",
+        "opcoes": [
+            "A) emissor.",
+            "B) transferidor.",
+            "C) transmissor.",
+            "D) transdutor."
+        ],
+        "resposta": "D",
+        "explicacao": "Definição clássica de transdutor: conversor de formas de energia.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 59,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "A distância de um certo ponto de uma onda ultrassônica ao ponto correspondente da onda seguinte é denominado:",
+        "opcoes": [
+            "A) frequência.",
+            "B) velocidade.",
+            "C) duração do pulso.",
+            "D) comprimento de onda."
+        ],
+        "resposta": "D",
+        "explicacao": "Comprimento de onda é a distância física entre dois pontos em fase consecutivos de uma onda.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 60,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "Ao deslocar-se num material, uma onda ultrassônica percorre uma certa distância na unidade de tempo e a isto denominamos:",
+        "opcoes": [
+            "A) taxa de repetição do pulso.",
+            "B) taxa de recuperação do pulso.",
+            "C) resposta ultrassônica.",
+            "D) velocidade."
+        ],
+        "resposta": "D",
+        "explicacao": "Distância percorrida por unidade de tempo é a velocidade de propagação.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 61,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "Qual dos seguintes modos de vibração possui geralmente o maior poder de penetração, com frequência iguais, em peças metálicas de granulação grosseira?",
+        "opcoes": [
+            "A) Longitudinal.",
+            "B) Transversal.",
+            "C) Todas as citadas têm o mesmo poder de penetração.",
+            "D) De corte."
+        ],
+        "resposta": "A",
+        "explicacao": "Ondas longitudinais mantêm melhor penetração em estruturas complexas ou grosseiras.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 62,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "Vários feixes de ondas ultrassônicas percorrem uma peça metálica. Indique a frequência do feixe que provavelmente sofre a maior atenuação:",
+        "opcoes": [
+            "A) 1,0 Megahertz.",
+            "B) 2,25 Megahertz.",
+            "C) 10 Megahertz.",
+            "D) 25 Megahertz."
+        ],
+        "resposta": "D",
+        "explicacao": "A atenuação cresce exponencialmente com a frequência; logo, 25 MHz sofre o maior amortecimento.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 63,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "O princípio da ressonância ultrassônica é geralmente usado para :",
+        "opcoes": [
+            "A) Medir a espessura da parede.",
+            "B) Detectar porosidade.",
+            "C) Nenhuma das respostas citadas está certa.",
+            "D) Detectar grandes descontinuidades."
+        ],
+        "resposta": "A",
+        "explicacao": "Aplicação primordial da técnica de ressonância: medição de espessuras.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 64,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "Um método de exame no qual o som é emitido para a peça em exame por um cabeçote colocado numa de suas superfícies, e recebido por outro cabeçote, situado na superfície oposta é denominado:",
+        "opcoes": [
+            "A) Exame com ondas superficiais.",
+            "B) Exame por transparência.",
+            "C) Exame com cabeçote normal.",
+            "D) Exame com cabeçote angular."
+        ],
+        "resposta": "B",
+        "explicacao": "Ensaio por transparência ou transmissão.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 65,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "O termo usado em ultrassom para expressar a rapidez com que as ondas de sons passam através de várias substâncias é:",
+        "opcoes": [
+            "A) Velocidade.",
+            "B) Comprimento de onda.",
+            "C) Nenhuma das respostas citadas.",
+            "D) Frequência."
+        ],
+        "resposta": "A",
+        "explicacao": "Rapidez de propagação sônica define a velocidade.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 66,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "Considerando que as demais variáveis permanecem inalteradas, qual dos seguintes tipos de ondas se propagam com maior velocidade?",
+        "opcoes": [
+            "A) Ondas de corte.",
+            "B) Ondas longitudinais.",
+            "C) Ondas superficiais.",
+            "D) Ondas transversais."
+        ],
+        "resposta": "B",
+        "explicacao": "Ondas longitudinais são as mais rápidas.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 67,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "As ................. se deslocam com uma velocidade ligeiramente menor do que as ondas transversais e sua propagação é longitudinal e transversal em relação à superfície da peça.",
+        "opcoes": [
+            "A) Ondas transversais.",
+            "B) Ondas de Rayleigh.",
+            "C) Ondas longitudinais.",
+            "D) Ondas \"L\"."
+        ],
+        "resposta": "B",
+        "explicacao": "Ondas de Rayleigh (superficiais) movem-se a cerca de 90% da velocidade das ondas transversais com deslocamento elíptico.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 68,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "Indique a frequência que provavelmente proporciona a melhor penetração num bloco de aço de 300 mm de espessura que possui granulação grosseira:",
+        "opcoes": [
+            "A) 1,0 Megahertz.",
+            "B) 5,0 Megahertz.",
+            "C) 10,0 Megahertz.",
+            "D) 2,5 Megahertz."
+        ],
+        "resposta": "A",
+        "explicacao": "Para grandes espessuras e granulação grosseira, 1,0 MHz é a escolha ideal para garantir retorno do eco de fundo.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 69,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "Quando o movimento das partículas de um meio possui sentido paralelo no sentido de propagação das ondas, estas ondas são denominadas:",
+        "opcoes": [
+            "A) Transversais.",
+            "B) Longitudinais.",
+            "C) De Lamb.",
+            "D) Superficiais."
+        ],
+        "resposta": "B",
+        "explicacao": "Partículas paralelas à propagação definem ondas longitudinais.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 70,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "No exame pelo método de imersão, o acoplante geralmente utilizado é:",
+        "opcoes": [
+            "A) Água.",
+            "B) Glicerina.",
+            "C) Álcool.",
+            "D) Óleo."
+        ],
+        "resposta": "A",
+        "explicacao": "A água é o acoplante universalmente empregado na técnica de imersão.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 72,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "Num líquido, o único modo de vibração que pode existir é:",
+        "opcoes": [
+            "A) Longitudinal.",
+            "B) Longitudinal e transversal.",
+            "C) Ondas superficiais.",
+            "D) Transversal."
+        ],
+        "resposta": "A",
+        "explicacao": "Líquidos não possuem rigidez ao cisalhamento, logo não suportam a propagação de ondas transversais puras.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 73,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "As ondas de som com frequência superior à máxima que pode ser captada pelo ouvido humano são chamadas de ondas ultrassônicas. Este termo se aplica a todas as ondas com frequência superior a:",
+        "opcoes": [
+            "A) 20000 ciclos por segundo.",
+            "B) 2 kilociclos por segundo.",
+            "C) 200 kilociclos por segundo.",
+            "D) 2 megaciclos por segundo."
+        ],
+        "resposta": "A",
+        "explicacao": "Acima de 20.000 Hz (20 kHz), o som é classificado como ultrassom.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 74,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "A maioria dos exames por meio de ultrassom é feito na frequência de:",
+        "opcoes": [
+            "A) 1 a 25 megaciclos/s.",
+            "B) 1 a1000quilociclos/s.",
+            "C) 15a 100 megaciclos/s.",
+            "D) 1 a 1000 quilociclos/s."
+        ],
+        "resposta": "A",
+        "explicacao": "A faixa industrial padrão opera entre 1 e 25 MHz.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 75,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "No exame por meio de ultrassom, o uso de acoplante entre o cabeçote e a superfície da peça em exame se faz necessário porque:",
+        "opcoes": [
+            "A) Caso não seja usado, o ar existente na interface entre o cabeçote e a peça impedirá a emissão do som.",
+            "B) O cristal do cabeçote não vibrará se este for colocado diretamente na peça.",
+            "C) O acoplante é necessário para fechar o circuito elétrico do cabeçote.",
+            "D) Serve como lubrificante para minimizar o desgaste do cabeçote."
+        ],
+        "resposta": "A",
+        "explicacao": "O acoplante expulsa a camada de ar bloqueadora de som.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 76,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "Qual das seguintes frequências corresponde o comprimento de onda mais curto?",
+        "opcoes": [
+            "A) 25 megaciclos/s.",
+            "B) 10 megaciclos/s",
+            "C) 5 megaciclos/s.",
+            "D) 1 megaciclo/s."
+        ],
+        "resposta": "A",
+        "explicacao": "A maior frequência (25 MHz) produz o menor comprimento de onda.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 77,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "Indique a frequência que proporciona a melhor penetração numa peça de aço, com granulação grosseira, com espessura de 300 mm:",
+        "opcoes": [
+            "A) 2,25 Megahertz.",
+            "B) 5,0 Megahertz.",
+            "C) 1,0 Megahertz.",
+            "D) 10 megaciclos/s."
+        ],
+        "resposta": "C",
+        "explicacao": "1,0 MHz minimiza perdas por espalhamento em grandes espessuras de granulação grosseira.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 78,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "O material usado entre a face do cabeçote e a superfície em exame para melhorar a transmissão das ondas ultrassônicas é denominado:",
+        "opcoes": [
+            "A) Acoplante.",
+            "B) Transmissor acústico.",
+            "C) Lubrificante.",
+            "D) Agente umedecedor."
+        ],
+        "resposta": "A",
+        "explicacao": "Função do acoplante acústico.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 79,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "O método de exame por meio de ultrassom que emprega dois cabeçotes, trabalhando em superfícies opostas da peça em exame, é denominado:",
+        "opcoes": [
+            "A) Método de exame por transparência.",
+            "B) Exame por meio de ultrassom com ondas superficiais.",
+            "C) Exame por meio de ultrassom com ondas de Lamb.",
+            "D) Exame por contato."
+        ],
+        "resposta": "A",
+        "explicacao": "Transparência emprega superfícies opostas.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 80,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 02",
+        "pergunta": "O número de ondas completas que passam num determinado ponto na unidade de tempo é denominado:",
+        "opcoes": [
+            "A) Frequência do movimento ondulatório.",
+            "B) Duração de um pulso do movimento ondulatório.",
+            "C) Comprimento de onda do movimento ondulatório.",
+            "D) Amplitude do movimento ondulatório."
+        ],
+        "resposta": "A",
+        "explicacao": "Definição de frequência.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 81,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "O método de exame no qual a peça não está em contato com o cabeçote, sendo separada deste por uma camada de água ou por outro líquido de acoplamento é denominado:",
+        "opcoes": [
+            "A) Exame por contato.",
+            "B) Exame com ondas superficiais.",
+            "C) Exame por imersão.",
+            "D) Método de inspeção por transparência."
+        ],
+        "resposta": "C",
+        "explicacao": "Imersão separa o cabeçote da peça por coluna de líquido.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 82,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "Quando o movimento das partículas de um meio ocorre num plano normal ao sentido de propagação das ondas, estas ondas são denominadas:",
+        "opcoes": [
+            "A) Longitudinais.",
+            "B) Superficiais.",
+            "C) De Lamb.",
+            "D) Transversais."
+        ],
+        "resposta": "D",
+        "explicacao": "Vibração perpendicular (normal) à propagação caracteriza as ondas transversais (cisalhantes).",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 83,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "O efeito da variação da voltagem da fonte de energia que alimenta um aparelho para exame por meio de ultrassom pode ser minimizado usando um:",
+        "opcoes": [
+            "A) Purificador.",
+            "B) Regulador de voltagem.",
+            "C) Cabo longo entre o aparelho e o cabeçote.",
+            "D) Colimador."
+        ],
+        "resposta": "B",
+        "explicacao": "Reguladores de tensão estabilizam flutuações da rede elétrica.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 85,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "A execução de exame pelo método do contato direto usando cabeçotes normais não é prática em alguns casos:",
+        "opcoes": [
+            "A) Porque geralmente é limitado a baixas frequências.",
+            "B) Porque é impossível fazer angulação.",
+            "C) Nenhuma destas respostas está correia.",
+            "D) Porque a angulação é impossível e porque é geralmente limitado a baixas frequência."
+        ],
+        "resposta": "C",
+        "explicacao": "Cabeçotes normais por contato são amplamente práticos e usados na rotina, tornando a restrição descrita incorreta.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 86,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "A vantagem que os materiais cerâmicos apresentam quando usados em cabeçotes é que:",
+        "opcoes": [
+            "A) Apresentam muita eficiência em geração de energia ultrassônica.",
+            "B) Possuem impedância mecânica muito baixa.",
+            "C) Podem trabalhar em temperaturas de até 700a C.",
+            "D) Apresentam muita eficiência na recepção de energia ultrassônica."
+        ],
+        "resposta": "A",
+        "explicacao": "Cerâmicas piezoelétricas geram pulsos acústicos altamente eficientes.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 87,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "Durante o exame de uma peça, o operador observou uma queda significativa na altura da indicação correspondente ao eco da parede posterior da peça, sem que aparecesse na tela do aparelho qualquer indicação referente a alguma descontinuidade. Esta condição deve ser causada:",
+        "opcoes": [
+            "A) Por uma descontinuidade que possui inclinação acentuada em relação à superfície da peça por onde é feito o exame.",
+            "B) Por porosidade.",
+            "C) Todas as respostas estão corretas.",
+            "D) Por granulação grosseira."
+        ],
+        "resposta": "A",
+        "explicacao": "Superfícies refletoras inclinadas desviarán o feixe sônico, atenuando ou sumindo com o eco de fundo sem retornar ao transdutor.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 88,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "A resolução na entrada da superfície é a característica de um aparelho para exame por meio de ultrassom que define sua eficiência na:",
+        "opcoes": [
+            "A) Detecção de descontinuidades orientadas numa direção paralela ao feixe de ultrassom.",
+            "B) Detecção de descontinuidades localizadas logo abaixo da superfície em exame.",
+            "C) Detecção de pequenos arranhões superficiais.",
+            "D) Detecção de descontinuidades localizadas no centro de peças forjadas com granulação fina."
+        ],
+        "resposta": "B",
+        "explicacao": "A zona morta e a resolução superficial medem a capacidade de separar o eco de entrada de defeitos subsuperficiais.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 89,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "Um dispositivo que transforma energia de uma forma em outra é denominado:",
+        "opcoes": [
+            "A) Emissor.",
+            "B) Transferidor.",
+            "C) Transdutor.",
+            "D) Transmissor."
+        ],
+        "resposta": "C",
+        "explicacao": "Transdutor.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 90,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "Uma .............. é frequentemente substituída por um documento onde fica registrado permanentemente o que aparece na tela do aparelho de ultrassom:",
+        "opcoes": [
+            "A) Apresentação do tipo \"C-Scan\".",
+            "B) Apresentação do tipo \"D-Scan\".",
+            "C) Nenhuma destas respostas está certa.",
+            "D) Apresentação do tipo \"A-Scan\"."
+        ],
+        "resposta": "D",
+        "explicacao": "A leitura do A-Scan é o padrão tradicional frequentemente fotografado, impresso ou salvo em relatórios de inspeção.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 91,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "No caso de usar dois cabeçotes independentes, um transmissor e outro receptor, os transdutores a serem empregados para obter a maior eficiência seriam :",
+        "opcoes": [
+            "A) Um cristal de quartzo no transmissor e um de titanato de bário no receptor.",
+            "B) Um cristal de sulfato de lítio no transmissor e um de titanato de bário no receptor.",
+            "C) Um cristal de titanato de bário no transmissor e um de sulfato de lítio no receptor.",
+            "D) Um cristal de titanato de bário no transmissor e um de quartzo no receptor."
+        ],
+        "resposta": "C",
+        "explicacao": "Titanato de bário destaca-se como excelente emissor, enquanto o sulfato de lítio é o receptor mais eficiente.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 92,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "Porque a inspeção ultrassônica de materiais fundidos são geralmente difíceis de serem executadas?",
+        "opcoes": [
+            "A) porque geralmente a estrutura do material fundido é grosseira causando atenuação do feixe sônico e ruídos espúrios na tela do aparelho.",
+            "b) porque o inspetor deve utilizar sempre dois ou mais transdutores com frequência diferentes.",
+            "c) porque os defeitos são muito menores que a sensibilidade do ensaio.",
+            "d) porque geralmente requer blocos de calibração muito pesados."
+        ],
+        "resposta": "A",
+        "explicacao": "Granulação grosseira em fundidos dispersa e atenua fortemente o ultrassom.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 93,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "A resistência ao envelhecimento é uma vantagem dos cabeçotes que usam cristais de:",
+        "opcoes": [
+            "A) Sulfato de lítio.",
+            "B) Titanato de bário.",
+            "C) Quartzo.",
+            "D) Sais de rochelle."
+        ],
+        "resposta": "C",
+        "explicacao": "O quartzo possui estabilidade química e física permanente ao longo dos anos (não envelhece).",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 94,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "Um fluxo de curta duração e intenso de energia elétrica alternada é denominado:",
+        "opcoes": [
+            "A) Onda contínua.",
+            "B) Pico de voltagem de corrente contínua.",
+            "C) Onda ultrassônica.",
+            "D) Pulso."
+        ],
+        "resposta": "D",
+        "explicacao": "Pulso elétrico.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 95,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "Um aparelho para teste por meio de ultrassom em cuja tela os pulsos representam a magnitude da energia refletida em função do tempo ou do percurso do som na peça possui:",
+        "opcoes": [
+            "A) Uma tela de onda contínua.",
+            "B) Uma apresentação tipo \"A-Scan\".",
+            "C) Uma apresentação tipo \"C-Scan\".",
+            "D) Uma apresentação tipo \"B-Scan\"."
+        ],
+        "resposta": "B",
+        "explicacao": "O display A-Scan plota amplitude versus tempo/distância.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 96,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "Podem ocorrer erros significativos na medida de espessura por meio de ultrassom se",
+        "opcoes": [
+            "A) A frequência variar numa razão constante.",
+            "B) A água for usada como acoplante entre o cabeçote e a peça em exame.",
+            "C) Nenhuma destas respostas está certa.",
+            "D) For tomado um valor diferente para a velocidade de propagação do ultrassom no material da peça em consideração."
+        ],
+        "resposta": "D",
+        "explicacao": "Como o medidor calcula a espessura com base no tempo de trânsito e na velocidade calibrada, usar uma velocidade incorreta introduz erros severos.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 97,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "Os transdutores geralmente usados em cabeçotes para exame por meio de ultrassom utilizam:",
+        "opcoes": [
+            "A) Princípios piezelétricos.",
+            "B) Princípios de conversão de modo.",
+            "C) Nenhuma das respostas está correia.",
+            "D) Princípios de magnetoestricção."
+        ],
+        "resposta": "A",
+        "explicacao": "Efeito piezelétrico.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 98,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "A propriedade que possuem certos materiais de transformar energia mecânica em energia elétrica, e vice-versa, é denominada:",
+        "opcoes": [
+            "A) Conversão de modo.",
+            "B) Refração.",
+            "C) Impedância oposta.",
+            "D) Efeito piezelétrico."
+        ],
+        "resposta": "D",
+        "explicacao": "Definição de piezeletricidade.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 99,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "A maior dimensão de uma descontinuidade existente num bloco de alumínio é paralela à superfície que foi preparada para seu exame por meio de ultrassom. Se a espessura do bloco for 6 polegadas e a descontinuidade estiver numa profundidade de 3 polegadas, como ela será mais facilmente detectada?",
+        "opcoes": [
+            "A) Usando um cabeçote angular.",
+            "B) Examinando a peça com ondas superficiais.",
+            "C) Examinando a peça com ondas de Lamb.",
+            "D) Usando um cabeçote normal."
+        ],
+        "resposta": "D",
+        "explicacao": "Descontinuidades planas e paralelas à superfície refletem excelente eco perpendicular para cabeçotes normais (longitudinais).",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 100,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "A vantagem proporcionada pelo uso de cristais de sulfato de lítio em cabeçotes é que:",
+        "opcoes": [
+            "A) Este material é um dos mais eficientes receptores de energia ultrassônica.",
+            "B) É insolúvel.",
+            "C) Suporta temperaturas de até 7000 C.",
+            "D) Este material é um dos mais eficientes geradores de energia ultrassônica."
+        ],
+        "resposta": "A",
+        "explicacao": "Sulfato de lítio é excelente receptor.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 101,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "Qual dos materiais piezelétricos relacionados abaixo transforma com maior eficiência os picos de voltagem recebidos em vibrações mecânicas?",
+        "opcoes": [
+            "A) Titanato de bário.",
+            "B) Quartzo.",
+            "C) Óxido de prata.",
+            "D) Sulfato de lítio."
+        ],
+        "resposta": "A",
+        "explicacao": "Titanato de bário destaca-se na transmissão/geração de vibrações.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 102,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "Qual dos materiais piezelétricos relacionados abaixo transforma com maior eficiência as vibrações mecânicas recebidas em picos de tensão?",
+        "opcoes": [
+            "A) Quartzo.",
+            "B) Sulfato de lítio.",
+            "C) Óxido de prata.",
+            "D) Titanato de bário."
+        ],
+        "resposta": "B",
+        "explicacao": "Sulfato de lítio destaca-se na recepção.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 103,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "Numa apresentação tipo \"A-Scan\", a altura das indicações verticais na tela representa:",
+        "opcoes": [
+            "A) A quantidade de energia ultrassônica refletida que retornou ao cabeçote.",
+            "B) A espessura da peça em exame.",
+            "C) O tempo corrido desde a geração do pulso ultrassônico.",
+            "D) A distância percorrida pelo cabeçote."
+        ],
+        "resposta": "A",
+        "explicacao": "Amplitude vertical = intensidade do eco retornado.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 104,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "Numa apresentação tipo \"A-Scan\", a linha de base horizontal representa:",
+        "opcoes": [
+            "A) O tempo decorrido ou distância entre superfícies refletoras.",
+            "B) A distância percorrida pelo cabeçote.",
+            "C) A espessura da peça em exame.",
+            "D) A quantidade de energia ultrassônica refletida."
+        ],
+        "resposta": "A",
+        "explicacao": "Eixo horizontal mede tempo/percurso sônico.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 105,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "Uma característica da propagação da vibração acústica, nos meios líquidos é que:",
+        "opcoes": [
+            "A) somente se propagam as ondas longitudinais.",
+            "B) podem se propagar quaisquer tipos de vibrações mecânicas.",
+            "C) a velocidade de propagação das vibrações são muitas vezes maiores que nos materiais metálicos.",
+            "D) as vibrações mecânicas são fortemente atenuadas."
+        ],
+        "resposta": "A",
+        "explicacao": "Líquidos transmitem apenas ondas longitudinais.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 106,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "A desvantagem do uso de cristais de quartzo em cabeçotes reside no fato de que o quartzo:",
+        "opcoes": [
+            "A) É o material usado para gerar energia ultrassônica, que possui menor eficiência energética.",
+            "B) Apresenta instabilidade elétrica e mecânica.",
+            "C) Perde suas características de operação à medida que envelhece.",
+            "D) Se dissolve na água."
+        ],
+        "resposta": "A",
+        "explicacao": "Baixa eficiência de conversão do quartzo.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 107,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "Indique a frequência do cabeçote que possui o cristal de quartzo de menor espessura.",
+        "opcoes": [
+            "A) 1 megaciclo/s.",
+            "B) 25 megaciclo/s.",
+            "C) 15 megaciclo/s.",
+            "D) 5 megaciclo/s."
+        ],
+        "resposta": "B",
+        "explicacao": "Maior frequência (25 MHz) = menor espessura de cristal.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 108,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "Um aparelho para exame de ultrassom, usando um cabeçote normal, é usado para examinar uma peça que consiste de uma chapa plana. Este exame detectará:",
+        "opcoes": [
+            "A) Defeitos transversais, planos, perpendiculares à superfície da chapa.",
+            "B) Defeitos longitudinais, planos, perpendiculares à superfície da chapa.",
+            "C) Defeitos laminares, planos, paralelos à superfície da chapa.",
+            "D) Nenhum dos defeitos citados nestas respostas."
+        ],
+        "resposta": "C",
+        "explicacao": "Defeitos laminares paralelos.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 109,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "A tela de um aparelho de ultrassom mostrará uma vista em planta da peça em exame e de seus defeitos no caso de ser usada:",
+        "opcoes": [
+            "A) Dispositivo de leitura automática.",
+            "B) Apresentação do tipo \"A-Scan\".",
+            "C) Apresentação do tipo \"C-Scan\".",
+            "D) Apresentação do tipo \"B-Scan\"."
+        ],
+        "resposta": "C",
+        "explicacao": "C-Scan fornece a vista superior (em planta) mapeando defeitos.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 110,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "A maioria dos aparelhos para exame por meio de ultrassom, do tipo pulso-eco, usam:",
+        "opcoes": [
+            "A) Dispositivo de leitura automática.",
+            "B) Apresentação do tipo \"A-Scan\".",
+            "C) Apresentação do tipo \"C-Scan\".",
+            "D) Apresentação do tipo \"B-Scan\"."
+        ],
+        "resposta": "B",
+        "explicacao": "A-Scan é o display padrão em aparelhos pulso-eco convencionais.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 111,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "Num aparelho para exame por meio de ultrassom, o número de pulsos produzidos num dado período de tempo é denominado:",
+        "opcoes": [
+            "A) Freqüência de repetição de pulso do aparelho.",
+            "B) Tempo de recuperação do pulso do aparelho.",
+            "C) Freqüência do aparelho.",
+            "D) Comprimento do pulso do aparelho."
+        ],
+        "resposta": "A",
+        "explicacao": "PRF (Pulse Repetition Frequency) ou frequência de repetição de pulsos.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 112,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "Após varrer uma peça com um cabeçote de tamanho grande, geralmente é necessário usar um............ para avaliar e localizar precisamente as descontinuidades.",
+        "opcoes": [
+            "A) Purificador.",
+            "B) Cabeçote de cristal pequeno.",
+            "C) Colimador da peça.",
+            "D) Mapa da peça."
+        ],
+        "resposta": "B",
+        "explicacao": "Transdutores menores oferecem melhor definição lateral para dimensionamento preciso.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 113,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "Transdutores que contém dois cristais individuais são frequentemente referidos aos do tipo:",
+        "opcoes": [
+            "A) transdutores duplo-cristal.",
+            "B) transdutores SE.",
+            "C) transdutores de duplos elementos.",
+            "D) as alternativas (a) e (b) são corretas."
+        ],
+        "resposta": "D",
+        "explicacao": "Conhecidos como duplo-cristal ou SE (Sender-Empfänger / Emissor-Receptor).",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 114,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "A frequência fundamental de um cristal de quartzo é principalmente função:",
+        "opcoes": [
+            "A) Do comprimento do pulso de voltagem aplicado.",
+            "B) Da característica de amplificação do amplificador de pulso do aparelho.",
+            "C) Da espessura do cristal de quartzo.",
+            "D) Nenhuma das respostas está certa."
+        ],
+        "resposta": "C",
+        "explicacao": "Espessura do cristal determina sua frequência natural.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 115,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "A indicação na tela do osciloscópio que representa a superfície oposta àquela em que se apoia o cabeçote na peça é denominada:",
+        "opcoes": [
+            "A) Pico.",
+            "B) Eco de fundo.",
+            "C) Eco principal.",
+            "D) Pulso inicial."
+        ],
+        "resposta": "B",
+        "explicacao": "Eco de fundo (back wall echo).",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 116,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "No exame por Imersão, a posição do cabeçote é frequentemente variada para transmitir o som para a superfície da peça em exame de modo que incida nesta em vários ângulos. Este procedimento é denominado:",
+        "opcoes": [
+            "A) Dispersão.",
+            "B) Teste de reflexão.",
+            "C) Refração.",
+            "D) Angulação."
+        ],
+        "resposta": "D",
+        "explicacao": "Angulação no tanque de imersão.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 117,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "O processo para comparar um instrumento ou dispositivo com um padrão é denominado:",
+        "opcoes": [
+            "A) Angulação.",
+            "B) Atenuação.",
+            "C) Calibração.",
+            "D) Correlação."
+        ],
+        "resposta": "C",
+        "explicacao": "Calibração.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 118,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "Uma onda mecânica produzida por um transdutor ultrassônico com frequência de 4 MHz, se propagando no aço (v=6000 m/s), terá um comprimento de onda de:",
+        "opcoes": [
+            "A) 2 mm.",
+            "B) 1,5 mm.",
+            "C) 4 mm.",
+            "D) 3 mm."
+        ],
+        "resposta": "B",
+        "explicacao": "Cálculo: $\\lambda = V / f = 6000 \\text{ m/s} / 4.000.000 \\text{ Hz} = 0,0015 \\text{ m} = 1,5 \\text{ mm}.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 119,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "A inclinação da superfície refletora de uma descontinuidade com relação à superfície da peça por onde é feito o exame é denominada:",
+        "opcoes": [
+            "A) Ângulo de incidência.",
+            "B) Ângulo de refração.",
+            "C) A orientação da descontinuidade.",
+            "D) Nenhuma das respostas está correia."
+        ],
+        "resposta": "C",
+        "explicacao": "Orientação espacial do defeito.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 120,
+        "categoria": "MEDICAÇÃO DE ESPESSURA - PROVA 03",
+        "pergunta": "No exame por contato, a indicação correspondente a superfície em que o cabeçote se apoia é frequentemente denominada:",
+        "opcoes": [
+            "A) Ruído.",
+            "B) Ganho.",
+            "C) Pico inicial.",
+            "D) Nenhuma das respostas está correia."
+        ],
+        "resposta": "C",
+        "explicacao": "Pico inicial (pulso de emissão ou main bang).",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 121,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Indique a frequência que provavelmente proporciona a melhor penetração num bloco de aço de 30 mm de espessura que possui granulação grosseira.",
+        "opcoes": [
+            "A) 10,0 megahertz.",
+            "B) 1,0 megahertz.",
+            "C) 2,5 megahertz.",
+            "D) 5,0 megahertz."
+        ],
+        "resposta": "B",
+        "explicacao": "Em materiais com granulação grosseira, frequências mais baixas (como 1,0 MHz) sofrem menor atenuação e espalhamento sônico, garantindo a melhor penetração.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 122,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Durante um exame pelo método de imersão, de um bloco padrão para ultra-som, o sistema de apresentação tipo “B-Scan” mostrará:",
+        "opcoes": [
+            "A) A vista em planta do bloco, indicando a área e a posição do fundo do furo, como se fosse visto a partir da superfície onde incide o feixe.",
+            "B) O que é normal neste tipo de exame, notando-se a altura da indicação do fundo do furo e sua localização em profundidade, a partir da superfície onde incide o feixe.",
+            "C) A seção transversal do bloco de referência, indicando a superfície onde incide o feixe e a superfície posterior do bloco e a localização do fundo do furo existente no bloco.",
+            "D) Nenhuma das respostas está correta."
+        ],
+        "resposta": "C",
+        "explicacao": "O display tipo B-Scan fornece uma seção transversal (perfil bidimensional) mostrando a profundidade e a extensão dos refletores ao longo da linha de varredura.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 123,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Entre as propriedades das ondas transversais usadas em exame por meio de ultra-som, temos:",
+        "opcoes": [
+            "A) As partículas se movem normalmente à direção de propagação, e a velocidade de propagação é aproximadamente a metade da velocidade de propagação das ondas longitudinais.",
+            "B) A alta eficiência do acoplamento, porque as ondas transversais são menos sensíveis às irregularidades da superfície quando são transmitidas do acoplante para a peça em exame.",
+            "C) A sensibilidade excepcionalmente alta devido a baixa atenuação resultante de que seu comprimento de onda é maior quando se propaga na água.",
+            "D) Nenhuma das respostas se aplica às ondas transversais."
+        ],
+        "resposta": "A",
+        "explicacao": "Nas ondas transversais (cisalhantes), o movimento das partículas é normal (perpendicular) à direção de propagação, e sua velocidade nos metais é tipicamente cerca de metade da velocidade das ondas longitudinais.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 124,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Uma das aplicações mais comuns dos exames por meio de ultra-som empregando ondas transversais é a:",
+        "opcoes": [
+            "A) Determinação das propriedades elásticas de materiais metálicos.",
+            "B) Detecção de descontinuidades laminares em chapas grossas.",
+            "C) Medição de espessuras de chapas finas.",
+            "D) Detecção de descontinuidades em soldas."
+        ],
+        "resposta": "D",
+        "explicacao": "O uso de ondas transversais (geralmente geradas por cabeçotes angulares) é o método padrão para a inspeção de soldas estruturais.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 125,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Podem ocorrer erros significativos na medida de espessuras por meio de ultra-som se:",
+        "opcoes": [
+            "A) A frequência variar numa razão constante.",
+            "B) A água for usada como acoplante entre o cabeçote e a peça em exame.",
+            "C) For tomado um valor diferente para a velocidade de propagação do som no material da peça em consideração.",
+            "D) Nenhuma das respostas está certa."
+        ],
+        "resposta": "C",
+        "explicacao": "O cálculo da espessura baseia-se diretamente na velocidade sônica do material calibrado; se o valor inserido estiver incorreto, a leitura da espessura sairá errada.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 126,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Geralmente o melhor método de exame por meio de ultra-som para detectar descontinuidades orientadas ao longo da zona de fusão numa chapa soldada é:",
+        "opcoes": [
+            "A) Exame com feixe angular empregando ondas transversais.",
+            "B) Exame por imersão empregando ondas superficiais.",
+            "C) Exame por contato com feixe normal, empregando ondas longitudinais.",
+            "D) Exame por contato com feixe angular, empregando ondas superficiais."
+        ],
+        "resposta": "A",
+        "explicacao": "O feixe angular com ondas transversais direciona a energia de forma ótima para interceptar trincas de fusão alinhadas verticalmente ou obliquamente na solda.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 127,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Um instrumento que opera pelo princípio da ressonância pode ser usado para medir a espessura de peças metálicas, e emprega ondas:",
+        "opcoes": [
+            "A) Superficiais.",
+            "B) Transversais.",
+            "C) De Lamb.",
+            "D) Longitudinais."
+        ],
+        "resposta": "D",
+        "explicacao": "Medidores de espessura por ressonância utilizam ondas longitudinais que geram ondas estacionárias transversais à espessura da parede.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 128,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Um aparelho para teste por meio de ultra-som em cuja tela os pulsos representam a magnitude da energia refletida em função do tempo ou do percurso do som na peça, possui:",
+        "opcoes": [
+            "A) Uma tela de onda contínua.",
+            "B) Uma representação tipo “A-SCAN”.",
+            "C) Uma representação tipo “B-SCAN”.",
+            "D) Uma representação tipo “C-SCAN”."
+        ],
+        "resposta": "B",
+        "explicacao": "O display tipo A-Scan plota a amplitude do eco (eixo vertical) em função do tempo de percurso (eixo horizontal).",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 129,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Um outro nome para o exame de ressonância é:",
+        "opcoes": [
+            "A) Exame por meio de transparência.",
+            "B) Exame por meio de pulso-eco.",
+            "C) Exame por meio de onda contínua.",
+            "D) Exame por meio de ondas superficiais."
+        ],
+        "resposta": "C",
+        "explicacao": "A técnica de ressonância historicamente baseia-se na variação contínua de frequência de onda contínua para estabelecer as ressonâncias.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 130,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Numa interface entre água e aço, o ângulo de incidência na água é de 7 graus, o modo de vibração principal que existe no aço é:",
+        "opcoes": [
+            "A) Longitudinal.",
+            "B) Transversal.",
+            "C) Ondas superficiais.",
+            "D) Longitudinal e transversal."
+        ],
+        "resposta": "D",
+        "explicacao": "A incidência obliqua em interfaces sólidas gera simultaneamente conversão de modo, propagando tanto ondas longitudinais quanto transversais refratadas no aço.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 131,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Num líquido, o único modo de vibração que pode existir é:",
+        "opcoes": [
+            "A) Longitudinal.",
+            "B) Transversal.",
+            "C) Ondas superficiais.",
+            "D) Longitudinal e transversal."
+        ],
+        "resposta": "A",
+        "explicacao": "Fluidos não possuem resistência ao cisalhamento, permitindo apenas a propagação de ondas longitudinais (compressionais).",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 132,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Num aparelho para exame por meio de ultra-som, o número de pulsos produzidos num dado período de tempo é denominado:",
+        "opcoes": [
+            "A) Frequência do aparelho.",
+            "B) Frequência de repetição de pulso do aparelho.",
+            "C) Tempo de recuperação do pulso do aparelho.",
+            "D) Comprimento do pulso do aparelho."
+        ],
+        "resposta": "B",
+        "explicacao": "A taxa ou frequência de repetição de pulsos (PRF) define quantos pulsos elétricos o gerador dispara por segundo.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 133,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Num aparelho para exame por meio de ultra-som, do tipo pulso-eco, o componente que coordena as ações dos demais componentes e o tempo é denominado:",
+        "opcoes": [
+            "A) Tubo de raios catódicos.",
+            "B) Sincronizador, relógio ou temporizador.",
+            "C) Receptor.",
+            "D) Circuito marcador."
+        ],
+        "resposta": "B",
+        "explicacao": "O sincronizador (clock/timer) comanda a base de tempo e o disparo coordenado do pulso e da varredura.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 134,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Num aparelho para exame por meio de ultra-som, do tipo pulso-eco, o componente que produz a voltagem que ativa o cabeçote é denominado:",
+        "opcoes": [
+            "A) Amplificador.",
+            "B) Receptor.",
+            "C) Sincronizador.",
+            "D) Pulsador."
+        ],
+        "resposta": "D",
+        "explicacao": "O pulsador (pulser) fornece o pico de alta voltagem que excita o cristal piezoelétrico.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 135,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Um feixe de ondas ulrassônicas longitudinais, deslocando-se na água, incide de forma inclinada na superfície de uma peça metálica. O ângulo de refração do feixe no metal será função:",
+        "opcoes": [
+            "A) Das velocidades relativas do som na água e no metal.",
+            "B) Da relação entre as densidades da água e do metal.",
+            "C) Da frequência das ondas ultrassônicas.",
+            "D) Da relação das impedâncias acústicas da água e do metal."
+        ],
+        "resposta": "A",
+        "explicacao": "Conforme a Lei de Snell, o ângulo refratado depende diretamente da razão entre as velocidades de propagação nos dois meios.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 136,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Num aparelho para exame por meio de ultra-som, do tipo pulso-eco, o componente que produz os sinais que aparecem na tela, e que são usados para medir distâncias, é denominado:",
+        "opcoes": [
+            "A) Circuito de varredura.",
+            "B) Circuito receptor.",
+            "C) Circuito marcador ou de tempo.",
+            "D) Sincronizador."
+        ],
+        "resposta": "C",
+        "explicacao": "O circuito marcador (time-base/marker) gera as divisões e escalas calibradas para a leitura precisa das distâncias.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 137,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "A maioria dos aparelhos para exame por meio de ultra-som, do tipo pulso-eco, usa:",
+        "opcoes": [
+            "A) Apresentação “A-SCAN”.",
+            "B) Apresentação “B-SCAN”.",
+            "C) Apresentação “C-SCAN”.",
+            "D) Dispositivos de leitura automática."
+        ],
+        "resposta": "A",
+        "explicacao": "O mostrador padrão universal para falhas e medições manuais é o A-Scan.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 138,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "A tela de um aparelho de ultra-som mostrará uma vista plana da peça em exame e de seus defeitos no caso de ser usado:",
+        "opcoes": [
+            "A) Dispositivo de leitura automática.",
+            "B) Apresentação “C-SCAN”.",
+            "C) Apresentação “B-SCAN”.",
+            "D) Apresentação “A-SCAN”."
+        ],
+        "resposta": "B",
+        "explicacao": "O C-Scan projeta o mapa superior (vista em planta) da peça e descontinuidades.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 139,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "O ângulo de incidência que corresponde a um ângulo de refração de 90 graus é denominado:",
+        "opcoes": [
+            "A) Ângulo de reflexão mínima.",
+            "B) Ângulo de reflexão máxima.",
+            "C) Ãngulo crítico.",
+            "D) Nenhuma das respostas está correta."
+        ],
+        "resposta": "C",
+        "explicacao": "O primeiro ângulo crítico ocorre quando a onda refratada longitudinal atinge 90° propagando-se tangencialmente à superfície.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 140,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "No exame por imersão de um bloco de alumínio, onde o líquido usado como acoplante é água, o ângulo crítico de incidência para ondas longitudinais é de aproximadamente:",
+        "opcoes": [
+            "A) 8 graus.",
+            "B) 26 graus.",
+            "C) 32 graus.",
+            "D) 14 graus."
+        ],
+        "resposta": "D",
+        "explicacao": "Calculado pelas velocidades da água (~1480 m/s) e do alumínio longitudinal (~6320 m/s), o primeiro ângulo crítico fica em torno de 14°.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 141,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Ondas de compressão-rarefação, que fazem com que as partículas se desloquem paralelamente a sua direção de propagação, são denominadas:",
+        "opcoes": [
+            "A) Ondas de Rayleigh.",
+            "B) Ondas de Lamb.",
+            "C) Ondas longitudinais.",
+            "D) Ondas de corte."
+        ],
+        "resposta": "C",
+        "explicacao": "Movimento paralelo à propagação define ondas longitudinais (compressionais).",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 142,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Indique o modo de vibração que é amortecido mais rapidamente quando o exame é feito pelo método de imersão:",
+        "opcoes": [
+            "A) Ondas de corte.",
+            "B) Ondas superficiais.",
+            "C) Ondas longitudinais.",
+            "D) Ondas transversais."
+        ],
+        "resposta": "B",
+        "explicacao": "Ondas superficiais são fortemente amortecidas e dissipadas ao entrarem em contato direto com o líquido acoplante na imersão.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 143,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Como se movimenta um conjunto de partículas quando estimulado por ondas transversais?",
+        "opcoes": [
+            "A) Transversal à direção de propagação do feixe ultrassônico.",
+            "B) O movimento é polarizado num plano a 45 graus com a direção de propagação do feixe.",
+            "C) O movimento é limitado à superfície do material e a trajetória é elíptica.",
+            "D) Paralela à direção de propagação do feixe ultrassônico."
+        ],
+        "resposta": "A",
+        "explicacao": "Vibração puramente transversal (perpendicular) à direção de avanço da onda.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 144,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Uma onda ultrassônica longitudinal se desloca numa peça de alumínio com a velocidade de 635.000 cm/s e tem a frequência de 1 megaciclo. O comprimento de onda é de:",
+        "opcoes": [
+            "A) 6,35 pés.",
+            "B) 3,10 polegadas.",
+            "C) 30.000 angstroms.",
+            "D) 6,35 milímetros."
+        ],
+        "resposta": "D",
+        "explicacao": "Conversão: $V = 6.350.000 \\text{ mm/s}$, $f = 1.000.000 \\text{ Hz}$. $\\lambda = 6.350.000 / 1.000.000 = 6,35 \\text{ mm}$.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 145,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Num aparelho de ultra-som do tipo pulso-eco, o componente que produz a temporização é denominado:",
+        "opcoes": [
+            "A) Receptor.",
+            "B) Pulsador.",
+            "C) Sincronizador.",
+            "D) Circuito de varredura."
+        ],
+        "resposta": "C",
+        "explicacao": "Sincronizador (temporizador).",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 146,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "No exame por contato, as ondas de corte podem ser introduzidas no metal:",
+        "opcoes": [
+            "A) Colocando um cristal de quartzo cortado na forma X, diretamente na superfície da peça e usando óleo como acoplante.",
+            "B) Usando dois transdutores opostos, um na superfície por onde são introduzidos os sinais e outro na superfície oposta.",
+            "C) Usando um cabeçote angular, com o transdutor montado numa cunha de plástico, de forma que a direção do som seja inclinada em relação à superfície.",
+            "D) Colocando lentes acústicas esféricas na face do transdutor."
+        ],
+        "resposta": "C",
+        "explicacao": "Uso de cunha plástica em cabeçote angular (conversão de modo na interface).",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 147,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "À medida que a frequência aumenta no teste ultrassônico, o ângulo da divergência do feixe de ondas produzido por um cristal:",
+        "opcoes": [
+            "A) Diminui.",
+            "B) Aumenta.",
+            "C) Permanece inalterado.",
+            "D) Varia uniformemente através de cada comprimento de onda."
+        ],
+        "resposta": "A",
+        "explicacao": "Como a divergência é proporcional ao comprimento de onda e inversamente proporcional ao diâmetro ($sin(\\alpha) \\propto \\lambda / D$), ao aumentar a frequência o comprimento de onda diminui, estreitando (diminuindo) o feixe.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 148,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Quando se usam cabeçotes apoiados em sapatas plásticas, há uma desvantagem no que se refere:",
+        "opcoes": [
+            "A) Ao desgaste do cristal.",
+            "B) À sensibilidade.",
+            "C) À capacidade de adaptação às superfícies curvas.",
+            "D) À facilidade com que o som é transmitido para a peça em exame."
+        ],
+        "resposta": "B",
+        "explicacao": "Sapatas rígidas introduzem perdas por conversão e reflexão, reduzindo ligeiramente a sensibilidade se comparado ao contato direto puro.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 149,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Em qual dos materiais relacionados abaixo a velocidade do som é menor?",
+        "opcoes": [
+            "A) Ar.",
+            "B) Água.",
+            "C) Aço.",
+            "D) Alumínio."
+        ],
+        "resposta": "A",
+        "explicacao": "Gases como o ar possuem menor elasticidade e densidade relativa no estado gasoso, resultando na menor velocidade acústica (~343 m/s).",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 150,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Um feixe de ondas ultrassônicas longitudinais é transmitido da água para o aço num ângulo que faz 5 graus com a normal à interface. Neste caso, o ângulo refratado da onda transversal:",
+        "opcoes": [
+            "A) Nem sempre existe.",
+            "B) É menor que o ângulo refratado da onda longitudinal.",
+            "C) É maior que o ângulo refratado da onda longitudinal.",
+            "D) É igual ao ângulo refratado da onda longitudinal."
+        ],
+        "resposta": "B",
+        "explicacao": "Como a velocidade da onda transversal no aço (~3230 m/s) é menor que a longitudinal (~5900 m/s), o seno do ângulo transversal será menor pela Lei de Snell.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 151,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Em qual dos materiais selecionados abaixo, a velocidade do som é maior?",
+        "opcoes": [
+            "A) Água.",
+            "B) Ar.",
+            "C) Alumínio.",
+            "D) Aço inoxidável."
+        ],
+        "resposta": "C",
+        "explicacao": "O alumínio apresenta alta velocidade sônica longitudinal (~6320 m/s), superando o aço inox (~5790 m/s) e fluidos.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 152,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Um cristal de quartzo usado num cabeçote normal de ondas longitudinais de 10 megaciclos tem uma espessura de aproximadamente:",
+        "opcoes": [
+            "A) 0,500 polegada.",
+            "B) 0,050 polegada.",
+            "C) A espessura é variável e depende da estrutura cristalina.",
+            "D) 0,012 polegada."
+        ],
+        "resposta": "D",
+        "explicacao": "Para o quartzo cortado em X, a constante de frequência é de cerca de 2,86 MHz·mm. Dividindo por 10 MHz, obtemos ~0,286 mm, o que equivale a aproximadamente 0,0112 a 0,012 polegadas.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 153,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "A espessura de uma folha de alumínio é de 1 cm e a velocidade de uma onda longitudinal no alumínio é de 6,35 * 10^5 cm/s. A frequência fundamental de ressonância ultrassônica é de aproximadamente:",
+        "opcoes": [
+            "A) 640.000 ciclos por segundo.",
+            "B) 320.000 ciclos por segundo.",
+            "C) 430.000 ciclos por segundo.",
+            "D) 860.000 ciclos por segundo."
+        ],
+        "resposta": "B",
+        "explicacao": "Para ressonância fundamental na espessura $t = \\lambda / 2$, temos $f = V / (2t) = 635.000 / (2 \\times 1) = 317.500 \\approx 320.000 \\text{ Hz}$.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 154,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Um exame por meio de ressonância ultrassônica é usado para determinar:",
+        "opcoes": [
+            "A) A espessura de uma peça na forma de cunha com um ângulo de 12 graus ou mais.",
+            "B) A profundidade da camada endurecida de uma peça.",
+            "C) Se houve redução de espessura devido a corrosão.",
+            "D) Nenhuma das respostas está certa."
+        ],
+        "resposta": "C",
+        "explicacao": "Medidores de espessura por ressonância ou pulso-eco são largamente aplicados para monitorar perdas de parede decorrentes de corrosão e erosão.",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 155,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Transdutores ultrassônicos são geralmente feitos de material piezoelétrico. Indique qual dos materiais relacionados abaixo não apresenta, em nenhuma circunstância, propriedades piezoelétricas:",
+        "opcoes": [
+            "A) Sulfato de lítio monohidratado.",
+            "B) Quartzo.",
+            "C) Titanato de bário.",
+            "D) Níquel-A."
+        ],
+        "resposta": "D",
+        "explicacao": "O níquel é um material ferromagnético utilizado em transdutores baseados em magnetoestricção, não possuindo piezeletricidade.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 156,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "No aço, a velocidade do som é maior em qual dos seguintes modos de vibração?",
+        "opcoes": [
+            "A) Longitudinal.",
+            "B) De corte.",
+            "C) Onda superficial.",
+            "D) A velocidade do som é a mesma em todos os modos de vibração, num dado material."
+        ],
+        "resposta": "A",
+        "explicacao": "Ondas longitudinais são as mais rápidas nos metais.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 157,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "A impedância acústica é:",
+        "opcoes": [
+            "A) Usada para calcular o ângulo de reflexão.",
+            "B) Determinada pela Lei de Snell.",
+            "C) O produto da densidade de um material pela velocidade do som neste material.",
+            "D) Usada para determinar valores de ressonância."
+        ],
+        "resposta": "C",
+        "explicacao": "Definição de impedância acústica ($Z = \\rho \\cdot V$).",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 158,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Chapas finas podem ser inspecionadas com o feixe de ondas ultrassônicas dirigido perpendicularmente à superfície da chapa, observando-se:",
+        "opcoes": [
+            "A) As reflexões múltiplas que aparecem na tela.",
+            "B) As reflexões da superfície da chapa por onde é feito o exame.",
+            "C) A amplitude da indicação da superfície da chapa por onde é feito o exame.",
+            "D) Nenhuma das respostas está correta."
+        ],
+        "resposta": "A",
+        "explicacao": "Em chapas muito finas, os ecos múltiplos ajudam a identificar descontinuidades laminares ou variações de espessura.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 159,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Um diagrama, no qual todas as partes de um circuito são mostradas em figuras geométricas indiferentes, e o percurso do sinal, ou da energia, por linhas e/ou flechas, é denominado:",
+        "opcoes": [
+            "A) Diagrama esquemático.",
+            "B) Diagrama impresso.",
+            "C) Diagrama de blocos.",
+            "D) Nenhuma das respostas está correta."
+        ],
+        "resposta": "C",
+        "explicacao": "Diagrama de blocos representa blocos funcionais e fluxos de sinal.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 160,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Durante a solidificação de uma peça metálica fundida, uma certa quantidade de gás foi envolvida pelo metal, ficando retido em seu interior, o que deu origem a um vazio que é denominado:",
+        "opcoes": [
+            "A) Bolhas de gás.",
+            "B) Gotas frias.",
+            "C) Rechupe.",
+            "D) Escamas."
+        ],
+        "resposta": "A",
+        "explicacao": "Gases aprisionados geram poros ou bolhas de gás na fundição.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 161,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "A descontinuidade que ocorre em peças fundidas e que pode ser causada por respingos, vazamento interrompido, ou na região onde se juntam volumes de metal líquido vindo de alimentadores diferentes é denominada:",
+        "opcoes": [
+            "A) Rechupe.",
+            "B) Escamas.",
+            "C) Bolhas de gás.",
+            "D) Gotas frias."
+        ],
+        "resposta": "D",
+        "explicacao": "Gotas frias e juntas frias ocorrem quando fluxos de metal líquido se encontram sem fundir perfeitamente.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 162,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "A tensão mais alta que pode ser submetida uma peça, sem que se observe deformação permanente após seu desaparecimento, é denominada:",
+        "opcoes": [
+            "A) Limite elástico do material da peça.",
+            "B) Módulo de Young do material.",
+            "C) Meio elástico do material da peça.",
+            "D) Coeficiente de Poisson do material da peça."
+        ],
+        "resposta": "A",
+        "explicacao": "Limite elástico (ou limite de escoamento elástico).",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 163,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "A relação entre as velocidades de propagação do som em dois materiais é denominada:",
+        "opcoes": [
+            "A) Módulo de Young.",
+            "B) Índice de refração.",
+            "C) Relação de Poisson.",
+            "D) Impedância acústica da interface."
+        ],
+        "resposta": "B",
+        "explicacao": "Analogamente à ótica, a razão entre velocidades nas interfaces acústicas define o índice de refração.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 164,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "A expansão e a contração de um material magnético, sob a ação de um campo magnético variável, é denominada:",
+        "opcoes": [
+            "A) Refração.",
+            "B) Piezoeletricidade.",
+            "C) Magnetoestricção.",
+            "D) Rarefação."
+        ],
+        "resposta": "C",
+        "explicacao": "Magnetoestricção é a propriedade de materiais ferromagnéticos mudarem de dimensões sob campos magnéticos.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 165,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "A relação entre a tensão e a deformação num material, dentro do limite elástico, é denominada:",
+        "opcoes": [
+            "A) Alongamento.",
+            "B) Tensão elástica.",
+            "C) Índice de refração.",
+            "D) Coeficiente de elasticidade."
+        ],
+        "resposta": "D",
+        "explicacao": "Módulo de elasticidade ou coeficiente de elasticidade.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 166,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "O fator que determina a quantidade de energia refletida na interface de dois materiais dissimilares é:",
+        "opcoes": [
+            "A) O índice de refração.",
+            "B) A frequência das ondas ultrassônicas.",
+            "C) A impedância acústica específica.",
+            "D) O módulo de Young."
+        ],
+        "resposta": "C",
+        "explicacao": "O coeficiente de reflexão de energia é ditado exclusivamente pela diferença entre as impedâncias acústicas dos dois meios.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 167,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Um cristal de quartzo, cutaneamente cortado de modo que suas faces maiores sejam paralelas aos eixos dos Y e Z, e perpendiculares ao eixo dos X, é denominado:",
+        "opcoes": [
+            "A) Um cristal de corte em Z.",
+            "B) Um cristal de corte em X.",
+            "C) Um cristal de corte em Y.",
+            "D) Um cristal de corte em XY."
+        ],
+        "resposta": "B",
+        "explicacao": "O corte X do quartzo possui normal paralela ao eixo elétrico X.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 168,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "A equação que descreve o comprimento da onda em termos da velocidade e frequência é:",
+        "opcoes": [
+            "A) Comprimento de onda igual velocidade / frequência.",
+            "B) Comprimento de onda igual frequência + velocidade.",
+            "C) Comprimento de onda igual velocidade X frequência.",
+            "D) Comprimento de onda igual Z X velocidade X frequência."
+        ],
+        "resposta": "A",
+        "explicacao": "$\\lambda = V / f$.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 169,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "O que ocorre quando um feixe de ondas ultrassônicas atinge a superfície de dois materiais dissimilares?",
+        "opcoes": [
+            "A) Reflexão.",
+            "B) Refração.",
+            "C) Conversão de modo.",
+            "D) Reflexão, refração e conversão de modo."
+        ],
+        "resposta": "D",
+        "explicacao": "O fenômeno geral na interface inclui simultaneamente reflexão, refração e conversão parcial de modos (longitudinal $\\leftrightarrow$ transversal).",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 170,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Um bloco de alumínio é examinado pelo método de imersão, usando-se água como acoplante. Sabendo-se que a velocidade do som na água é de 1,49 * 10^5 cm/s e que o ângulo de incidência é de 5 graus, indique o ângulo de refração para ondas longitudinais:",
+        "opcoes": [
+            "A) 18 graus.",
+            "B) 26 graus.",
+            "C) 16 graus.",
+            "D) 22 graus."
+        ],
+        "resposta": "D",
+        "explicacao": "Aplicando Snell com $V_{\\text{agua}} = 1490 \\text{ m/s}$, $V_{\\text{aluminio}} = 6320 \\text{ m/s}$ e $\\sin(5^\\circ) \\approx 0,0872$: $\\sin(\\theta_r) = (6320 / 1490) \\times 0,0872 \\approx 0,37$, donde $\\theta_r \\approx 21,7^\\circ \\approx 22^\\circ$.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 171,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "A propagação de ondas superficiais numa peça imersa em água é limitada aproximadamente a:",
+        "opcoes": [
+            "A) 250 mm.",
+            "B) 500 mm.",
+            "C) 25 mm.",
+            "D) 1.250 mm."
+        ],
+        "resposta": "C",
+        "explicacao": "Ondas superficiais em meio líquido sofrem forte atenuação e amortecimento rápido (geralmente restritas a distâncias curtas próximas de 25 mm ou menos dependendo da frequência).",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 172,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Qual dos materiais piezoelétricos relacionados abaixo, transforma com maior eficiência os picos de voltagem recebidos em vibrações mecânicas?",
+        "opcoes": [
+            "A) Titanato de bário.",
+            "B) Óxido de prata.",
+            "C) Quartzo.",
+            "D) Sulfato de lítio."
+        ],
+        "resposta": "A",
+        "explicacao": "Titanato de bário é altamente eficiente na geração/transmissão.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 173,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Qual dos materiais piezoelétricos relacionados abaixo, transforma com maior eficiência as vibrações mecânicas recebidas em picos de voltagem?",
+        "opcoes": [
+            "A) Quartzo.",
+            "B) Sulfato de lítio.",
+            "C) Titanato de bário.",
+            "D) Óxido de prata."
+        ],
+        "resposta": "B",
+        "explicacao": "Sulfato de lítio destaca-se como receptor excelente.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 174,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "O método geralmente empregado para produzir ondas de corte numa peça que é submetida a exame por meio de ultra-som, pelo método de imersão, consiste em:",
+        "opcoes": [
+            "A) Inclinar o cabeçote num ângulo adequado.",
+            "B) Utilizar um cristal de quartzo cortado em Y.",
+            "C) Utilizar dois cristais vibrando em frequências diferentes.",
+            "D) Transmitir ondas longitudinais normalmente à superfície da peça."
+        ],
+        "resposta": "A",
+        "explicacao": "Na imersão, inclina-se o cabeçote até atingir o segundo ângulo crítico para excitar ondas transversais puras no metal.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 175,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "A medida da espessura pelo método da ressonância ultrassônica é possível porque a velocidade de propagação do som num dado material pode ser considerada constante e porque:",
+        "opcoes": [
+            "A) Uma perda significativa de energia ultrassônica ocorre quando a espessura do material é menor do que a quarta parte do comprimento de onda utilizado.",
+            "B) O retorno da energia ultrassônica ocorre quando a espessura da peça é igual à metade do comprimento de onda utilizado.",
+            "C) A conversão de modo origina ondas de corte quando a espessura do material é igual ao comprimento de onda utilizado.",
+            "D) Nenhuma das respostas está correta."
+        ],
+        "resposta": "B",
+        "explicacao": "A ressonância estacionária ocorre quando a espessura corresponde a múltiplos inteiros de $\\lambda / 2$.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 176,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "A tela do tubo de raios catódicos de um aparelho usado para a medida de espessura por ressonância também pode apresentar:",
+        "opcoes": [
+            "A) Indicações resultantes de reflexão de ondas ultrassônicas por descontinuidades como função do tempo e da distância que o som percorreu no metal.",
+            "B) Indicações representando as condições de ressonância quando o exame é feito numa frequência fixa.",
+            "C) Indicações representando as condições de ressonância que ocorrem em função de frequências que variam continuamente.",
+            "D) Nenhuma destas respostas está correta."
+        ],
+        "resposta": "C",
+        "explicacao": "Medidores tradicionais por ressonância exibem picos associados à varredura contínua de frequências.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 177,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "A divergência do feixe é função das dimensões de um cristal e do comprimento de onda do feixe transmitido através de um meio, e:",
+        "opcoes": [
+            "A) Diminui se a frequência ou o diâmetro do cristal diminuem.",
+            "B) Aumenta se a frequência aumenta e se o diâmetro do cristal diminui.",
+            "C) Diminui se a frequência aumenta e se o diâmetro do cristal diminui.",
+            "D) Aumenta se a frequência ou o diâmetro do cristal diminuem."
+        ],
+        "resposta": "D",
+        "explicacao": "A divergência aumenta quando o diâmetro do cristal diminui ou quando a frequência diminui (aumentando o comprimento de onda).",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 178,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "O comprimento de uma onda ultrassônica é:",
+        "opcoes": [
+            "A) Diretamente proporcional à velocidade e a frequência.",
+            "B) Diretamente proporcional à velocidade e inversamente proporcional a frequência.",
+            "C) Inversamente proporcional à velocidade e diretamente proporcional a frequência.",
+            "D) Igual ao produto da velocidade pela frequência."
+        ],
+        "resposta": "B",
+        "explicacao": "$\\lambda = V / f$ (diretamente proporcional à velocidade e inversamente proporcional à frequência).",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 179,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "A frequência fundamental de um cristal de quartzo é principalmente função:",
+        "opcoes": [
+            "A) Da característica de amplificação do amplificador de pulso do aparelho.",
+            "B) Do comprimento do pulso de voltagem aplicado.",
+            "C) Da espessura do cristal de quartzo.",
+            "D) Nenhuma das respostas está correta."
+        ],
+        "resposta": "C",
+        "explicacao": "Espessura do cristal.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 180,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "A impedância acústica de um material é:",
+        "opcoes": [
+            "A) Diretamente proporcional à sua densidade e inversamente proporcional à velocidade com que o som se propaga nele.",
+            "B) Diretamente proporcional à velocidade com que o som se propaga nele e inversamente proporcional à sua densidade.",
+            "C) Inversamente proporcional à velocidade com que o som se propaga nele e à sua densidade.",
+            "D) Igual ao produto de sua densidade pela velocidade com que o som se propaga nele."
+        ],
+        "resposta": "D",
+        "explicacao": "Produto da densidade pela velocidade acústica ($Z = \\rho \\cdot V$).",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 181,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "A velocidade acústica é primeiramente determinada pela:",
+        "opcoes": [
+            "A) Densidade e pela elasticidade.",
+            "B) Impedância acústica.",
+            "C) Elasticidade.",
+            "D) Densidade."
+        ],
+        "resposta": "A",
+        "explicacao": "A velocidade sônica nos meios sólidos depende das constantes elásticas e da massa específica (densidade).",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 182,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "A inspeção de fundidos frequentemente é imprática porque:",
+        "opcoes": [
+            "A) As descontinuidades são orientadas ao acaso.",
+            "B) As peças possuem granulação muito fina.",
+            "C) As peças possuem granulação grosseira.",
+            "D) As linhas de fluxo são uniformes."
+        ],
+        "resposta": "C",
+        "explicacao": "Granulação grosseira típica de fundidos causa forte atenuação e espalhamento.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 183,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "As ondas de Lamb podem ser usadas para inspecionar:",
+        "opcoes": [
+            "A) Chapas finas.",
+            "B) Lingotes.",
+            "C) Barras laminadas.",
+            "D) Forjados."
+        ],
+        "resposta": "A",
+        "explicacao": "Ondas de Lamb propagam-se em placas e chapas finas cuja espessura é comparável ao comprimento de onda.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 184,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "A faixa de trabalho dos aparelhos para medida de espessura por meio de ressonância ultrassônica pode ser aumentada:",
+        "opcoes": [
+            "A) Operando nas frequências harmônicas.",
+            "B) Aumentando a voltagem da corrente alternada.",
+            "C) Operando nas frequências fundamentais.",
+            "D) Usando transdutores de grande tamanho."
+        ],
+        "resposta": "A",
+        "explicacao": "O uso de harmônicas expande a capacidade de medição para faixas de frequência mais amplas.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 185,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "A fórmula usada para calcular o ângulo de divergência alfa do feixe de um cristal de quartzo é:",
+        "opcoes": [
+            "A) Seno alfa = frequência * comprimento de onda.",
+            "B) Seno alfa/2 = 1,22 * comprimento de onda/diâmetro.",
+            "C) Seno alfa * diâmetro = frequência * comprimento de onda.",
+            "D) Seno alfa = diâmetro * 2/4 * comprimento de onda."
+        ],
+        "resposta": "B",
+        "explicacao": "Fórmula clássica para o semi-ângulo de divergência: $\\sin(\\alpha/2) = 1,22 \\cdot \\lambda / D$.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 186,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "O poder de resolução de um cabeçote é diretamente proporcional a:",
+        "opcoes": [
+            "A) Sua forma côncava.",
+            "B) Sua forma convexa.",
+            "C) Largura de sua faixa.",
+            "D) Seu coeficiente elétrico."
+        ],
+        "resposta": "C",
+        "explicacao": "Transdutores de banda larga (maior largura de faixa/amortecimento) oferecem melhor resolução temporal e axial.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 187,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "A utilização de cabeçotes equipados com lentes acústicas, com ................. , permitirá focalizar o feixe de ondas ultrassônicas de forma que penetre perpendicularmente numa superfície cilíndrica ou na direção do eixo focal.",
+        "opcoes": [
+            "A) Curvatura esférica",
+            "B) Forma hiperbólica",
+            "C) Forma convexa",
+            "D) Curvatura cilíndrica"
+        ],
+        "resposta": "D",
+        "explicacao": "Lentes com curvatura cilíndrica focalizam o feixe em uma linha (eixo focal), ideais para geometria de tubos e cilindros.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 188,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "O dispositivo denominado sincronizador, relógio ou circuito temporizador, utilizado nos aparelhos de ultra-som tipo pulso-eco, determinará:",
+        "opcoes": [
+            "A) Seu comprimento do pulso.",
+            "B) Sua frequência de repetição do pulso.",
+            "C) Seu ganho.",
+            "D) Seu comprimento de varredura."
+        ],
+        "resposta": "B",
+        "explicacao": "O sincronizador dita a frequência de repetição de pulsos (PRF).",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 189,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "O requisito fundamental de um transdutor de tamanho grande é que:",
+        "opcoes": [
+            "A) Os cristais sejam montados equidistantes uns dos outros.",
+            "B) Que a frequência fundamental do cristal não varie mais do que 0,01%.",
+            "C) A intensidade do feixe não varie demasiadamente ao longo do transdutor.",
+            "D) Que o comprimento total não exceda a 3 polegadas."
+        ],
+        "resposta": "C",
+        "explicacao": "Garantir emissão uniforme de energia em toda a face ativa.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 190,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Condução de calor, atrito viscoso, histerese elástica e, especialmente, dispersão, são quatro mecanismos diferentes que causam:",
+        "opcoes": [
+            "A) Refração.",
+            "B) Espalhamento do feixe.",
+            "C) Saturação.",
+            "D) Atenuação."
+        ],
+        "resposta": "D",
+        "explicacao": "Estes são os fatores físicos que compõem a atenuação sônica no meio material.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 191,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "A zona compreendida entre a superfície da peça por onde é feito o exame e o ponto onde a indicação de uma mesma descontinuidade apresenta uma altura máxima da tela do aparelho é denominada:",
+        "opcoes": [
+            "A) Campo próximo.",
+            "B) Zona saturada.",
+            "C) Interface.",
+            "D) Campo longínquo."
+        ],
+        "resposta": "A",
+        "explicacao": "O campo próximo (zona de Fresnel) estende-se da face do transdutor até o último máximo de intensidade sonora.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 192,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Considerando que a velocidade do som numa liga de alumínio é de aproximadamente 612.500 cm/s, para percorrer uma distância de 25 mm, uma onda ultrassônica levará:",
+        "opcoes": [
+            "A) 0,125 segundos.",
+            "B) 4 milissegundos.",
+            "C) 4 microssegundos.",
+            "D) 1/400 de segundo."
+        ],
+        "resposta": "C",
+        "explicacao": "Distância $d = 2,5 \\text{ cm}$, $V = 612.500 \\text{ cm/s}$. Tempo $t = d/V = 2,5 / 612.500 \\approx 0,00000408 \\text{ s} = 4,08 \\mu\\text{s}$.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 193,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Quando uma peça que vai ser examinada se apresenta com superfície irregular, é aconselhável empregar:",
+        "opcoes": [
+            "A) Cabeçotes de frequência maior e acoplantes mais viscosos do que os usados em superfícies lisas.",
+            "B) Cabeçotes de frequência maior e acoplantes menos viscosos do que os usados em superfícies lisas.",
+            "C) Cabeçotes de frequência menor e acoplantes menos viscosos do que os usados em superfícies lisas.",
+            "D) Cabeçotes de frequência menor e acoplantes mais viscosos do que os usados em superfícies lisas."
+        ],
+        "resposta": "D",
+        "explicacao": "Superfícies irregulares exigem acoplantes mais espessos/viscosos para preencher os vãos e frequências mais baixas para tolerar pequenas variações de acoplamento.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 194,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Ao examinar por contato uma solda e suas adjacências, usando cabeçote angular, as indicações que aparecem na tela do aparelho de ultra-som podem ser resultantes de:",
+        "opcoes": [
+            "A) Porosidades, trincas e ondulações da superfície do cordão.",
+            "B) Ondulações da superfície do cordão.",
+            "C) Trincas.",
+            "D) Porosidades."
+        ],
+        "resposta": "A",
+        "explicacao": "A geometria da solda e eventuais defeitos internos geram sinais variados na tela.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 195,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Ao examinar uma peça com um aparelho com representação do tipo “A-SCAN”, apareceram na tela indicações muito fortes que se deslocavam horizontalmente com velocidades variáveis. Não foi possível reproduzir exatamente as mesmas indicações ao reexaminar a mesma região. A causa destas indicações é:",
+        "opcoes": [
+            "A) A existência de porosidade na peça.",
+            "B) Interferência elétrica.",
+            "C) Uma trinca de forma irregular.",
+            "D) Uma bolha de gás."
+        ],
+        "resposta": "B",
+        "explicacao": "Sinais erráticos, flutuantes e não reproduzíveis costumam ser originados por interferência elétrica externa ou ruído na rede.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 196,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Na tela de um aparelho com representação do tipo “A-SCAN”, uma linha horizontal é marcada na tela fluorescente do tubo de raios catódicos pelo movimento uniforme e repetido de um feixe de elétrons. Esta linha é denominada:",
+        "opcoes": [
+            "A) Onda quadrada.",
+            "B) Marcador.",
+            "C) Escala DGS.",
+            "D) Linha de varredura."
+        ],
+        "resposta": "D",
+        "explicacao": "Linha de varredura (sweep line / base de tempo).",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 197,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Indique a frequência do feixe de ondas ultrassônicas que sofre a maior atenuação ao propagar-se num bloco de aço, nas mesmas condições:",
+        "opcoes": [
+            "A) 10,0 mega-hertz.",
+            "B) 5,0 mega-hertz.",
+            "C) 2,25 mega-hertz.",
+            "D) 1,0 mega-hertz."
+        ],
+        "resposta": "A",
+        "explicacao": "A maior frequência (10 MHz) sofre a atenuação mais severa.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 198,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Quais são as ondas que se propagam em superfícies curvas, sem cantos vivos, apresentando muito pouca ou nenhuma reflexão das curvas?",
+        "opcoes": [
+            "A) Ondas de corte.",
+            "B) Ondas superficiais.",
+            "C) Ondas transversais.",
+            "D) Ondas longitudinais."
+        ],
+        "resposta": "B",
+        "explicacao": "Ondas superficiais contornam curvaturas suaves sem sofrer reflexões espúrias intensas.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 199,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Ao examinar uma peça por contato, com cabeçote normal, a refração causada ..................... pode gerar ondas superficiais capazes de produzir indicações falsas.",
+        "opcoes": [
+            "A) Por descontinuidades de forma irregular",
+            "B) Pelo acoplante",
+            "C) Por marcas de usinagem",
+            "D) Pelo campo magnético, se a peça estiver magnetizada"
+        ],
+        "resposta": "C",
+        "explicacao": "Ranhuras e marcas profundas de usinagem na superfície podem converter modos de onda e gerar ruídos ou falsos ecos superficiais.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 200,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Após varrer uma peça com um cabeçote de tamanho grande, geralmente é necessário usar um ........................ para avaliar e localizar precisamente as descontinuidades.",
+        "opcoes": [
+            "A) Purificador",
+            "B) Mapa da peça",
+            "C) Colimador de cristal",
+            "D) Cabeçote de cristal pequeno"
+        ],
+        "resposta": "D",
+        "explicacao": "Transdutores menores garantem melhor resolução lateral para dimensionamento de defeitos.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 201,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "A técnica da ressonância também é denominada:",
+        "opcoes": [
+            "A) Técnica da transparência.",
+            "B) Técnica do pulso-eco.",
+            "C) Técnica da onda contínua.",
+            "D) Técnica do diapasão."
+        ],
+        "resposta": "C",
+        "explicacao": "Técnica de onda contínua de frequência variável.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 202,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Um aparelho de ultra-som foi calibrado para obter uma indicação de 50mm de altura do fundo plano de um furo com um diâmetro de 5/64 da polegada, localizado num bloco de alumínio, a 75 mm abaixo da superfície de entrada do feixe. Ao testar uma peça forjada de alumínio, aparece na tela do aparelho uma indicação de 50 mm de altura, obtida a partir de uma descontinuidade localizada a 75 mm de profundidade em relação à superfície de entrada do som na peça. O tamanho real desta descontinuidade, em relação à área do fundo plano de um furo de 5/64 da polegada de diâmetro, provavelmente é:",
+        "opcoes": [
+            "A) Igual.",
+            "B) Maior.",
+            "C) Ligeiramente menor.",
+            "D) Aproximadamente a metade."
+        ],
+        "resposta": "B",
+        "explicacao": "Como a descontinuidade natural é irregular e reflete menos energia que um fundo plano calibrado (FBH) de mesma área projetada, para produzir a mesma altura de eco a 75 mm, a descontinuidade real precisa ser maior.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 203,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "À medida que aumenta a diferença entre as impedâncias acústicas de dois materiais diferentes, ..................... a percentagem de energia de ondas ultrassônicas que é transmitida através da interface destes materiais.",
+        "opcoes": [
+            "A) É menor",
+            "B) É maior",
+            "C) Permanece invariável",
+            "D) Pode aumentar ou diminuir"
+        ],
+        "resposta": "A",
+        "explicacao": "Quanto maior a discrepância de impedância acústica entre os meios, maior é a reflexão e menor é a energia transmitida.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 204,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Ondas de som de baixa frequência geralmente não são empregadas para examinar peças de espessura reduzida porque:",
+        "opcoes": [
+            "A) As ondas de baixa frequência sofrem atenuação muito rápida.",
+            "B) Os comprimentos das ondas geradas são inadequados a este tipo de peças.",
+            "C) Possuem pouca resolução na região próxima a superfície da peça.",
+            "D) Suas vibrações provocam o fenômeno da fadiga nas peças examinadas."
+        ],
+        "resposta": "C",
+        "explicacao": "Baixas frequências geram longos comprimentos de onda e zonas mortas maiores, dificultando a resolução em espessuras finas.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 205,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "No caso de usar dois cabeçotes independentes, um transmissor e um receptor, os transdutores a serem empregados para obter a maior eficiência seriam:",
+        "opcoes": [
+            "A) Um cristal de quartzo no transmissor e um de titanato de bário no receptor.",
+            "B) Um cristal de sulfato de lítio no transmissor e um de titanato de bário no receptor.",
+            "C) Um cristal de titanato de bário no transmissor e um de quartzo no receptor.",
+            "D) Um cristal de titanato de bário no transmissor e um de sulfato de lítio no receptor."
+        ],
+        "resposta": "D",
+        "explicacao": "Titanato de bário gera alta potência (transmissor) e sulfato de lítio tem altíssima sensibilidade de recepção.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 206,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Num exame por imersão, o equipamento acessório ao qual o cabeçote é conectado através de seu cabo é denominado:",
+        "opcoes": [
+            "A) Tubo de pesquisa ou tubo de varredura.",
+            "B) Unidade de jato.",
+            "C) Purificador.",
+            "D) Colimador de cristal."
+        ],
+        "resposta": "A",
+        "explicacao": "Tubo de pesquisa (search tube / manipulação no tanque).",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 207,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Num exame por imersão, a camada de água que separa o cabeçote da superfície da peça que está sendo examinada:",
+        "opcoes": [
+            "A) Deve ser a maior possível.",
+            "B) Deve ser a mesma utilizada na calibração.",
+            "C) Deve ser a menor possível.",
+            "D) Não interferirá com o teste."
+        ],
+        "resposta": "B",
+        "explicacao": "A coluna d'água deve ser mantida exatamente igual à da calibração para preservar a exatidão da escala de tempo e profundidade.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 208,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Indique o material no qual a propagação do som ocorre com a menor perda de energia:",
+        "opcoes": [
+            "A) Um lingote de aço.",
+            "B) Alumínio fundido.",
+            "C) Lingote de alumínio.",
+            "D) Alumínio forjado."
+        ],
+        "resposta": "D",
+        "explicacao": "Materiais forjados ou laminados possuem estrutura homogênea e grãos refinados, apresentando menor atenuação que fundidos ou lingotes brutos.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 209,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Durante o exame de uma peça, o operador observou uma queda significativa na altura da indicação correspondente ao eco da parede posterior da peça, sem que aparecesse na tela do aparelho qualquer indicação referente a alguma descontinuidade. Esta condição deve ser causada:",
+        "opcoes": [
+            "A) Por porosidade.",
+            "B) Por granulação grosseira.",
+            "C) Todas as respostas estão corretas.",
+            "D) Por uma descontinuidade que possui inclinação acentuada em relação à superfície da peça por onde é feito o exame."
+        ],
+        "resposta": "C",
+        "explicacao": "Quedas no eco de fundo sem ecos diretos de defeitos podem decorrer de atenuação por granulação, porosidade difusa ou refletores inclinados.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 210,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Em geral, as descontinuidades existentes em produtos laminados tendem a ser orientadas:",
+        "opcoes": [
+            "A) Na direção de laminação.",
+            "B) Na direção transversal a de laminação.",
+            "C) Na direção transversal a da superfície da peça.",
+            "D) Ao acaso."
+        ],
+        "resposta": "A",
+        "explicacao": "O fluxo de conformação mecânica na laminação estica inclusões e defeitos paralelamente à direção de laminação.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 211,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Uma descontinuidade facilmente detectável terá pelo menos:",
+        "opcoes": [
+            "A) Um comprimento de onda de largura.",
+            "B) Muitos comprimentos de onda de largura.",
+            "C) Um quarto de comprimento de onda de largura.",
+            "D) Meio comprimento de onda de largura."
+        ],
+        "resposta": "B",
+        "explicacao": "Para reflexão e detecção consistentes e confiáveis, refletores devem ter dimensões comparáveis ou superiores a frações significativas do comprimento de onda (muitos comprimentos de onda).",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 212,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "As indicações que aparecem na tela do aparelho de ultra-som, provenientes de superfícies curvas, serão:",
+        "opcoes": [
+            "A) De um pico.",
+            "B) Muito picadas.",
+            "C) Estreitas.",
+            "D) Largas."
+        ],
+        "resposta": "D",
+        "explicacao": "Superfícies curvas dispersam o feixe refletido ao longo de uma faixa de tempo maior, gerando indicações amplas ou largas.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 213,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Defeitos situados muito próximos da superfície por onde é feito o exame não podem ser sempre detectados devido:",
+        "opcoes": [
+            "A) Ao efeito do campo próximo.",
+            "B) À atenuação.",
+            "C) À refração.",
+            "D) Ao tempo de recuperação do sistema."
+        ],
+        "resposta": "D",
+        "explicacao": "O tempo de recuperação do circuito após o pulso inicial de alta tensão (zona morta) impede a detecção de defeitos ultra-superficiais.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 214,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "No caso de examinar tubos de diâmetros menores do que o diâmetro do transdutor, para confinar o feixe de ondas ultrassônicas às limitações de espaço disponíveis, usa-se:",
+        "opcoes": [
+            "A) Um purificador.",
+            "B) Um angulador.",
+            "C) Um colimador.",
+            "D) Uma unidade de jato."
+        ],
+        "resposta": "C",
+        "explicacao": "Colimadores são aberturas acústicas restritivas usadas para estreitar e confinar o feixe.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 215,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "A velocidade máxima possível de varredura é função principalmente:",
+        "opcoes": [
+            "A) Persistência da tela do tubo de raios catódicos.",
+            "B) Frequência de repetição do pulso do aparelho.",
+            "C) Viscosidade do acoplante.",
+            "D) Frequência do cabeçote."
+        ],
+        "resposta": "B",
+        "explicacao": "A taxa de repetição de pulsos limita a velocidade com que o operador pode mover o transdutor sem perder dados na tela.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 216,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Uma .............. é frequentemente substituída por um documento onde fica registrado permanentemente o que aparece na tela do aparelho de ultra-som.",
+        "opcoes": [
+            "A) Apresentação do tipo “A-SCAN”",
+            "B) Apresentação do tipo “B-SCAN”",
+            "C) Apresentação do tipo “C-SCAN”",
+            "D) Nenhuma destas respostas está certa"
+        ],
+        "resposta": "C",
+        "explicacao": "Registros em formato C-Scan fornecem mapas permanentes consolidados da inspeção.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 217,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "A propriedade que possuem certos materiais de transformar energia mecânica em elétrica, e vice versa, é denominada:",
+        "opcoes": [
+            "A) Efeito piezoelétrico.",
+            "B) Conversão de modo.",
+            "C) Impedância oposta.",
+            "D) Refração."
+        ],
+        "resposta": "A",
+        "explicacao": "Efeito piezoelétrico.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 218,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Um entalhe de referência feito num corpo de prova padrão para tubos deve ser usinado:",
+        "opcoes": [
+            "A) Na superfície interna até a profundidade correspondente a metade da espessura da parede.",
+            "B) Tanto na superfície interna como na externa.",
+            "C) Apenas na superfície interna.",
+            "D) Apenas na superfície externa."
+        ],
+        "resposta": "B",
+        "explicacao": "Códigos de inspeção (como ASME) exigem entalhes entalhados tanto na face interna quanto na externa para calibrar a detecção em ambas as direções.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 219,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "No exame por meio de ressonância, quando a superfície posterior é muito inclinada em relação à superfície por onde é feito o exame:",
+        "opcoes": [
+            "A) A amplitude do sinal aumenta.",
+            "B) Forma-se uma imagem dupla.",
+            "C) A amplitude do sinal não se altera.",
+            "D) A amplitude do sinal diminui."
+        ],
+        "resposta": "D",
+        "explicacao": "Superfícies não paralelas dispersam o retorno de energia, diminuindo a amplitude dos sinais de ressonância ou de fundo.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 220,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "As ondas superficiais têm sua energia reduzida a 1/25 do valor original numa profundidade de:",
+        "opcoes": [
+            "A) 25 mm.",
+            "B) 100 mm.",
+            "C) Quattro comprimentos de onda.",
+            "D) Um comprimento de onda."
+        ],
+        "resposta": "D",
+        "explicacao": "A energia das ondas de Rayleigh decai exponencialmente, ficando restrita praticamente a uma profundidade de um comprimento de onda.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 221,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Uma peça de alumínio vai ser examinada com a técnica de imersão, usando a água como acoplante. Para evitar que apareça na tela do aparelho uma indicação correspondente ao segundo eco da superfície da peça onde incide o feixe ultrassônico, antes da indicação correspondente ao eco da parede posterior, a camada de água entre o cabeçote e a peça deve ter, no mínimo, uma espessura de 20 mm para cada:",
+        "opcoes": [
+            "A) 80 mm de espessura da peça de alumínio.",
+            "B) 160 mm de espessura da peça de alumínio.",
+            "C) 120 mm de espessura da peça de alumínio.",
+            "D) 40 mm de espessura da peça de alumínio."
+        ],
+        "resposta": "A",
+        "explicacao": "Razão de velocidades acústicas (Alumínio longitudinal ~6320 m/s vs Água ~1490 m/s, proporção de ~4,25). Para cada espessura de alumínio, a coluna d'água necessária para evitar sobreposição de ecos múltiplos da superfície é proporcional à relação de velocidades.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 222,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Se for aumentado o comprimento do pulso utilizado para ativar o cristal do cabeçote:",
+        "opcoes": [
+            "A) A penetração das ondas ultrassônicas será diminuída.",
+            "B) A intensidade das ondas ultrassônicas também aumentará, porém o poder de resolução do aparelho será reduzido.",
+            "C) Não haverá nenhum efeito secundário.",
+            "D) O poder de resolução do aparelho também aumentará."
+        ],
+        "resposta": "B",
+        "explicacao": "Pulsos mais longos entregam mais energia (maior intensidade), mas degradam a resolução temporal e axial.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 223,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "A falta de paralelismo entre a superfície por onde é feito o exame numa peça e a superfície posterior:",
+        "opcoes": [
+            "A) Torna difícil a detecção de descontinuidades paralelas à superfície por onde entra o som.",
+            "B) Geralmente faz com que seja detectada a presença de porosidade.",
+            "C) Pode fazer com que não se apresente na tela a indicação correspondente ao eco da parede posterior.",
+            "D) Causará a redução do poder de penetração das ondas ultrassônicas."
+        ],
+        "resposta": "C",
+        "explicacao": "Superfícies não paralelas desviam o feixe por reflexão não espicular, podendo fazer o eco de fundo sumir da tela.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 224,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Uma descontinuidade com superfície côncava:",
+        "opcoes": [
+            "A) Reforça o modo da onda ultrassônica.",
+            "B) Faz com que o feixe de ondas ultrassônicas seja focalizado para um ponto determinado pela curvatura da descontinuidade.",
+            "C) Difunde a energia do som através da peça.",
+            "D) Nenhuma das respostas está certa."
+        ],
+        "resposta": "B",
+        "explicacao": "Refletores côncavos atuam como espelhos convergentes, focalizando o feixe sônico.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 225,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Para examinar uma chapa usando-se a técnica de imersão, seu posicionamento deve ser feito de forma a assegurar:",
+        "opcoes": [
+            "A) Que a camada de água sobre a chapa tenha a maior espessura possível.",
+            "B) Que o feixe de ondas ultrassônicas emitidas pelo cabeçote atinja a superfície da chapa.",
+            "C) Que a camada de água sobre a chapa tenha uma espessura constante.",
+            "D) Que o feixe de ondas ultrassônicas emitidas pelo cabeçote atinja a superfície da chapa num ângulo de 5 graus."
+        ],
+        "resposta": "C",
+        "explicacao": "Manter a espessura da lâmina d'água constante assegura a reprodutibilidade exata da calibração de tempo e ganho.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 226,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Ao examinar uma chapa usando-se um cabeçote angular, pode ocorrer que não sejam detectadas:",
+        "opcoes": [
+            "A) Uma série de pequenas descontinuidades.",
+            "B) Inclusões orientadas ao acaso.",
+            "C) Trincas cujo plano principal é paralelo à superfície da chapa.",
+            "D) Trincas cujo plano principal é perpendicular à direção do feixe de ondas ultrassônicas."
+        ],
+        "resposta": "C",
+        "explicacao": "Trincas laminares paralelas à superfície ficam na direção do feixe angular, gerando pouca ou nenhuma reflexão direta.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 227,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "A impedância acústica de um material é definida como:",
+        "opcoes": [
+            "A) O produto da velocidade acústica no vácuo pela densidade específica do material.",
+            "B) O produto da velocidade do som no material pela densidade do mesmo.",
+            "C) O produto do coeficiente de atenuação do material pela velocidade do som no mesmo.",
+            "D) O produto do coeficiente de atenuação, pela densidade e velocidade de propagação do som no material."
+        ],
+        "resposta": "B",
+        "explicacao": "Definição formal de impedância acústica ($Z = \\rho \\cdot V$).",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 228,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Qual das frequências abaixo resultará provavelmente nas maiores perdas por atenuação?",
+        "opcoes": [
+            "A) 1,0 MHz.",
+            "B) 2,25 MHz.",
+            "C) 5,0 MHz.",
+            "D) A atenuação não depende da frequência."
+        ],
+        "resposta": "C",
+        "explicacao": "Entre as opções, 5,0 MHz é a maior frequência e, portanto, sofre maior atenuação.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 229,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Qual das frequências abaixo fornecerá provavelmente a melhor penetração em uma peça de aço com granulação grosseira, de 150 mm de espessura?",
+        "opcoes": [
+            "A) 1,0 MHz.",
+            "B) 2,25 MHz.",
+            "C) 4,0 MHz.",
+            "D) O poder de penetração não depende da frequência."
+        ],
+        "resposta": "A",
+        "explicacao": "1,0 MHz é a melhor escolha para peças espessas com granulação grosseira.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 230,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "A capacidade de distinguir-se duas descontinuidades a diferentes profundidades será melhorada pelo:",
+        "opcoes": [
+            "A) Decréscimo da frequência.",
+            "B) Encurtamento da duração do pulso.",
+            "C) Aumento da amplitude do pulso inicial.",
+            "D) Aumento do ganho do aparelho."
+        ],
+        "resposta": "B",
+        "explicacao": "Pulsos mais curtos melhoram a resolução axial/vertical, permitindo separar ecos próximos.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 231,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "O ponto Curie de um cristal é definido como:",
+        "opcoes": [
+            "A) A temperatura na qual o cristal perderá a sua atividade piezoelétrica.",
+            "B) O ponto do cristal onde a amplitude de vibração é nula.",
+            "C) A temperatura na qual o cristal sofre uma reversão de suas propriedades eletromagnéticas.",
+            "D) O ponto de vibração máxima do cristal."
+        ],
+        "resposta": "A",
+        "explicacao": "Acima da temperatura do Ponto Curie, os materiais piezoelétricos perdem permanentemente suas propriedades de polarização.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 232,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "A correção da amplitude devido a distância (DAC) é requerida para compensar a perda do sinal sonoro devido a:",
+        "opcoes": [
+            "A) Rugosidade superficial.",
+            "B) Atenuação.",
+            "C) Espessura do material.",
+            "D) Todas as respostas estão corretas."
+        ],
+        "resposta": "D",
+        "explicacao": "Curvas DAC compensam os efeitos combinados de atenuação, divergência e percurso sônico em diferentes distâncias.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 233,
+        "categoria": "MEDIÇÃO DE ESPESSURA - NOVO LOTE",
+        "pergunta": "Uma onda ultrassônica longitudinal é transmitida da água para o aço a um ângulo de 5º com a normal. Neste caso, o ângulo da onda refratada transversal é:",
+        "opcoes": [
+            "A) Menor que o ângulo da onda refratada longitudinal.",
+            "B) Igual ao o ângulo da onda refratada longitudinal.",
+            "C) Maior que o ângulo da onda refratada longitudinal.",
+            "D) Nenhuma das respostas está correta."
+        ],
+        "resposta": "A",
+        "explicacao": "Como a velocidade da onda transversal no aço é inferior à da longitudinal, o seno do seu ângulo de refração será menor.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    }
+]

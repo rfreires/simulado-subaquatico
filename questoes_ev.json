@@ -1,0 +1,2632 @@
+[
+    {
+        "id": 1,
+        "categoria": "PROVA 01",
+        "pergunta": "A intensidade luminosa das lanternas e holofotes utilizados na inspeção submarina normalmente é medida em:",
+        "opcoes": [
+            "A) Candela.",
+            "B) Velas.",
+            "C) Lux.",
+            "D) Watts."
+        ],
+        "resposta": "C",
+        "explicacao": "A unidade de medida padrão para iluminância (intensidade luminosa incidente sobre uma superfície) é o Lux.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 2,
+        "categoria": "PROVA 01",
+        "pergunta": "As operações de inspeção submarina ensaio visual, são conduzidas com a utilização das seguintes técnicas:",
+        "opcoes": [
+            "A) Ensaio visual direto p/ registros fotográficos.",
+            "B) Ensaio visual comparativo.",
+            "C) Ensaio visual p/ amostras emersas.",
+            "D) Ensaio visual direto e remoto."
+        ],
+        "resposta": "D",
+        "explicacao": "As duas principais técnicas normativas aplicadas no ensaio visual subaquático são o ensaio visual direto (realizado pelo mergulhador) e o remoto (com auxílio de ROV ou sistemas de vídeo).",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 3,
+        "categoria": "PROVA 01",
+        "pergunta": "A inspeção submarina, não tem como campo de aplicação nas plataformas de aço verificar:",
+        "opcoes": [
+            "A) Riseres.",
+            "B) Membros estruturais.",
+            "C) Leito marinho.",
+            "D) Catodos monitorados."
+        ],
+        "resposta": "D",
+        "explicacao": "O monitoramento de potenciais de anodos/catodos envolve medição eletroquímica específica (potenciometria), enquanto o escopo clássico de inspeção visual foca em riserímetros, membros estruturais e leito marinho.",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 4,
+        "categoria": "PROVA 01",
+        "pergunta": "Indique qual das afirmativas abaixo e verdadeira:",
+        "opcoes": [
+            "A) Uma das funções do revestimento, no processo de soldagem com eletrodo revestido, é proteger a alma do eletrodo contra oxidação e evitar o sopro magnético.",
+            "B) No processo de soldagem Tig o calor necessário p/ a fusão é obtido através do arco elétrico entre um eletrodo de tungstênio não consumível.",
+            "C) O controle do ângulo de inclinação do eletrodo, no processo de soldagem com eletrodo revestido não é uma variável importante na obtenção de uma solda de boa qualidade.",
+            "D) Utilizando-se corrente alternada no processo de soldagem com eletrodo revestido, a polaridade é conhecida como alternada."
+        ],
+        "resposta": "B",
+        "explicacao": "No processo TIG (GTAW), o arco elétrico é estabelecido entre um eletrodo de tungstênio não consumível e a peça de trabalho para gerar o calor de fusão.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 5,
+        "categoria": "PROVA 01",
+        "pergunta": "Durante o exame do leito marinho deve-se somente relatar a existência de sucata metálica.",
+        "opcoes": [
+            "A) Falsa.",
+            "B) Verdadeira."
+        ],
+        "resposta": "A",
+        "explicacao": "Falsa, pois além de sucatas metálicas, o exame do leito marinho abrange a verificação de erosão, assoreamento, vãos livres e condições gerais do solo.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 6,
+        "categoria": "PROVA 01",
+        "pergunta": "A deterioração manifestada na película ou sob esta, sob a forma e coloração características do enferrujamento existente, acompanhada ou não do desprendimento localizado da película, chama-se:",
+        "opcoes": [
+            "A) Destacamento e corrosão.",
+            "B) Escamação de tinta.",
+            "C) Erosão e crateramento.",
+            "D) Enferrujamento de tinta."
+        ],
+        "resposta": "D",
+        "explicacao": "O termo técnico normativo para essa manifestação de corrosão sob ou na película de tinta é o enferrujamento de tinta.",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 7,
+        "categoria": "PROVA 01",
+        "pergunta": "A inspeção do leito marinho, na região da jaqueta e proximidades, objetiva verificar:",
+        "opcoes": [
+            "A) A ocorrência de abrasão ou assoreamento da estrutura.",
+            "B) A ocorrência de erosão ou assoreamento da estrutura.",
+            "C) Existem duas respostas certas.",
+            "D) A existência de sucatas."
+        ],
+        "resposta": "C",
+        "explicacao": "A inspeção verifica tanto a erosão quanto o assoreamento nas imediações da estrutura, tornando corretas as menções associadas.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 8,
+        "categoria": "PROVA 01",
+        "pergunta": "Qual das alternativas abaixo esta relacionada com o vazio devido a contração na zona fundida:",
+        "opcoes": [
+            "A) Trinca sob o cordão.",
+            "B) Rechupe de cratera.",
+            "C) Falta de fusão.",
+            "D) Mordedura."
+        ],
+        "resposta": "B",
+        "explicacao": "O rechupe de cratera é a cavidade gerada pelo efeito da contração volumétrica do metal líquido no término do cordão de solda.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 9,
+        "categoria": "PROVA 01",
+        "pergunta": "Na análise da deformação devida a soldagem de chapas em juntas de topo, sabe-se que:",
+        "opcoes": [
+            "A) A contração transversal é diretamente proporcional a espessura da chapa.",
+            "B) A contração transversal é inversamente proporcional a abertura de raiz da junta.",
+            "C) A contração transversal é proporcional a área da seção transversal da zona fundida.",
+            "D) A contração transversal impede na abertura de raiz da junta."
+        ],
+        "resposta": "C",
+        "explicacao": "A contração transversal em juntas de topo é diretamente proporcional à área da seção transversal do metal depositado (zona fundida).",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 10,
+        "categoria": "PROVA 01",
+        "pergunta": "Assinale a alternativa correta:",
+        "opcoes": [
+            "A) Junta dissimilar é a junta soldada cuja composição química da zona fundida difere significativamente do metal de base.",
+            "B) Margem da solda é a junção entre a face da solda e o metal de base.",
+            "C) Todas as afirmativas estão incorretas.",
+            "D) Solda dissimilar é a solda executada entre peças de composições químicas significativamente diferentes."
+        ],
+        "resposta": "B",
+        "explicacao": "A margem da solda é definida precisamente como a linha de junção entre a face (ou raiz) da solda e o metal de base.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 11,
+        "categoria": "PROVA 01",
+        "pergunta": "Quando se detecta corrosão em um membro estrutural, deve-se classificar a corrosão e dimensionar por amostragem a profundidade dos pites quando for o caso:",
+        "opcoes": [
+            "A) Verdadeira.",
+            "B) Falso."
+        ],
+        "resposta": "A",
+        "explicacao": "Afirmativa em conformidade com as diretrizes normativas de inspeção para quantificação de danos por corrosão e pites.",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 12,
+        "categoria": "PROVA 01",
+        "pergunta": "Indique entre os métodos citados abaixo qual não deve ser utilizado para a preparação de uma superfície que vai ser inspecionada visualmente:",
+        "opcoes": [
+            "A) Raspagem",
+            "B) Martelete hidráulico.",
+            "C) Hidrojateamento.",
+            "D) Escovamento."
+        ],
+        "resposta": "B",
+        "explicacao": "O uso de martelete hidráulico agressivo sem controle pode deformar ou mascarar as descontinuidades superficiais que serão objeto da inspeção visual.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 13,
+        "categoria": "PROVA 01",
+        "pergunta": "A quebra da película de tinta com penetração até a superfície da estrutura pintada chama-se:",
+        "opcoes": [
+            "A) Fendilhamento.",
+            "B) Erosão.",
+            "C) Desfolhamento.",
+            "D) Escamação."
+        ],
+        "resposta": "A",
+        "explicacao": "O fendilhamento caracteriza-se por fendas ou fissuras na camada de tinta que atingem o substrato metálico.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 14,
+        "categoria": "PROVA 01",
+        "pergunta": "Qual dos instrumentos abaixo é empregado na verificação de espessura de incrustação:",
+        "opcoes": [
+            "A) Paquímetro.",
+            "B) Estilete graduado.",
+            "C) Micrômetro.",
+            "D) Trena."
+        ],
+        "resposta": "B",
+        "explicacao": "O estilete graduado (ou régua específica) é cravado na camada de incrustação marinha para efetuar a leitura direta da sua espessura.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 15,
+        "categoria": "PROVA 01",
+        "pergunta": "Do ponto de vista de proteção contra choques, os cabos de alimentação de equipamentos elétricos:",
+        "opcoes": [
+            "A) Nenhuma das respostas.",
+            "B) Não precisam de isolamento.",
+            "C) Precisam ser protegidos contra danos mecânicos.",
+            "D) Podem ter emendas."
+        ],
+        "resposta": "C",
+        "explicacao": "Os cabos elétricos submersos e de superfície devem possuir robusta proteção mecânica para evitar rompimentos de isolamento e choques.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 16,
+        "categoria": "PROVA 01",
+        "pergunta": "Qual das afirmativas abaixo, referentes ao processo de soldagem a arco submerso é falsa:",
+        "opcoes": [
+            "A) Falta de penetração pode ser causada pelo alinhamento incorreto da máquina de solda com a junta a ser soldada.",
+            "B) Mordeduras são causadas quando se processa muito rapidamente.",
+            "C) Porosidades são causadas por altos teores de manganês no arame e no fluxo.",
+            "D) Falta de fusão pode ocorrer no caso da soldagem de uma peça espessa em um único passe."
+        ],
+        "resposta": "C",
+        "explicacao": "Porosidades no arco submerso estão tipicamente associadas à umidade no fluxo ou contaminação, e não a altos teores de manganês.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 17,
+        "categoria": "PROVA 01",
+        "pergunta": "Assinale falsa ou verdadeira: Os equipamentos elétricos utilizados em ensaio visual submarino, devem ser hermeticamente fechados e as partes metálicas aterradas.",
+        "opcoes": [
+            "A) Falsa.",
+            "B) Verdadeira."
+        ],
+        "resposta": "B",
+        "explicacao": "Requisito básico de segurança elétrica para isolamento e prevenção de falhas e choques em ambientes hiperbáricos/submersos.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 18,
+        "categoria": "PROVA 01",
+        "pergunta": "Assinale a afirmativa errada:",
+        "opcoes": [
+            "A) Solda heterogênea é a solda cuja composição química da zona fundida difere significativamente do metal de base.",
+            "B) Solda autógena é a solda de fusão sem participação de metal de adição.",
+            "C) Solda de topo é a solda executada em junta de topo.",
+            "D) Solda de aresta é a solda executada no bisel de um chanfro para reconstituir a forma original da peça antes da execução do chanfro."
+        ],
+        "resposta": "D",
+        "explicacao": "A descrição da solda de aresta está incorreta em relação à definição normativa de reconstituição de chanfro.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 19,
+        "categoria": "PROVA 01",
+        "pergunta": "Assinale falsa ou verdadeira: Os equipamentos elétricos utilizados em ensaio visual submarino quando ligados à rede, o circuito devera ser protegido contra curto circuito por fusíveis e disjuntores.",
+        "opcoes": [
+            "A) Falsa.",
+            "B) Verdadeira."
+        ],
+        "resposta": "B",
+        "explicacao": "A proteção por disjuntores e fusíveis é obrigatória em painéis de alimentação de equipamentos elétricos subaquáticos.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 20,
+        "categoria": "PROVA 01",
+        "pergunta": "Assinale verdadeiro ou falso em relação a afirmativa abaixo: O ensaio visual é o ensaio não destrutivo de mais baixo custo, logo independe da experiência por parte do inspetor.",
+        "opcoes": [
+            "A) Falsa.",
+            "B) Verdadeira."
+        ],
+        "resposta": "A",
+        "explicacao": "Falsa, pois embora seja de baixo custo, o ensaio visual depende fortemente da qualificação, acuidade e experiência do inspetor.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 21,
+        "categoria": "PROVA 01",
+        "pergunta": "Assinale a descrição correta de corrosão alveolar:",
+        "opcoes": [
+            "A) Cavidade na superfície metálica apresentando o fundo arredondado e profundidade geralmente maior que o seu diâmetro.",
+            "B) Cavidade na superfície metálica apresentando o fundo arredondado e profundidade geralmente menor que seu diâmetro.",
+            "C) Cavidade na superfície metálica apresentando o fundo em forma angular e profundidade geralmente menor que seu diâmetro.",
+            "D) Cavidade na superfície metálica apresentando o fundo em forma angular e profundidade igual ao seu diâmetro."
+        ],
+        "resposta": "B",
+        "explicacao": "A corrosão alveolar caracteriza-se por cavidades de fundo arredondado com profundidade geralmente menor que o seu diâmetro.",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 22,
+        "categoria": "PROVA 01",
+        "pergunta": "Na laminação de uma chapa de aço o metal ao passar entre os cilindros do laminador, sofre deformação:",
+        "opcoes": [
+            "A) Plástica, a espessura permanece e o comprimento e a largura são aumentados.",
+            "B) Plástica, e espessura é reduzida, o comprimento e a largura são aumentados.",
+            "C) Elástica, a espessura permanece constante e o comprimento e largura são aumentados.",
+            "D) Elástica, a espessura é reduzida, o comprimento é aumentado e a largura permanece constante."
+        ],
+        "resposta": "B",
+        "explicacao": "Na laminação a quente/frio, o metal sofre deformação plástica permanente, reduzindo a espessura e alongando/alargando o material.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 23,
+        "categoria": "PROVA 01",
+        "pergunta": "Qual das descontinuidades abaixo se situa no metal de base:",
+        "opcoes": [
+            "A) Falta de penetração.",
+            "B) Concavidade.",
+            "C) Trinca interlamelar.",
+            "D) Trinca na raiz."
+        ],
+        "resposta": "C",
+        "explicacao": "A trinca interlamelar é um defeito associado a inclusões não metálicas e restrições que ocorre tipicamente no metal de base.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 24,
+        "categoria": "PROVA 01",
+        "pergunta": "Assinale se as alternativas abaixo são verdadeira ou falsas:\n1-Contraventamento é o elemento destinado a enrijecer a estrutura principal.\n2-A ramificação é uma das partes do contraventamento.",
+        "opcoes": [
+            "A) 1F;2F",
+            "B) 1V;2V",
+            "C) 1F;2V",
+            "D) 1V;2F"
+        ],
+        "resposta": "B",
+        "explicacao": "Ambas as afirmativas descrevem corretamente os conceitos geométricos e estruturais aplicados em plataformas offshore.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 25,
+        "categoria": "PROVA 01",
+        "pergunta": "Indique a descrição correspondente aos itens abaixo:\n1-Câmara de cabeça de poço.\n2-Monobóia de amarração.\n3-Religação (Tie back).\n4-Gabarito (Template).\n( ) Estrutura instalada no solo marinho que serve de guia para perfuração de poços.\n( ) Sistema de amarração por ponto único ou pela proa de navio tanque para carga ou descarga.\n( ) Vasos que ficam no fundo do mar e contém as arvores de natal.",
+        "opcoes": [
+            "A) 4;2;1",
+            "B) 1;2;4",
+            "C) 1;3;4",
+            "D) Nenhuma das respostas."
+        ],
+        "resposta": "A",
+        "explicacao": "Associação correta entre os equipamentos submarinos e suas respectivas funções na instalação de produção.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 26,
+        "categoria": "PROVA 01",
+        "pergunta": "Assinale dentre as alternativas abaixo, uma limitação do ensaio visual em comparação a outros ensaios.",
+        "opcoes": [
+            "A) Pode ser executado em juntas de geometria complexa, como nas de estruturas tubulares.",
+            "B) É limitado a materiais magnéticos e não magnéticos, permite locar e dimensionar as descontinuidades internas no metal de base.",
+            "C) É limitado a detecção de descontinuidades superficiais.",
+            "D) Depende grandemente da experiência e conhecimento de soldagem por parte do inspetor."
+        ],
+        "resposta": "C",
+        "explicacao": "O ensaio visual restringe-se estritamente à detecção de irregularidades ou descontinuidades abertas à superfície.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 27,
+        "categoria": "PROVA 01",
+        "pergunta": "Como deve ser descrito o estado de corrosão de uma plataforma que após a preparação da superfície apresenta algumas cavidades de angulo agudo espalhadas aleatoriamente:",
+        "opcoes": [
+            "A) Corrosão alveolar severa aleatória.",
+            "B) Corrosão alveolar leve dispersa.",
+            "C) Corrosão por pites leve generalizada.",
+            "D) Corrosão por pites leve dispersa."
+        ],
+        "resposta": "D",
+        "explicacao": "Cavidades de ângulo agudo (fundo não arredondado) caracterizam pites, e a distribuição esparsa sem severidade extrema define o estado leve disperso.",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 28,
+        "categoria": "PROVA 01",
+        "pergunta": "No ensaio visual, a classificação de corrosão quanto a forma da mesma pode ser:",
+        "opcoes": [
+            "A) Critica, moderada ou superficial.",
+            "B) Alveolar, pitiforme, uniforme.",
+            "C) Leve, média, severa.",
+            "D) Localizada, generalizada."
+        ],
+        "resposta": "B",
+        "explicacao": "Quanto à morfologia/forma, a corrosão divide-se comumente em alveolar, pitiforme e uniforme.",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 29,
+        "categoria": "PROVA 01",
+        "pergunta": "Indique a associação correta entre:\n1 – Medição.\n2 – Iluminação.\n3 – Registro.\n4 – Qualificação de procedimento de inp. Visual.\n5 – Inspetor.\nA – Máquina fotográfica.\nB – Grau de resolução da imagem.\nC – Acuidade visual.\nD – Fita métrica.\nE – Luximetro.",
+        "opcoes": [
+            "A) 1E-2A-3B-4D-5C",
+            "B) 1C-2B-3E-4D-5A",
+            "C) 1D-2E-3A-4B-5C",
+            "D) 1B-2E-3C-4A-5D",
+            "E) 1E-2A-3B-4C-5D"
+        ],
+        "resposta": "C",
+        "explicacao": "Associação lógica: Medição (Fita métrica), Iluminação (Luxímetro), Registro (Máquina fotográfica), Qualificação/Resolução (Grau de resolução), Inspetor (Acuidade visual).",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 30,
+        "categoria": "PROVA 01",
+        "pergunta": "Na inspeção submarina, ensaio visual, podemos utilizar como meios auxiliares:",
+        "opcoes": [
+            "A) Moldes em epóxi.",
+            "B) Trena.",
+            "C) Todas as alternativas estão certas.",
+            "D) Medidor de pites.",
+            "E) Máquina fotográfica."
+        ],
+        "resposta": "C",
+        "explicacao": "Todos os itens listados são ferramentas e meios auxiliares perfeitamente válidos e empregados no EV subaquático.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 31,
+        "categoria": "PROVA 01",
+        "pergunta": "Assinalar verdadeira ou falsa:\nQuando se deseja realçar imperfeição superficiais, a incidência do feixe luminoso deve ser oblíqua em relação a superfície para que se note o efeito de luz e sombra.",
+        "opcoes": [
+            "A) Falsa.",
+            "B) Verdadeira."
+        ],
+        "resposta": "B",
+        "explicacao": "A luz oblíqua cria contrastes de sombra que facilitam imensamente a visualização de relevos e descontinuidades superficiais.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 32,
+        "categoria": "PROVA 01",
+        "pergunta": "Qual dos seguintes requisitos não é suficiente na inspeção visual submarina.",
+        "opcoes": [
+            "A) Luminosidade de 100 lux.",
+            "B) Acuidade visual próxima Jaeger 1.",
+            "C) Acuidade visual longínqua Snellen 20/20.",
+            "D) Visibilidade da água do mar de 5 metros."
+        ],
+        "resposta": "A",
+        "explicacao": "O valor mínimo normativo exigido para inspeção visual detalhada excede 100 lux (geralmente exigindo patamares mais elevados conforme norma aplicável).",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 33,
+        "categoria": "PROVA 01",
+        "pergunta": "Assinalar falsa ou verdadeira: Trinca é uma descontinuidade linear, podendo se a presentar na superfície, que não põe em risco a estrutura.",
+        "opcoes": [
+            "A) Verdadeira.",
+            "B) Falsa."
+        ],
+        "resposta": "B",
+        "explicacao": "Falsa, pois trincas representam concentração severa de tensões e põem em alto risco a integridade estrutural.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 34,
+        "categoria": "PROVA 01",
+        "pergunta": "Dobras de forjamento são causadas por:",
+        "opcoes": [
+            "A) Subaquecimento do material.",
+            "B) Rebarba excessiva.",
+            "C) Dobras de metal comprimidas contra superfície da peça.",
+            "D) Carepas de oxido incrustadas profundamente na superfície."
+        ],
+        "resposta": "C",
+        "explicacao": "Dobras de forjamento originam-se do dobramento e posterior prensagem de metal contra a própria superfície da peça durante o processo.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 35,
+        "categoria": "PROVA 01",
+        "pergunta": "Qual dos instrumentos abaixo, empregado na inspeção visual subaquática, deve sofrer uma aferição periódica por instituições credenciadas.",
+        "opcoes": [
+            "A) Lanterna.",
+            "B) Holofote.",
+            "C) Trena.",
+            "D) Máquina fotográfica.",
+            "E) Lupa."
+        ],
+        "resposta": "C",
+        "explicacao": "Instrumentos de medição dimensional linear, como trenas e réguas, exigem calibração/aferição periódica rastreável.",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 36,
+        "categoria": "PROVA 01",
+        "pergunta": "Assinale a afirmativa correta:",
+        "opcoes": [
+            "A) Nenhuma resposta é correta.",
+            "B) Camada é o depósito obtido com um único passe.",
+            "C) Porosidade alongada é causada pelo eletrodo de tugstênio.",
+            "D) Zona afetada termicamente é a porção do metal de base que sofreu apenas fusão parcial durante a soldagem."
+        ],
+        "resposta": "A",
+        "explicacao": "As alternativas b, c e d contêm definições imprecisas ou incorretas perante a terminologia padrão de soldagem.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 37,
+        "categoria": "PROVA 01",
+        "pergunta": "As principais partes de um nó são:\n1 – Tronco (can).\n2 – Contraventamento (bracing).\n3 – Cone.\n4 – Ramificação (stub).\n5 – Corda.",
+        "opcoes": [
+            "A) 1;2;4",
+            "B) 1;2;3;4;5",
+            "C) 1;2;3",
+            "D) 1;2;3;4;5"
+        ],
+        "resposta": "D",
+        "explicacao": "Todos os itens listados integram a nomenclatura de nós de jaquetas tubulares offshore.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 38,
+        "categoria": "PROVA 01",
+        "pergunta": "Assinalar se a afirmativa é verdadeira ou falsa: A inspeção do leito marinho deve se prender somente a região interna da jaqueta:",
+        "opcoes": [
+            "A) Verdadeira.",
+            "B) Falsa."
+        ],
+        "resposta": "B",
+        "explicacao": "Falsa, a inspeção abrange tanto a região interna quanto as proximidades externas da estrutura e dutos.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 39,
+        "categoria": "PROVA 01",
+        "pergunta": "Diga se a afirmativa abaixo é verdadeira ou falsa: A definição de coletor(manifold), corresponde a um conjunto de tubo interligado diversas linhas de chegada com uma ou mais saídas, contendo válvulas e instrumentos para controle do fluxo de fluídos.",
+        "opcoes": [
+            "A) Verdadeira.",
+            "B) Falsa."
+        ],
+        "resposta": "A",
+        "explicacao": "Conceito correto e exato da função de um manifold submarino de produção.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 40,
+        "categoria": "PROVA 01",
+        "pergunta": "Qual das alternativas abaixo apresenta os instrumentos normalmente usados na inspeção visual submarina de anodos:",
+        "opcoes": [
+            "A) Raspadeira manual, escova manual, trena e estilete graduado.",
+            "B) Régua, lanterna e estilete graduado.",
+            "C) Paquímetro, trena e lupa.",
+            "D) Odômetro, estilete graduado e raspadeira."
+        ],
+        "resposta": "A",
+        "explicacao": "Ferramentas de limpeza para remover incrustações e instrumentos de medição física (trena/estilete) são essenciais para avaliar anodos.",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 41,
+        "categoria": "PROVA 02",
+        "pergunta": "O tubo que liga a plataforma fixa de produção aos dutos submarinos e que normalmente são colocados na parte externa das jaquetas sendo fixados por um suporte e guiado por braçadeiras é:",
+        "opcoes": [
+            "A) Tubo I.",
+            "B) Condutor articulado (Mariner riser).",
+            "C) Duto de interligação (riser).",
+            "D) Tubo coletor de óleo (sump)."
+        ],
+        "resposta": "C",
+        "explicacao": "O riser é o duto responsável pela ligação entre o fundo marinho e a plataforma.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 42,
+        "categoria": "PROVA 02",
+        "pergunta": "Como deve ser descrito o estado de corrosão de uma superfície metálica que apresenta em toda a sua extensão cavidades de fundo em forma angular e de profundidade maior que seu diâmetro:",
+        "opcoes": [
+            "A) Corrosão p/ pites severa localizada.",
+            "B) Corrosão p/ pites severa generalizada.",
+            "C) Corrosão alveolar severa generalizada.",
+            "D) Corrosão por cavidade angular."
+        ],
+        "resposta": "B",
+        "explicacao": "Cavidades angulares (pites) espalhadas por toda a extensão configuram corrosão por pites generalizada.",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 43,
+        "categoria": "PROVA 02",
+        "pergunta": "Na preparação de superfície para exame visual submarino não deve ser utilizado:",
+        "opcoes": [
+            "A) Raspadeiras manuais.",
+            "B) Martelete de agulhas.",
+            "C) Escova pneumática.",
+            "D) Jato dágua com alta pressão."
+        ],
+        "resposta": "B",
+        "explicacao": "Equipamentos de impacto pesado como marteletes de agulhas em certas condições delicadas podem causar danos superficiais indevidos.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 44,
+        "categoria": "PROVA 02",
+        "pergunta": "A formação de bolhas associada ao enferrujamento de uma superfície pintada deve ser relatada como:",
+        "opcoes": [
+            "A) Desfolhamento e corrosão.",
+            "B) Embolhamento e erosão.",
+            "C) Empolamento com enferrujamento.",
+            "D) Crateramento e rachamento."
+        ],
+        "resposta": "C",
+        "explicacao": "O surgimento de bolhas na tinta conjugado com pontos de ferrugem é classificado normativamente como empolamento com enferrujamento.",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 45,
+        "categoria": "PROVA 02",
+        "pergunta": "Assinale a afirmativa errada:",
+        "opcoes": [
+            "A) Solda de topo é solda executada em uma junta de topo.",
+            "B) Solda heterogênea é a solda cuja composição química da zona fundida difere significativamente do metal de base.",
+            "C) Solda autógena é a solda de fusão sem participação de metal de base.",
+            "D) Solda de aresta é a solda executada no bisel de um chanfro para reconstituir a forma original da peça antes da execução do chanfro."
+        ],
+        "resposta": "D",
+        "explicacao": "A alternativa D apresenta uma definição errônea para solda de aresta.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 46,
+        "categoria": "PROVA 02",
+        "pergunta": "Quais são as atividades que devem ser verificadas no exame visual de anodos:\n1 – Verificação da fixação dos anodos.\n2 – Verificação dimensional do anodo.\n3 – Medição do potencial do anodo.\n4 – Classificação do estado físico do anodo.\n5 – Verificação da composição química do anodo.",
+        "opcoes": [
+            "A) 1;3;5",
+            "B) Todas as alternativas devem ser verificadas.",
+            "C) 1;2;3",
+            "D) 1;2;4"
+        ],
+        "resposta": "D",
+        "explicacao": "O escopo visual direto de anodos abrange fixação, dimensões e estado físico/desgaste (itens 1, 2 e 4).",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 47,
+        "categoria": "PROVA 02",
+        "pergunta": "Assinale a afirmativa correta sobre a aferição de instrumentos:",
+        "opcoes": [
+            "A) A aferição de instrumentos é a comparação com os seus respectivos padrões para conhecer seus erros.",
+            "B) A aferição dos instrumentos deve ser feita todo dia no início das atividades de inspeção visual.",
+            "C) A aferição de instrumentos é uma atividade de verificação do funcionamento dos instrumentos.",
+            "D) Os dados de ajustes dos instrumentos executado durante a aferição devem ser registrados."
+        ],
+        "resposta": "A",
+        "explicacao": "Aferição consiste na comparação metrológica com padrões conhecidos para apurar desvios e erros.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 48,
+        "categoria": "PROVA 02",
+        "pergunta": "São defeitos visuais encontrados na inspeção em serviços de mangotes marítimos:",
+        "opcoes": [
+            "A) Abrasão, arame exposto, corte, saliência, dobramento excessivo, saliência e reentrância longitudinal, vestígio de vazamento de óleo.",
+            "B) Falta de sinalização, corrosão na capa externa, amassamento, mossas por impacto de sucata, incrustação.",
+            "C) Penetração insuficiente nos passes de soldagem da raiz, cisalhamento de revestimento, anodos gastos, roscas espanadas.",
+            "D) Espessuras reduzidas, corrosão excessiva, trincas, inclusão de escória, proteção catódica deficiência."
+        ],
+        "resposta": "A",
+        "explicacao": "Descreve com precisão os danos típicos de capa e estrutura em mangotes marítimos.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 49,
+        "categoria": "PROVA 02",
+        "pergunta": "Qual das afirmativas abaixo, referentes ao processo de soldagem com o eletrodo revestido é falsa:",
+        "opcoes": [
+            "A) Uma das causas da ocorrência de falta de penetração é a técnica inadequada de soldagem.",
+            "B) Trinca interlamelar é freqüentemente causada pela inabilidade do soldador.",
+            "C) Uma das causas do aparecimento de falta de fusão é a corrente inadequada de soldagem.",
+            "D) Inclusão de escória é freqüentemente provocada pela manipulação inadequada do eletrodo."
+        ],
+        "resposta": "B",
+        "explicacao": "Trinca interlamelar decorre de propriedades metalúrgicas e tensões estruturais do material base, e não de mera inabilidade do soldador.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 50,
+        "categoria": "PROVA 02",
+        "pergunta": "Assinale verdadeiro ou falsa em relação a afirmativa abaixo: Ensaio visual é o ensaio não destrutivo básico...",
+        "opcoes": [
+            "A) Falsa.",
+            "B) Verdadeira."
+        ],
+        "resposta": "B",
+        "explicacao": "O ensaio visual é universalmente reconhecido como o END primordial e base para quaisquer subsequentes investigações.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 51,
+        "categoria": "PROVA 03",
+        "pergunta": "Os cabos de alimentação de equipamentos, utilizados em ensaio visual submarino podem ter emendas ou derivações de modo a facilitar o manuseio:",
+        "opcoes": [
+            "A) Falsa",
+            "B) Verdadeira"
+        ],
+        "resposta": "A",
+        "explicacao": "Cabos elétricos submersos não devem possuir emendas improvisadas devido ao altíssimo risco de infiltração de água e falha de isolamento.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 52,
+        "categoria": "PROVA 03",
+        "pergunta": "Assinale a afirmativa errada sobre terminologia de soldagem:",
+        "opcoes": [
+            "A) Face de fusão é a superfície do metal de base que será fundida na soldagem.",
+            "B) A face da solda é a superfície exposta da solda, pelo lado onde a solda foi executada.",
+            "C) Geometria da junta é a forma e dimensões da seção transversal de uma junta após soldagem.",
+            "D) Solda em ângulo é a solda de seção transversal aproximadamente triangular executada em juntas aproximadamente em ângulo reto."
+        ],
+        "resposta": "C",
+        "explicacao": "A geometria da junta refere-se à configuração e dimensões pré-soldagem das peças unidas.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 53,
+        "categoria": "PROVA 03",
+        "pergunta": "No processo de soldagem com eletrodo revestido, quando se diz que a soldagem é com polaridade inversa, significa que:",
+        "opcoes": [
+            "A) A peça está ligada ao polo positivo da máquina de solda.",
+            "B) O eletrodo está ligado ao polo negativo da máquina de solda.",
+            "C) A corrente usada é alternada.",
+            "D) O eletrodo está ligado ao polo positivo da máquina de solda."
+        ],
+        "resposta": "D",
+        "explicacao": "Polaridade inversa (DCEP) significa cabo do eletrodo no polo positivo e peça no negativo.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 54,
+        "categoria": "PROVA 03",
+        "pergunta": "Assinale a alternativa errada:",
+        "opcoes": [
+            "A) Solda heterogênea é a solda cuja composição química da zona fundida difere significativamente do(s) metal(is) base.",
+            "B) Solda de aresta é a solda executada no bisel de um chanfro para reconstituir a forma original da peça antes da execução do chanfro.",
+            "C) Solda autógena é a solda de fusão sem participação de metal de adição."
+        ],
+        "resposta": "B",
+        "explicacao": "Conceito incorreto de solda de aresta.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 55,
+        "categoria": "PROVA 03",
+        "pergunta": "Os ensaios visuais demandam meios auxiliares e complementares para sua execução. Citamos a utilização de:",
+        "opcoes": [
+            "A) Partículas magnéticas.",
+            "B) Aparelho de medição de espessura.",
+            "C) Líquido penetrante.",
+            "D) Raspadeira e escova manual."
+        ],
+        "resposta": "D",
+        "explicacao": "Ferramentas manuais de limpeza e preparo constituem meios auxiliares fundamentais para a realização do EV.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 56,
+        "categoria": "PROVA 04",
+        "pergunta": "Dentre os instrumentos auxiliares indicados abaixo, assinale aquele que é normalmente empregado na inspeção visual subaquática:",
+        "opcoes": [
+            "A) Lanterna.",
+            "B) Lupa com iluminação própria.",
+            "C) Espelhos convexos.",
+            "D) Luxímetro."
+        ],
+        "resposta": "C",
+        "explicacao": "Espelhos especiais e convexos auxiliam na visualização de regiões de difícil acesso visual direto.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 57,
+        "categoria": "PROVA 04",
+        "pergunta": "Indique qual das afirmativas abaixo é a correta sobre material consumível na soldagem:",
+        "opcoes": [
+            "A) Consumível é todo o material empregado na deposição e que funde-se originando uma solda.",
+            "B) Consumível é todo o material empregado apenas na proteção da solda.",
+            "C) Consumível é todo o material que funde-se originando uma solda.",
+            "D) Consumível é todo o material empregado na deposição ou proteção da solda."
+        ],
+        "resposta": "A",
+        "explicacao": "Definição técnica normativa para consumíveis de soldagem.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 58,
+        "categoria": "PROVA 04",
+        "pergunta": "Trinca com direção aproximadamente paralela ao eixo longitudinal do cordão de solda, podendo estar localizada na zona fundida, na zona de ligação, na ZTA ou no metal de base:",
+        "opcoes": [
+            "A) Trinca longitudinal.",
+            "B) Trinca transversal.",
+            "C) Trinca ramificada.",
+            "D) Trinca irradiante."
+        ],
+        "resposta": "A",
+        "explicacao": "Trinca longitudinal é aquela que corre paralelamente ao eixo do cordão de solda.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 59,
+        "categoria": "PROVA 04",
+        "pergunta": "Do ponto de vista de proteção contra choques, os cabos de alimentação de equipamentos:",
+        "opcoes": [
+            "A) Não precisam ter isolamento resistente a umidade.",
+            "B) Nenhuma das respostas.",
+            "C) Ser protegidos contra danos mecânicos acidentais.",
+            "D) Devem utilizar alta amperagem."
+        ],
+        "resposta": "C",
+        "explicacao": "A integridade da isolação e proteção contra danos mecânicos externos é crítica para a segurança elétrica.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 60,
+        "categoria": "PROVA 04",
+        "pergunta": "O processo de soldagem a arco submerso utiliza o calor gerado para:",
+        "opcoes": [
+            "A) Fundir o arame e o fluxo que juntamente com o gás de proteção, normalmente argônio, protegem a poça de fusão.",
+            "B) Fundir o metal de base, o arame e o fluxo cuja a função é a de proteger a poça de fusão.",
+            "C) Fundir o fluxo e este fundir o arame.",
+            "D) Fundir o arame, sendo que a poça de fusão é protegida pelo gás inerte, normalmente argônio."
+        ],
+        "resposta": "B",
+        "explicacao": "No arco submerso, o calor funde o metal de base, o arame de adição e o fluxo granular protetor.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 61,
+        "categoria": "PROVA 05",
+        "pergunta": "Assinale verdadeiro ou falso, em relação a afirmativa abaixo: Trincas de fadiga ocorrem em estruturas metálicas submersas e apresentam orientação predominantemente longitudinal à solda e localizam-se normalmente na margem da solda.",
+        "opcoes": [
+            "A) Verdadeiro.",
+            "B) Falso."
+        ],
+        "resposta": "A",
+        "explicacao": "As trincas de fadiga offshore manifestam-se tipicamente nas regiões de alta concentração de tensões, como as margens de solda.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 62,
+        "categoria": "PROVA 05",
+        "pergunta": "Assinale verdadeiro ou falso em relação a afirmativa abaixo: Os equipamentos elétricos para uso submerso devem possuir relê de fuga (desarme) para evitar riscos de choques ao mergulhador.",
+        "opcoes": [
+            "A) Falso.",
+            "B) Verdadeiro."
+        ],
+        "resposta": "B",
+        "explicacao": "Dispositivos de proteção contra fuga de corrente (DR) são mandatórios em circuitos subaquáticos.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 63,
+        "categoria": "PROVA 05",
+        "pergunta": "A definição a seguir, corresponde ou não ao componente cone: 'Trecho de ligação entre um tronco (can) e o restante da corda (chord)...'",
+        "opcoes": [
+            "A) Falso.",
+            "B) Verdadeiro."
+        ],
+        "resposta": "B",
+        "explicacao": "Descrição exata do elemento estrutural cônico em nós de jaquetas.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 64,
+        "categoria": "PROVA 05",
+        "pergunta": "A definição de coletor ( manifold ) corresponde a um conjunto de tubos interligando diversas linhas de chegada com uma ou mais saídas...",
+        "opcoes": [
+            "A) Verdadeiro.",
+            "B) Falso."
+        ],
+        "resposta": "A",
+        "explicacao": "Definição correta de manifold.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 65,
+        "categoria": "PROVA 05",
+        "pergunta": "Quando se detecta corrosão em um membro estrutural, deve-se classificar a corrosão, dimensionar a área afetada e dimensionar por amostragem a profundidade dos pites quando for o caso:",
+        "opcoes": [
+            "A) Verdadeiro.",
+            "B) Falso."
+        ],
+        "resposta": "A",
+        "explicacao": "Procedimento padrão normativo para relatórios de inspeção de corrosão.",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 66,
+        "categoria": "PROVA 06",
+        "pergunta": "Indique qual dos tipos citados abaixo, é o que melhor caracteriza a corrosão sofrida por um anodo de sacrifício, utilizado na proteção catódica de uma estrutura submersa em água salgada:",
+        "opcoes": [
+            "A) Corrosão intergranular.",
+            "B) Corrosão por eletrolise.",
+            "C) Corrosão por microrganismos.",
+            "D) Corrosão galvânica."
+        ],
+        "resposta": "D",
+        "explicacao": "O anodo de sacrifício atua e consome-se por ação da corrosão galvânica em relação ao aço da estrutura.",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 67,
+        "categoria": "PROVA 06",
+        "pergunta": "Qual das alternativas não está relacionada com descontinuidades detectadas na raiz de soldas?",
+        "opcoes": [
+            "A) Mordedura.",
+            "B) Perfuração.",
+            "C) Excesso de penetração.",
+            "D) Falta de fusão."
+        ],
+        "resposta": "A",
+        "explicacao": "A mordedura ocorre tipicamente na margem da face ou passe externo da solda, não na raiz.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 68,
+        "categoria": "PROVA 06",
+        "pergunta": "Assinale a alternativa falsa: na inspeção visual direta podemos verificar:",
+        "opcoes": [
+            "A) Problemas no revestimento de epóxi.",
+            "B) Incrustações marinhas.",
+            "C) Eficiência do sistema de proteção catódica.",
+            "D) Deformações e danos mecânicos em geral na estrutura."
+        ],
+        "resposta": "C",
+        "explicacao": "A eficiência exata do sistema de proteção catódica requer medições eletroquímicas de potencial (potenciometria), não sendo dedutível unicamente por inspeção visual direta.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 69,
+        "categoria": "PROVA 06",
+        "pergunta": "O relatório final de inspeção é feito por:",
+        "opcoes": [
+            "A) Fotografias e televisionamento das ocorrências",
+            "B) Relatório escrito e croqui.",
+            "C) Gravação de relatório em fita VHS, CD ou DVD",
+            "D) Todas as alternativas estão corretas"
+        ],
+        "resposta": "D",
+        "explicacao": "O conjunto completo de relatórios integra registros escritos, croquis, fotos e mídias de vídeo.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 70,
+        "categoria": "PROVA 06",
+        "pergunta": "Indique entre os métodos citados abaixo qual não deve ser utilizado p/ a preparação da superfície anterior ao exame visual:",
+        "opcoes": [
+            "A) Limpeza manual.",
+            "B) Jato de areia.",
+            "C) Limpeza com escova hidráulica.",
+            "D) Calafetagem."
+        ],
+        "resposta": "D",
+        "explicacao": "Calafetagem é um processo de vedação de juntas, e não um método de limpeza de superfícies.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 71,
+        "categoria": "PROVA 07",
+        "pergunta": "Um anodo de sacrifício que apresenta perda de massa localizada, é caracterizado em qual tipo de desgaste:",
+        "opcoes": [
+            "A) Desgaste galvânico.",
+            "B) Desgaste generalizado leve.",
+            "C) Desgaste irregular.",
+            "D) Desgaste severo localizado."
+        ],
+        "resposta": "C",
+        "explicacao": "Perdas de massa assimétricas ou pontuais configuram desgaste irregular no anodo.",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 72,
+        "categoria": "PROVA 07",
+        "pergunta": "Qual das descontinuidades abaixo podem ser detectadas na inspeção visual subaquática:",
+        "opcoes": [
+            "A) Sobreposição.",
+            "B) Reforço excessivo.",
+            "C) Deposição insuficiente.",
+            "D) Todas as alternativas estão corretas."
+        ],
+        "resposta": "D",
+        "explicacao": "Todas são imperfeições geométricas e superficiais perfeitamente detectáveis por EV.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 73,
+        "categoria": "PROVA 07",
+        "pergunta": "Assinale a alternativa falsa: na inspeção visual direta podemos verificar:",
+        "opcoes": [
+            "A) Processos corrosivos.",
+            "B) Danos mecânicos.",
+            "C) Descontinuidades no revestimento protetor.",
+            "D) Problemas na distribuição da corrente de proteção catódica."
+        ],
+        "resposta": "D",
+        "explicacao": "A distribuição de corrente elétrica protetiva não é visível a olho nu.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 74,
+        "categoria": "PROVA 07",
+        "pergunta": "São equipamentos de limpeza proibidos na preparação de uma superfície metálica para posterior inspeção visual detalhada:",
+        "opcoes": [
+            "A) Hidrojateamento com areia.",
+            "B) Martelete de agulhas.",
+            "C) Jato de areia.",
+            "D) Todas as alternativas estão corretas."
+        ],
+        "resposta": "D",
+        "explicacao": "Métodos que geram centelhamento a seco ou poluição ambiental severa em ambiente subaquático/regraturas sofrem restrições normativas.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 75,
+        "categoria": "PROVA 07",
+        "pergunta": "Indique dentre as descontinuidades citadas abaixo qual não está localizada na zona fundida:",
+        "opcoes": [
+            "A) Rechupe de cratera.",
+            "B) Poros.",
+            "C) Mordedura.",
+            "D) Deposição insuficiente."
+        ],
+        "resposta": "C",
+        "explicacao": "A mordedura ocorre no metal de base, adjacente à margem da solda.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 76,
+        "categoria": "PROVA 08",
+        "pergunta": "Equipamento recomendado para verificar a intensidade de luz na superfície inspecionada é:",
+        "opcoes": [
+            "A) Luxímetro",
+            "B) Gaussímetro",
+            "C) Fotômetro",
+            "D) Radiômetro"
+        ],
+        "resposta": "A",
+        "explicacao": "O luxímetro mede a iluminância (Lux) incidente sobre a superfície de trabalho.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 77,
+        "categoria": "PROVA 08",
+        "pergunta": "São descontinuidades geralmente localizadas no metal de base:",
+        "opcoes": [
+            "A) Abertura de arco.",
+            "B) Deposição insuficiente.",
+            "C) Trinca interlamelar.",
+            "D) Existe uma resposta errada."
+        ],
+        "resposta": "D",
+        "explicacao": "Abertura de arco e trinca interlamelar situam-se no metal de base, enquanto deposição insuficiente refere-se à solda.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 78,
+        "categoria": "PROVA 08",
+        "pergunta": "Assinale a alternativa correta sobre a visão subaquática:",
+        "opcoes": [
+            "A) A luz dos objetos submersos inspecionados sofre refração... enxergaremos como se o objeto estivesse aproximadamente 25% mais próximo e fosse 35% maior.",
+            "B) ...aproximadamente 80% mais próximo e fosse 35% menor.",
+            "C) ...aproximadamente 25% mais próximo e fosse 35% menor.",
+            "D) ...aproximadamente 55% mais próximo e fosse 80% maior."
+        ],
+        "resposta": "A",
+        "explicacao": "Efeito dióptrico da máscara de mergulho: os objetos aparentam estar cerca de 25% mais próximos e 35% maiores.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 79,
+        "categoria": "PROVA 08",
+        "pergunta": "Em dutos submersos, é dada atenção especial na inspeção do leito marinho no aspecto que se refere a:",
+        "opcoes": [
+            "A) Cobertura do duto pelo leito",
+            "B) Ausência de lodo em torno do duto",
+            "C) Apoio do leito no duto",
+            "D) Sujeira em torno do duto"
+        ],
+        "resposta": "C",
+        "explicacao": "A verificação de apoios e trechos livres (vãos livres) previne falhas por fadiga induzida em dutos.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 80,
+        "categoria": "PROVA 08",
+        "pergunta": "Qual das alternativas corresponde aos defeitos visuais normalmente encontrados em mangotes marítimos?",
+        "opcoes": [
+            "A) Puncionamento e colapso hidrostático",
+            "B) Vestígios de vazamento e puncionamento",
+            "C) Torção e flambagem",
+            "D) Corte e abrasão com exposição de arame"
+        ],
+        "resposta": "D",
+        "explicacao": "Abrasão severa com exposição das espiras de reforço de arame é um dano típico em mangotes.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 81,
+        "categoria": "PROVA 09",
+        "pergunta": "Uma chapa tem espessura nominal de 19 mm. Se a profundidade do alvéolo tem 3,8 mm, qual é a intensidade da corrosão alveolar?",
+        "opcoes": [
+            "A) Tipo I",
+            "B) Tipo II",
+            "C) Tipo III",
+            "D) Tipo IV"
+        ],
+        "resposta": "B",
+        "explicacao": "O cálculo da porcentagem de perda de espessura (3,8 / 19 = 20%) enquadra o alvéolo nos critérios da norma para o Tipo II.",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 82,
+        "categoria": "PROVA 09",
+        "pergunta": "É uma descontinuidade localizada no metal de base:",
+        "opcoes": [
+            "A) Reforço excessivo.",
+            "B) Deposição insuficiente.",
+            "C) Trinca interlamelar.",
+            "D) Rechupe de cratera."
+        ],
+        "resposta": "C",
+        "explicacao": "A trinca interlamelar ocorre nas lamelas internas do metal base.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 83,
+        "categoria": "PROVA 09",
+        "pergunta": "A luz branca, ao atravessar um prisma transparente sofre a dispersão. O espectro cores formado tem as seguintes cores:",
+        "opcoes": [
+            "A) violeta, anil, azul, verde, amarela, alaranjada e vermelha;",
+            "B) violeta, anil, azul, verde, amarela, vermelha e preta;",
+            "C) violeta, anil, azul, verde, amarela, alaranjada e preta;",
+            "D) roxa, anil, azul, verde, amarela, vermelha e preta;"
+        ],
+        "resposta": "A",
+        "explicacao": "Espectro visível clássico da luz branca decomposta.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 84,
+        "categoria": "PROVA 09",
+        "pergunta": "Qual trinca não é encontrada na superfície onde é depositado o metal de adição (face da solda)?",
+        "opcoes": [
+            "A) Trinca longitudinal.",
+            "B) Trinca ramificada.",
+            "C) Trinca interlamelar.",
+            "D) Trinca na margem."
+        ],
+        "resposta": "C",
+        "explicacao": "A trinca interlamelar desenvolve-se no interior do material base, abaixo da superfície.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 85,
+        "categoria": "PROVA 09",
+        "pergunta": "Qual descontinuidade é encontrada somente na face de uma solda em chanfro?",
+        "opcoes": [
+            "A) Perfuração",
+            "B) Deposição insuficiente.",
+            "C) Concavidade.",
+            "D) Mordedura."
+        ],
+        "resposta": "B",
+        "explicacao": "Deposição insuficiente caracteriza a falta de metal na face do cordão de solda.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 86,
+        "categoria": "PROVA 10",
+        "pergunta": "Uma chapa tem espessura nominal de 22 mm. Se a profundidade do alvéolo tem 10 mm, qual é a intensidade da corrosão alveolar?",
+        "opcoes": [
+            "A) Tipo I",
+            "B) Tipo II",
+            "C) Tipo III",
+            "D) Tipo IV"
+        ],
+        "resposta": "C",
+        "explicacao": "10 mm de profundidade em 22 mm representam cerca de 45% de perda, situando-se na faixa do Tipo III.",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 87,
+        "categoria": "PROVA 10",
+        "pergunta": "É uma descontinuidade localizada no metal de base:",
+        "opcoes": [
+            "A) Reforço excessivo.",
+            "B) Deposição insuficiente.",
+            "C) Dupla laminação.",
+            "D) Rechupe de cratera."
+        ],
+        "resposta": "C",
+        "explicacao": "A dupla laminação é um defeito de fabricação inerente ao material base (chapa/perfil).",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 88,
+        "categoria": "PROVA 10",
+        "pergunta": "O termo resolução em fotografia representa:",
+        "opcoes": [
+            "A) Quantidade de pixels que forma a imagem.",
+            "B) Distância em foco na frente e atrás do objetivo fotografado.",
+            "C) A quantidade de cores da imagem digital.",
+            "D) A abertura focal da lente utilizada."
+        ],
+        "resposta": "A",
+        "explicacao": "Resolução digital refere-se diretamente à contagem de pixels da matriz de captura.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 89,
+        "categoria": "PROVA 10",
+        "pergunta": "Qual trinca não é encontrada na superfície onde é depositado o metal de adição?",
+        "opcoes": [
+            "A) Trinca longitudinal.",
+            "B) Trinca ramificada.",
+            "C) Trinca interlamelar.",
+            "D) Trinca na margem."
+        ],
+        "resposta": "C",
+        "explicacao": "Reforça o conceito de que trincas interlamelares são internas ao metal de base.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 90,
+        "categoria": "PROVA 10",
+        "pergunta": "Qual descontinuidade é encontrada somente na face de uma solda em chanfro?",
+        "opcoes": [
+            "A) Perfuração",
+            "B) Rechupe de cratera.",
+            "C) Concavidade.",
+            "D) Mordedura."
+        ],
+        "resposta": "C",
+        "explicacao": "A concavidade excessiva na face é uma característica restrita à geometria de face de soldas.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 91,
+        "categoria": "PROVA 11",
+        "pergunta": "Assinale a alternativa ERRADA relativa à classificação de corrosão:",
+        "opcoes": [
+            "A) Corrosão localizada uniforme tipo I",
+            "B) Corrosão uniforme generalizada",
+            "C) Corrosão alveolar generalizada tipo III",
+            "D) Corrosão dispersa pitiforme"
+        ],
+        "resposta": "A",
+        "explicacao": "A corrosão classificada como uniforme ocorre por definição de forma generalizada, gerando incoerência com o termo 'localizada uniforme'.",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 92,
+        "categoria": "PROVA 11",
+        "pergunta": "Qual das alternativas abaixo representa uma descontinuidade induzida pelo soldador?",
+        "opcoes": [
+            "A) Poros ou porosidade",
+            "B) Mordedura",
+            "C) Trinca de fadiga",
+            "D) Inclusão de escória"
+        ],
+        "resposta": "B",
+        "explicacao": "A mordedura decorre diretamente de parâmetros operacionais inadequados e técnica incorreta do operador/soldador.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 93,
+        "categoria": "PROVA 11",
+        "pergunta": "A inclusão de escória de uma junta soldada pode ser classificada como:",
+        "opcoes": [
+            "A) Alinhada, superficial ou agrupada",
+            "B) Alinhada, isolada ou interna",
+            "C) Superficial, alinha ou isolada",
+            "D) Agrupada, isolada ou alinhada"
+        ],
+        "resposta": "D",
+        "explicacao": "Terminologia normativa para distribuição e classificação de inclusões de escória.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 94,
+        "categoria": "PROVA 11",
+        "pergunta": "Indique qual das alternativas abaixo é VERDADEIRA sobre processos de soldagem:",
+        "opcoes": [
+            "A) No processo de soldagem TIG, a proteção da poça de fusão é obtida graças a ação redutora dos gases.",
+            "B) Os processos de soldagem MIG e TIG utilizam gás inerte.",
+            "C) Utilizando-se corrente alternada no processo de soldagem com eletrodo revestido, a polaridade é conhecida como alternada.",
+            "D) Uma das funções do revestimento, no processo de soldagem com eletrodo revestido, é proteger a alma do eletrodo contra oxidação e evitar o sopro magnético."
+        ],
+        "resposta": "B",
+        "explicacao": "Tanto MIG quanto TIG empregam gases inertes (como argônio ou hélio) para proteção da poça de fusão.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 95,
+        "categoria": "PROVA 11",
+        "pergunta": "Na análise de deformação devida a soldagem de chapas em juntas de topo, sabe-se que:",
+        "opcoes": [
+            "A) A contração transversal é proporcional a área da seção transversal da zona fundida.",
+            "B) A contração transversal é independente na abertura de raiz da junta.",
+            "C) A contração transversal é inversamente proporcional a abertura de raiz da junta.",
+            "D) A contração transversal é diretamente proporcional a espessura das chapas."
+        ],
+        "resposta": "A",
+        "explicacao": "Quanto maior a quantidade de metal depositado (área da zona fundida), maior será a contração transversal gerada.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 96,
+        "categoria": "PROVA 12",
+        "pergunta": "Dentre os instrumentos auxiliares indicados abaixo, assinale aquele que é normalmente empregado na inspeção visual subaquática:",
+        "opcoes": [
+            "A) Lanterna.",
+            "B) Lupa com iluminação própria.",
+            "C) Espelhos convexos.",
+            "D) Luxímetro."
+        ],
+        "resposta": "C",
+        "explicacao": "Reforço da utilidade de espelhos convexos em inspeções visuais submarinas.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 97,
+        "categoria": "PROVA 12",
+        "pergunta": "Indique qual das afirmativas abaixo é a correta sobre material consumível:",
+        "opcoes": [
+            "A) Consumível é todo o material empregado na deposição e que se funde originando uma solda.",
+            "B) Consumível é todo o material empregado apenas na proteção da solda.",
+            "C) Consumível é todo o material que se funde originando uma solda.",
+            "D) Consumível é todo o material empregado na deposição ou proteção da solda."
+        ],
+        "resposta": "A",
+        "explicacao": "Definição normativa padrão de material consumível de soldagem.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 98,
+        "categoria": "PROVA 12",
+        "pergunta": "Trinca com direção aproximadamente paralela ao eixo longitudinal do cordão de solda...",
+        "opcoes": [
+            "A) Trinca longitudinal.",
+            "B) Trinca transversal.",
+            "C) Trinca ramificada.",
+            "D) Trinca irradiante."
+        ],
+        "resposta": "A",
+        "explicacao": "Identificação de trinca longitudinal.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 99,
+        "categoria": "PROVA 12",
+        "pergunta": "Do ponto de vista de proteção contra choques, os cabos de alimentação de equipamentos:",
+        "opcoes": [
+            "A) Não precisam ter isolamento resistente a umidade.",
+            "B) Nenhuma das respostas.",
+            "C) Ser protegidos contra danos mecânicos acidentais.",
+            "D) Devem utilizar alta amperagem."
+        ],
+        "resposta": "C",
+        "explicacao": "Proteção mecânica acidental é exigência de segurança.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 100,
+        "categoria": "PROVA 12",
+        "pergunta": "O processo de soldagem a arco submerso utiliza o calor gerado para:",
+        "opcoes": [
+            "A) Fundir o arame e o fluxo que juntamente com o gás de proteção...",
+            "B) Fundir o metal de base, o arame e o fluxo cuja função é a de proteger a poça de fusão.",
+            "C) Fundir o fluxo e este fundir o arame.",
+            "D) Fundir o arame..."
+        ],
+        "resposta": "B",
+        "explicacao": "Fusão simultânea de metal base, arame de adição e fluxo protetor no arco submerso.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 101,
+        "categoria": "PROVA 13",
+        "pergunta": "Quem pode executar inspeção com ROV?",
+        "opcoes": [
+            "A) Um operador devidamente treinado.",
+            "B) O inspetor nível 2 certificado.",
+            "C) Um operador em conjunto com um inspetor nível 1 certificado.",
+            "D) O inspetor nível 1 certificado."
+        ],
+        "resposta": "B",
+        "explicacao": "A qualificação e responsabilidade técnica pelo ensaio remoto via ROV cabe ao inspetor certificado de nível correspondente (N2-ROV).",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 102,
+        "categoria": "PROVA 13",
+        "pergunta": "Qual o prazo de validade da certificação de um profissional SM-EV-N2?",
+        "opcoes": [
+            "A) indefinida.",
+            "B) 10 anos.",
+            "C) 12 meses.",
+            "D) 60 meses."
+        ],
+        "resposta": "D",
+        "explicacao": "O ciclo padrão de certificação e renovação sob o SGB/ABENDI vigora por 60 meses (5 anos).",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 103,
+        "categoria": "PROVA 13",
+        "pergunta": "Assinale a afirmativa falsa sobre procedimentos de inspeção subaquática:",
+        "opcoes": [
+            "A) Toda ocorrência deve ser localizada em relação a um ponto de referência determinado por um sistema de localização e rastreabilidade.",
+            "B) Todo ensaio de pequena descontinuidade deve ser feito com limpeza prévia.",
+            "C) O termo rompimento é definido como deformação plástica com rompimento parcial da seção de um componente estrutural.",
+            "D) No caso de verificação de flambagem é permitido ao inspetor uma distância maior que 2m."
+        ],
+        "resposta": "C",
+        "explicacao": "Rompimento parcial difere de rompimento total da seção, tornando a definição da alternativa imprecisa perante o rigor normativo.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 104,
+        "categoria": "PROVA 13",
+        "pergunta": "Assinale a alternativa correta relacionada com inspeção visual do leito marinho:",
+        "opcoes": [
+            "A) A inspeção do leito marinho pode indicar risco potencial a uma estrutura. Assoreamento ou desassoreamento.",
+            "B) A inspeção pode revelar deterioração das estruturas...",
+            "C) A inspeção pode indicar a necessidade de limpeza do leito.",
+            "D) A inspeção pode revelar movimentação das correntes marinhas..."
+        ],
+        "resposta": "A",
+        "explicacao": "Identificar assoreamento ou desassoreamento é o objetivo primordial da inspeção do solo marinho.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 105,
+        "categoria": "PROVA 13",
+        "pergunta": "Assinale a alternativa correta com relação a inspeção visual de anodos de sacrifício:",
+        "opcoes": [
+            "A) É importante medir sempre o potencial eletroquímico além da inspeção visual.",
+            "B) Relatar a localização, fixação, desgaste e seção do anodo.",
+            "C) Se os anodos estiverem em boas condições, não é necessário relatar.",
+            "D) todas as alternativas estão corretas."
+        ],
+        "resposta": "B",
+        "explicacao": "O relatório técnico deve cobrir obrigatoriamente localização, fixação, desgaste e seção do anodo inspecionado.",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 106,
+        "categoria": "PROVA 14",
+        "pergunta": "Resolução em fotografia significa:",
+        "opcoes": [
+            "A) A profundidade máxima para a qual o equipamento foi projetado.",
+            "B) A quantidade máxima de pixels que forma a imagem.",
+            "C) A quantidade de cores disponíveis na captura da imagem.",
+            "D) Distância antes e após o objetivo que permanece focalizada."
+        ],
+        "resposta": "B",
+        "explicacao": "Conceito de densidade de pixels e resolução digital.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 107,
+        "categoria": "PROVA 14",
+        "pergunta": "Segundo requisitos da norma de inspeção subaquática por ensaio visual, quais os requisitos para o registro fotográfico:",
+        "opcoes": [
+            "A) Deve permitir a aproximação mínima de 100 mm, exceto em macro fotografia.",
+            "B) Deve permitir o armazenamento de no mínimo 2 gygabytes em imagens de 8 megapixels.",
+            "C) Deve permitir o armazenamento de no mínimo 8 Gigabytes em imagens de 2 megapixels.",
+            "D) Deve permitir a aproximação de 500 mm no mínimo, para fotos macro."
+        ],
+        "resposta": "B",
+        "explicacao": "Requisito normativo técnico de capacidade de armazenamento e resolução de imagem para rastreabilidade de inspeção.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 108,
+        "categoria": "PROVA 14",
+        "pergunta": "Assinale a alternativa correta sobre a visão subaquática e refração:",
+        "opcoes": [
+            "A) A luz dos objetos submersos inspecionados sofre refração... enxergamos como se o objeto estivesse, aproximadamente 25% mais próximo e fosse 35% maior.",
+            "B) ...aproximadamente 55% mais próximo e fosse 80% maior.",
+            "C) ...aproximadamente 80% mais próximo e fosse 35% menor.",
+            "D) ...aproximadamente 80% mais próximo e fosse 35% menor."
+        ],
+        "resposta": "A",
+        "explicacao": "Confirmação do efeito dióptrico padrão (25% mais próximo, 35% maior).",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 109,
+        "categoria": "PROVA 14",
+        "pergunta": "Em dutos submersos, é dada atenção especial na inspeção do leito marinho, no aspecto que se refere a:",
+        "opcoes": [
+            "A) Apoio do leito para o duto.",
+            "B) Ausência de lodo em torno do duto.",
+            "C) Cobertura do duto pelo leito.",
+            "D) Sujeira em torno do duto."
+        ],
+        "resposta": "A",
+        "explicacao": "Garantia de apoio contínuo para evitar vãos livres.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 110,
+        "categoria": "PROVA 14",
+        "pergunta": "Qual das alternativas corresponde aos defeitos visuais encontrados em mangotes marítimos:",
+        "opcoes": [
+            "A) Vestígio de vazamento e amassamento.",
+            "B) Torção e corte.",
+            "C) Puncionamento e colapso hidrostático.",
+            "D) Corte e abrasão com exposição do arame."
+        ],
+        "resposta": "D",
+        "explicacao": "Cortes e abrasão com exposição de armadura são falhas clássicas em mangotes.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 111,
+        "categoria": "PROVA 15",
+        "pergunta": "Equipamento recomendado para verificar a intensidade luminosa na superfície inspecionada é:",
+        "opcoes": [
+            "A) Gaussímetro.",
+            "B) Luxímetro.",
+            "C) Fotometro.",
+            "D) Radiometro."
+        ],
+        "resposta": "B",
+        "explicacao": "Luxímetro é o instrumento padrão de medição de iluminância.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 112,
+        "categoria": "PROVA 15",
+        "pergunta": "Durante a inspeção submersa foi efetuada a captura da inspeção por vídeo. Identifique qual a melhor condição para ter uma imagem nítida de vídeo:",
+        "opcoes": [
+            "A) Como a imagem é obtida em altíssima velocidade, deve ser utilizada câmera com elevado FPS...",
+            "B) Utilizando lente com FOV elevado...",
+            "C) Movimentando a câmera lentamente, pode ser utilizada câmera de alta resolução, associada a menor taxa de FPS para não sobrecarregar o processamento...",
+            "D) Como o vídeo vai ser analisado posteriormente em câmera lenta..."
+        ],
+        "resposta": "C",
+        "explicacao": "Movimentos lentos e estáveis com câmeras de alta resolução evitam artefatos de borramento (motion blur) na gravação submarina.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 113,
+        "categoria": "PROVA 15",
+        "pergunta": "Assinale a alternativa correta sobre a refração na água:",
+        "opcoes": [
+            "A) A luz dos objetos submersos... enxergamos como se o objeto estivesse, aproximadamente 25% mais próximo e fosse 35% maior.",
+            "B) ...aproximadamente 55% mais próximo...",
+            "C) ...aproximadamente 80% mais próximo...",
+            "D) ...aproximadamente 80% mais próximo e menor."
+        ],
+        "resposta": "A",
+        "explicacao": "Reitera a distorção óptica padrão da máscara subaquática.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 114,
+        "categoria": "PROVA 15",
+        "pergunta": "Em dutos submersos, é dada atenção especial na inspeção do leito marinho, no aspecto que se refere a:",
+        "opcoes": [
+            "A) Apoio do leito para o duto.",
+            "B) Ausência de lodo em torno do duto.",
+            "C) Cobertura do duto pelo leito.",
+            "D) Sujeira em torno do duto."
+        ],
+        "resposta": "A",
+        "explicacao": "Verificação de apoio estrutural do leito.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 115,
+        "categoria": "PROVA 15",
+        "pergunta": "Qual das alternativas corresponde aos defeitos visuais encontrados em mangotes marítimos:",
+        "opcoes": [
+            "A) Vestígio de vazamento e amassamento.",
+            "B) Torção e corte.",
+            "C) Puncionamento e colapso hidrostático.",
+            "D) Corte e abrasão com exposição do arame."
+        ],
+        "resposta": "A",
+        "explicacao": "Vestígios de vazamento e amassamentos estruturais.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 116,
+        "categoria": "PROVA 16",
+        "pergunta": "Durante a inspeção submersa foi efetuada a captura da inspeção por vídeo. Identifique qual a melhor condição para ter uma imagem nítida:",
+        "opcoes": [
+            "A) Como a imagem é obtida em altíssima velocidade...",
+            "B) Utilizando lente com FOV elevado...",
+            "C) Movimentando a câmera lentamente, pode ser utilizada câmera de alta resolução, associada a menor taxa de FPS para não sobrecarregar...",
+            "D) Como o vídeo vai ser analisado posteriormente..."
+        ],
+        "resposta": "C",
+        "explicacao": "Velocidade de varredura controlada e baixa taxa de quadros associada à alta resolução garante nitidez nos relatórios.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 117,
+        "categoria": "PROVA 16",
+        "pergunta": "Resolução em fotografia significa:",
+        "opcoes": [
+            "A) A profundidade máxima para a qual o equipamento foi projetado.",
+            "B) A quantidade máxima de pixels que forma a imagem.",
+            "C) A quantidade de cores disponíveis na captura da imagem.",
+            "D) Distância antes e após o objetivo que permanece focalizada."
+        ],
+        "resposta": "B",
+        "explicacao": "Contagem de pixels definidora da resolução digital.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 118,
+        "categoria": "PROVA 16",
+        "pergunta": "Assinale a alternativa correta sobre iluminação artificial na inspeção visual subaquática:",
+        "opcoes": [
+            "A) A luz artificial para inspeção visual subaquática deve promover um ângulo de cobertura igual ou maior que o ângulo de visão da lente.",
+            "B) A luz artificial deve ter o ângulo do feixe luminoso focalizado, ou seja, menor que o ângulo de visão da lente.",
+            "C) Quando utilizada luz artificial não é permitido o uso de difusor...",
+            "D) A luz utilizada na inspeção subaquática deve ser natural..."
+        ],
+        "resposta": "A",
+        "explicacao": "O facho de luz artificial deve cobrir plenamente ou exceder o campo visual da lente para evitar vinhetas escuras.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 119,
+        "categoria": "PROVA 16",
+        "pergunta": "O desgaste de um anodo de sacrifício deve ser caracterizado da seguinte forma:",
+        "opcoes": [
+            "A) Leve, generalizado e severo.",
+            "B) Leve, médio, intenso e severo.",
+            "C) Generalizado leve, generalizado médio e generalizado severo, irregular e sem desgaste.",
+            "D) Leve, intenso e geral."
+        ],
+        "resposta": "C",
+        "explicacao": "Classificação padronizada para relatórios de inspeção de anodos galvânicos.",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 120,
+        "categoria": "PROVA 16",
+        "pergunta": "Das alternativas abaixo, assinale a que não representa defeitos visuais em mangotes marítimo:",
+        "opcoes": [
+            "A) Vão livre e puncionamento.",
+            "B) Corte e dobramento excessivo.",
+            "C) Abrasão e reentrâncias.",
+            "D) Vazamento e saliência."
+        ],
+        "resposta": "A",
+        "explicacao": "Vão livre é um termo aplicado a dutos rígidos ou cabos no leito marinho, não constituindo defeito de mangote.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 121,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Durante a inspeção visual subaquática de uma plataforma fixa, o inspetor identifica que a camada de incrustação marinha calcária está cobrindo integralmente os membros estruturais da região de variação de maré (splash zone). Qual é o procedimento técnico normativo adequado para a execução da inspeção detalhada nesta situação?",
+        "opcoes": [
+            "A) Realizar a inspeção diretamente sobre a incrustação, pois ela protege o metal contra corrosão.",
+            "B) Efetuar a limpeza mecânica pontual ou abertura de janelas de inspeção para expor o metal de base e avaliar descontinuidades ou corrosão subjacente.",
+            "C) Retirar totalmente a incrustação de 100% da jaqueta antes de iniciar qualquer registro fotográfico.",
+            "D) Considerar a estrutura aprovada automaticamente sem necessidade de remoção de incrustação."
+        ],
+        "resposta": "B",
+        "explicacao": "Normas de inspeção exigem a abertura de 'janelas' ou limpeza localizada na incrustação para examinar o estado real do metal e possíveis danos ocultos.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 122,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Qual das seguintes normas da ABNT ou diretrizes regulamentadoras estabelece especificamente os requisitos de qualificação e certificação de profissionais de ensaios não destrutivos no subsetor subaquático (como o SM-EV)?",
+        "opcoes": [
+            "A) ABNT NBR 16244",
+            "B) ABNT NBR ISO 9001",
+            "C) Documento ABENDI NA-003",
+            "D) Norma Petrobras N-1738"
+        ],
+        "resposta": "C",
+        "explicacao": "A diretriz ABENDI NA-003 fixa os requisitos e parâmetros de acuidade visual, qualificação e atribuições dos inspetores de ensaios não destrutivos subaquáticos.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 123,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Em um relatório de inspeção subaquática, ao registrar um dano mecânico do tipo 'mossa' em um duto rígido submarino, quais parâmetros dimensionais mínimos devem ser obrigatoriamente coletados e reportados?",
+        "opcoes": [
+            "A) Apenas a cor da tinta ao redor da mossa.",
+            "B) O comprimento, a largura e a profundidade máxima da deformação em relação ao perfil original do tubo.",
+            "C) O peso específico do fluido interno do duto no momento da inspeção.",
+            "D) A velocidade da correnteza marinha no fundo."
+        ],
+        "resposta": "B",
+        "explicacao": "O dimensionamento de mossas exige comprimento, largura e profundidade para que a engenharia calcule a perda de integridade estrutural.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 124,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "No contexto da fotografia subaquática aplicada à inspeção, o fenômeno da 'backscatter' (retroespalhamento) ocorre principalmente devido a:",
+        "opcoes": [
+            "A) Uso de lentes macro de alta precisão.",
+            "B) Partículas em suspensão na água que refletem a luz do flash diretamente para a lente da câmera.",
+            "C) Pressão hidrostática excessiva comprimindo a carcaça estanque.",
+            "D) Falha na calibragem do luxímetro de superfície."
+        ],
+        "resposta": "B",
+        "explicacao": "O retroespalhamento degrada a nitidez da imagem quando o flash está alinhado muito próximo ao eixo da lente, iluminando o plâncton e sedimentos suspensos.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 125,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "De acordo com os critérios de classificação de corrosão alveolar, um alvéolo que apresenta profundidade superior a 50% da espessura nominal da chapa é classificado como:",
+        "opcoes": [
+            "A) Tipo I",
+            "B) Tipo II",
+            "C) Tipo III",
+            "D) Tipo IV"
+        ],
+        "resposta": "D",
+        "explicacao": "Perdas de espessura superiores a metade da espessura nominal ou diâmetros muito expressivos caracterizam o grau mais crítico, Tipo IV.",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 126,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Qual é a principal função da carcaça interna intertravada ('carcass') em um duto flexível estruturado submarino?",
+        "opcoes": [
+            "A) Suportar toda a tração axial gerada pelo peso próprio do riser na água.",
+            "B) Evitar o esmagamento ou colapso interno do duto devido à pressão hidrostática externa e ao fluxo do fluido.",
+            "C) Conduzir corrente elétrica para proteção catódica impressa.",
+            "D) Servir de barreira química contra permeação de gás carbônico."
+        ],
+        "resposta": "B",
+        "explicacao": "A carcaça interna metálica flexível protege a estrutura plástica contra colapso sob pressão externa e suporta o atrito do fluido transportado.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 127,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Ao realizar a medição de potencial eletroquímico de um anodo de sacrifício ou da estrutura com eletrodo de referência (ex: Pr/Ag/AgCl), o inspetor deve garantir que:",
+        "opcoes": [
+            "A) O eletrodo seja mantido o mais distante possível do metal inspecionado.",
+            "B) O contato elétrico com o metal limpo seja firme e o eletrodo esteja imerso no eletrólito próximo à superfície sem isolantes intervenientes.",
+            "C) A medição seja feita fora da água para evitar curtos-circuitos.",
+            "D) O multímetro esteja configurado para medir corrente alternada (AC)."
+        ],
+        "resposta": "B",
+        "explicacao": "Para obter leituras precisas de potencial de meia-célula na proteção catódica, o contato deve ser elétrico direto e estável no eletrólito (água do mar).",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 128,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "O que caracteriza fisicamente o fenômeno de 'flambagem' (buckling) em membros estruturais tubulares submersos?",
+        "opcoes": [
+            "A) Desgaste por abrasão localizada na base do pilar.",
+            "B) Deformação plástica axial e encurvadura lateral do componente submetido a esforços excessivos de compressão.",
+            "C) O surgimento de microfissuras decorrentes de ataques microbiológicos.",
+            "D) A perda de espessura uniforme por corrosão galvânica."
+        ],
+        "resposta": "B",
+        "explicacao": "Flambagem é a perda de estabilidade elasto-plástica de peças esbeltas sob cargas de compressão, gerando deformação no eixo axial.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 129,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Em operações de inspeção visual remota com ROV em plataformas de petróleo, qual é a responsabilidade primária do Inspetor Nível 2 presente na cabine de comando?",
+        "opcoes": [
+            "A) Pilotar mecanicamente os thrusters do veículo subaquático em substituição ao piloto.",
+            "B) Interpretar, avaliar e classificar as não conformidades e descontinuidades observadas de acordo com os critérios normativos e procedimentos aplicáveis.",
+            "C) Realizar manutenção eletrônica dos circuitos hidráulicos do braço manipulador.",
+            "D) Emitir o certificado de classe internacional da unidade marítima."
+        ],
+        "resposta": "B",
+        "explicacao": "O escopo de atuação do Inspetor N2 foca na condução técnica do ensaio, interpretação de imagens, dimensionamento e enquadramento normativo dos achados.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 130,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Qual das seguintes alternativas descreve corretamente a corrosão por aeração diferencial?",
+        "opcoes": [
+            "A) Corrosão gerada pelo atrito mecânico de partículas de areia transportadas por correntes marinhas.",
+            "B) Pilha eletroquímica formada em um mesmo metal devido a diferenças na concentração de oxigênio dissolvido entre duas regiões (ex: área soterrada vs. exposta).",
+            "C) Ataque químico exclusivo causado por bactérias redutoras de sulfato.",
+            "D) Degradação térmica de polímeros expostos à radiação solar na superfície."
+        ],
+        "resposta": "B",
+        "explicacao": "A aeração diferencial cria áreas catódicas (com mais oxigênio) e anódicas (com menos oxigênio, como sob depósitos ou no solo), acelerando a corrosão localizada.",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 131,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "O que significa o termo técnico 'TDP' (Touch Down Point) na engenharia de dutos e risers flexíveis/rígidos?",
+        "opcoes": [
+            "A) Ponto de ancoragem superior na mesa rotativa da plataforma.",
+            "B) Região exata onde o duto em configuração de catenária toca e apoia-se no leito marinho.",
+            "C) Conector hidráulico de emergência localizado na cabeça do poço.",
+            "D) Altura máxima da onda na zona de arrebentação."
+        ],
+        "resposta": "B",
+        "explicacao": "O TDP (ponto de toque) é uma zona crítica de fadiga e inspeção constante devido ao movimento cíclico imposto pelas ondas e correntes ao duto.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 132,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Em inspeções visuais subaquáticas de soldas estruturais, caso o inspetor detecte uma descontinuidade aberta à superfície com características lineares e extremidades agudas (alta concentração de tensão), ele deve relatar provisoriamente como:",
+        "opcoes": [
+            "A) Porosidade isolada esférica.",
+            "B) Indicação suspeita de trinca, exigindo aprofundamento de ensaio (ex: partículas magnéticas ou esmerilhamento controlado).",
+            "C) Irregularidade estética de acabamento sem relevância.",
+            "D) Rechupe de fabricação primária."
+        ],
+        "resposta": "B",
+        "explicacao": "Indicações lineares agudas levantam forte suspeita de trinca, exigindo checagem criteriosa e complementação por outros ENDs ou limpeza profunda.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 133,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Qual é a utilidade de um gabarito de solda (tipo 'welding gauge', ex: Cambridge) adaptado ou utilizado em inspeções visuais?",
+        "opcoes": [
+            "A) Medir a salinidade e temperatura da água do mar.",
+            "B) Medir o reforço da solda, profundidade de mordeduras, desalinhamentos e ângulos de chanfro.",
+            "C) Avaliar a dureza Rockwell do aço submerso.",
+            "D) Verificar a voltagem do arco elétrico subaquático."
+        ],
+        "resposta": "B",
+        "explicacao": "O calibre de solda mede com precisão mecânica descontinuidades dimensionais como altura de reforço, mordeduras e desalinhamentos.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 134,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "No tocante às incrustações marinhas biológicas moles (como esponjas, ascídias e hidróides), qual o principal impacto mecânico adverso gerado sobre as estruturas oceânicas?",
+        "opcoes": [
+            "A) Redução drástica da massa total da estrutura, provocando flutuação indesejada.",
+            "B) Aumento significativo do diâmetro efetivo dos membros tubulares e consequente elevação do coeficiente de arrasto hidrodinâmico sob ação das correntes.",
+            "C) Proteção catódica total de 100% em toda a jaqueta.",
+            "D) Eliminação completa de qualquer risco de fadiga."
+        ],
+        "resposta": "B",
+        "explicacao": "Incrustações espessas aumentam a área projetada exposta à correnteza (aumentando o arrasto / 'drag' hidrodinâmico) e o peso hidrostático.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 135,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Como se define o ensaio visual 'localizado' de acordo com os procedimentos normativos de inspeção subaquática?",
+        "opcoes": [
+            "A) Exame panorâmico de toda a instalação oceânica sem critérios de amostragem.",
+            "B) Exame restrito a uma área específica ou componente determinado, motivado por um evento prévio, dano suspeito ou criticidade operacional.",
+            "C) Filmagem contínua de rotina realizada exclusivamente por câmeras de segurança na superfície.",
+            "D) Inspeção realizada apenas nos tanques de lastro a seco."
+        ],
+        "resposta": "B",
+        "explicacao": "A inspeção localizada foca pontualmente em uma zona de interesse ou indicação específica identificada na varredura geral.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 136,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Qual tipo de corrosão em estruturas metálicas marinhas se manifesta através da perda uniforme de espessura em toda a superfície exposta, sem formação de pites profundos isolados?",
+        "opcoes": [
+            "A) Corrosão alveolar",
+            "B) Corrosão uniforme (ou generalizada uniforme)",
+            "C) Corrosão intergranular severa",
+            "D) Corrosão sob tensão"
+        ],
+        "resposta": "B",
+        "explicacao": "A corrosão uniforme ataca de maneira homogênea toda a extensão da superfície metálica exposta ao eletrólito.",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 137,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Em relação aos anodos galvânicos de sacrifício tipo pulseira ('bracelet'), utilizados em dutos submarinos, qual característica construtiva deve ser verificada visualmente quanto à integridade?",
+        "opcoes": [
+            "A) Presença de roscas internas de aperto milimétrico.",
+            "B) Continuidade das soldas de ligação elétrica, ausência de trincas nas sapatas de concreto/zinco e percentual de desgaste volumétrico.",
+            "C) Presença de dutos internos de fibra óptica.",
+            "D) Estanqueidade hidráulica interna."
+        ],
+        "resposta": "B",
+        "explicacao": "Anodos tipo pulseira demandam inspeção visual na fixação/soldas de ligação à linha e avaliação física do desgaste e integridade do material.",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 138,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "O que significa a especificação de acuidade visual 'Jaeger 1' exigida nos exames periódicos para inspetores subaquáticos?",
+        "opcoes": [
+            "A) Capacidade de enxergar objetos a mais de 10 quilômetros de distância na névoa.",
+            "B) Capacidade de ler tipos de letras pequenas a uma distância de leitura próxima padronizada.",
+            "C) Visão cromática perfeita sob luz ultravioleta pura.",
+            "D) Ausência total de astigmatismo noturno."
+        ],
+        "resposta": "B",
+        "explicacao": "A tabela Jaeger avalia a acuidade visual para perto, garantindo que o inspetor distinga detalhes minuciosos e marcas de graduação.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 139,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Qual é a principal consequência técnica da presença de um 'vão livre' (free span) excessivo e não planejado em um duto submarino rígido?",
+        "opcoes": [
+            "A) Aumento da pressão interna do óleo transportado.",
+            "B) Vibrações induzidas por vórtices (VIV - Vortex-Induced Vibrations) geradas pelas correntes marinhas, levando a falhas prematuras por fadiga.",
+            "C) Resfriamento instantâneo do petróleo cru.",
+            "D) Bloqueio total do fluxo por assentamento de lodo."
+        ],
+        "resposta": "B",
+        "explicacao": "Vãos livres deixam o duto suscetível a correntes transversais, provocando vibrações oscilatórias severas (VIV) e fadiga mecânica crítica.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 140,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Durante a inspeção visual de um revestimento de massa epóxi em uma jaqueta offshore, o inspetor nota o descolamento de placas espessas de revestimento acompanhadas de corrosão no substrato. Esse dano deve ser relatado como:",
+        "opcoes": [
+            "A) Descolamento/desfolhamento do revestimento associado a corrosão.",
+            "B) Empolamento por umidade sem consequências estruturais.",
+            "C) Porosidade superficial de soldagem.",
+            "D) Abrasão leve por areia."
+        ],
+        "resposta": "A",
+        "explicacao": "O descolamento ou desfolhamento de revestimentos espessos com exposição e corrosão do aço requer dimensionamento de área e registro fotográfico imediato.",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 141,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Durante a inspeção visual subaquática de uma junta soldada em um nó estrutural, o inspetor identifica uma descontinuidade caracterizada como 'porosidade agrupada'. Qual é a conduta técnica normativa para o registro desse achado?",
+        "opcoes": [
+            "A) Desconsiderar, pois porosidades nunca afetam juntas estruturais submersas.",
+            "B) Medir a extensão da área afetada, contar ou estimar a densidade dos poros e registrar em relatório com croqui e fotografia detalhada.",
+            "C) Realizar imediatamente um corte mecânico na solda sem consultar o supervisor.",
+            "D) Classificar o achado obrigatoriamente como trinca de fadiga catastrófica."
+        ],
+        "resposta": "B",
+        "explicacao": "Descontinuidades volumétricas como porosidade agrupada exigem dimensionamento de área/distribuição e registro completo para avaliação do engenheiro de integridade.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 142,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Qual é o principal objetivo da aplicação de uma camada de revestimento de elastômetro ou poliuretano em determinados trechos de risers flexíveis offshore?",
+        "opcoes": [
+            "A) Servir de lastro pesado para afundar o duto no leito marinho.",
+            "B) Proteger o duto contra impactos mecânicos externos, abrasão contra estruturas e abrasão pelo arrasto no fundo.",
+            "C) Conduzir eletricidade para aquecimento interno do óleo.",
+            "D) Aumentar a permeabilidade a gases ácidos."
+        ],
+        "resposta": "B",
+        "explicacao": "A capa externa polimérica dos flexíveis atua como barreira mecânica primária contra impactos, atrito e desgaste abrasivo.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 143,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "O que caracteriza fisicamente o defeito de laminação conhecido como 'dupla laminação' em chapas de aço laminadas?",
+        "opcoes": [
+            "A) Uma trinca transversal gerada por resfriamento rápido no banho de solda.",
+            "B) A presença de descontinuidades internas planas paralelas à superfície da chapa, originadas por vazios ou inclusões não fundidas durante a lingotamento do aço.",
+            "C) Um dobramento acidental da chapa na prensa hidráulica de superfície.",
+            "D) Excesso de espessura de tinta na película protetora."
+        ],
+        "resposta": "B",
+        "explicacao": "A dupla laminação é um defeito interno de fabricação do aço (laminados/forjados) consistente em vazios internos achatados paralelos às faces.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 144,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Em relação à iluminação artificial em ambientes subaquáticos com baixa visibilidade e partículas em suspensão, qual tipo de posicionamento relativo entre a fonte de luz (lanterna/holofote) e a câmera é recomendado para mitigar o retroespalhamento ('backscatter')?",
+        "opcoes": [
+            "A) Posicionar a luz rigidamente colada e alinhada no mesmo eixo frontal da lente da câmera.",
+            "B) Afastar a fonte de luz lateralmente e direcioná-la em um ângulo oblíguo em relação ao eixo óptico da câmera.",
+            "C) Desligar totalmente a luz artificial e usar apenas luz estroboscópica de superfície.",
+            "D) Apontar a lanterna diretamente para os olhos do mergulhador."
+        ],
+        "resposta": "B",
+        "explicacao": "Separar a fonte luminosa do eixo da câmera (iluminação lateral/oblíqua) evita que a luz reflita diretamente nas partículas em suspensão em direção à objetiva.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 145,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Qual dos seguintes fatores ambientais oceanográficos afeta de maneira mais direta e limitante a clareza e a distância de visibilidade útil para a realização de um ensaio visual subaquático direto por mergulhador?",
+        "opcoes": [
+            "A) A pressão atmosférica na superfície da plataforma.",
+            "B) A concentração de fitoplâncton, ressuspensão de sedimentos do fundo e turbidez da água do mar.",
+            "C) O campo magnético terrestre local.",
+            "D) A fase da lua nova ou cheia no calendário gregoriano."
+        ],
+        "resposta": "B",
+        "explicacao": "A turbidez gerada por plâncton, matéria orgânica e sedimentos suspensos reduz drasticamente a visibilidade subaquática.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 146,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "No exame visual de uma estrutura de concreto offshore (como bases gravitacionais), qual patologia típica associada à armadura interna o inspetor deve procurar relatar?",
+        "opcoes": [
+            "A) Trincas e fissuras superficiais com escorrimento de ferrugem e delaminação do concreto de cobrimento.",
+            "B) Porosidade em soldas de topo estruturais.",
+            "C) Desgaste galvânico em anodos de zinco rosqueados.",
+            "D) Flambagem plástica em tubos de titânio."
+        ],
+        "resposta": "A",
+        "explicacao": "A corrosão da armadura de aço interna no concreto gera expansão volumétrica, resultando em fissuras, manchas de ferrugem e desplacamento (delaminação).",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 147,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "O que indica a ocorrência de uma depressão sob a forma de entalhe localizada no metal de base, imediatamente adjacente à margem da solda, gerada por fusão excessiva do metal base sem a devida recomposição de metal de adição?",
+        "opcoes": [
+            "A) Reforço excessivo",
+            "B) Mordedura",
+            "C) Concavidade de raiz",
+            "D) Porosidade vermiforme"
+        ],
+        "resposta": "B",
+        "explicacao": "A mordedura é o entalhe marginal gerado na transição da solda com o metal de base.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 148,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Durante a inspeção de um sistema de ancoragem em catenária de uma plataforma flutuante, o inspetor verifica o trecho da linha de amarra em contato alternado com o fundo. Esse trecho está sujeito a qual mecanismo severo de degradação conjunta?",
+        "opcoes": [
+            "A) Abrasão mecânica contra o solo marinho associada a ciclos de fadiga por flexão.",
+            "B) Oxidação eletrolítica por alta temperatura do magma submarino.",
+            "C) Ataque químico por fluidos supercríticos de refinaria.",
+            "D) Embolhamento por pintura epóxi inadequada."
+        ],
+        "resposta": "A",
+        "explicacao": "O ponto de toque da linha de ancoragem sofre desgaste físico por atrito com o solo (abrasão) e fadiga cíclica.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 149,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Em termos de metrologia aplicada à inspeção subaquática, por que as réguas e trenas utilizadas sob a água devem ser manuseadas paralelamente e encostadas na superfície do objeto inspecionado?",
+        "opcoes": [
+            "A) Para evitar que o peixe bique o instrumento de medição.",
+            "B) Para minimizar os erros de leitura decorrentes de paralaxe e dos efeitos de refração e distorção óptica causados pela interface água-máscara/lente.",
+            "C) Para garantir que o instrumento receba proteção catódica por corrente impressa.",
+            "D) Porque a pressão hidrostática comprime o metal da trena."
+        ],
+        "resposta": "B",
+        "explicacao": "Erros de paralaxe e distorção refrativa exigem que o instrumento de medida fique perfeitamente encostado e alinhado ao defectoscópio/peça.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 150,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Qual é a definição técnica normativa de 'Defeito' em comparação a uma simples 'Descontinuidade', segundo os códigos de END?",
+        "opcoes": [
+            "A) São sinônimos perfeitos sem nenhuma distinção prática.",
+            "B) Descontinuidade é qualquer interrupção das características físicas do material; Defeito é a descontinuidade cuja severidade ou dimensão a torna inaceitável segundo os critérios de rejeição da norma aplicável.",
+            "C) Defeito é apenas um arranhão na tinta, enquanto descontinuidade é uma fratura estrutural total.",
+            "D) Descontinuidade só existe em peças fundidas, e defeito só existe em soldas."
+        ],
+        "resposta": "B",
+        "explicacao": "Toda descontinuidade avaliada como inaceitável perante os critérios normativos passa a ser classificada oficialmente como defeito.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 151,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "No exame visual de uma junta soldada em ângulo, o inspetor constata que a garganta efetiva da solda está abaixo do especificado no projeto estrutural. Como deve ser classificada essa irregularidade?",
+        "opcoes": [
+            "A) Reforço excessivo de solda.",
+            "B) Deposição insuficiente (ou tamanho de solda insuficiente).",
+            "C) Desalinhamento angular severo.",
+            "D) Porosidade interna alinhada."
+        ],
+        "resposta": "B",
+        "explicacao": "A falta de metal depositado que compromete a garganta de cálculo da solda em ângulo configura deposição insuficiente.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 152,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "O que caracteriza uma corrosão do tipo 'pitiforme' (pites) em relação à corrosão alveolar?",
+        "opcoes": [
+            "A) Os pites possuem fundo arredondado e diâmetro maior que a profundidade.",
+            "B) Os pites apresentam cavidades com fundo em forma angular/pontual e profundidade geralmente maior ou igual ao seu diâmetro de abertura.",
+            "C) Os pites ocorrem exclusivamente em superfícies de madeira tratada.",
+            "D) Os pites não causam perda de espessura mensurável."
+        ],
+        "resposta": "B",
+        "explicacao": "Pites caracterizam-se por ataques pontuais profundos com perfil estreito e afiado, diferindo dos alvéolos de fundo arredondado.",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 153,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Qual é a função primordial de um 'estilete graduado' durante a inspeção visual subaquática de revestimentos espessos e incrustações?",
+        "opcoes": [
+            "A) Medir a voltagem dos cabos do ROV.",
+            "B) Servir de ponteiro e escala de referência direta para medir a espessura de camadas e profundidade de cavidades ao ser cravado no material.",
+            "C) Cortar amostras de aço para ensaio de tração no laboratório de terra.",
+            "D) Limpar cracas e ostras com corte a laser."
+        ],
+        "resposta": "B",
+        "explicacao": "O estilete graduado possui marcações milimetradas para inserção direta na camada a ser medida (incrustações, tintas ou espessuras brandas).",
+        "topico": "Medição de Espessura e Ensaios"
+    },
+    {
+        "id": 154,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Em sistemas de proteção catódica por corrente impressa (ICCP) em estruturas submersas, qual é a finalidade principal dos eletrodos de referência permanentes instalados na jaqueta?",
+        "opcoes": [
+            "A) Fornecer a corrente elétrica de alta amperagem para polarizar o aço.",
+            "B) Monitorar continuamente o potencial elétrico entre a estrutura e a água do mar, enviando feedback para o retificador ajustar a corrente.",
+            "C) Emitir sinais sonoros de alerta em caso de invasão de mamíferos marinhos.",
+            "D) Iluminar o fundo do mar para as câmeras de CFTV."
+        ],
+        "resposta": "B",
+        "explicacao": "Os eletrodos de referência medem o potencial real de polarização da estrutura para que o sistema ICCP regule a corrente de proteção automaticamente.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 155,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "O que significa o termo 'Over-flushing' ou lavagem excessiva com alta pressão na preparação de superfícies antes de inspeções visuais em revestimentos sensíveis?",
+        "opcoes": [
+            "A) Uso de água potável aquecida a 100°C.",
+            "B) Aplicação descontrolada de jatos de alta pressão capazes de descolar tintas aderidas ou destruir películas protetoras íntegras.",
+            "C) Pintura subaquática com pincel de cerdas de ouro.",
+            "D) Lubrificação dos tubos com óleo mineral."
+        ],
+        "resposta": "B",
+        "explicacao": "Pressões de hidrojateamento excessivas e desreguladas podem danificar o substrato e revestimentos adjacentes íntegros.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 156,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Como se classifica uma trinca que se propaga de forma transversal ao eixo longitudinal de um cordão de solda?",
+        "opcoes": [
+            "A) Trinca longitudinal",
+            "B) Trinca transversal",
+            "C) Trinca interlamelar",
+            "D) Trinca de cratera central"
+        ],
+        "resposta": "B",
+        "explicacao": "Trincas transversais orientam-se perpendicularmente ao eixo do cordão de solda, geralmente associadas a altas restrições e tensões térmicas.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 157,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Qual é a implicação de encontrar 'incrustações calcárias' (depósitos brancos duros à base de carbonato de cálcio e magnésio) sobre os anodos de sacrifício ou chapas de aço submersas?",
+        "opcoes": [
+            "A) Indica falha total da proteção catódica.",
+            "B) É um indicativo positivo do bom funcionamento do sistema de proteção catódica (polarização alcalina da superfície).",
+            "C) Significa que o duto sofreu ataque por bactérias metanogênicas.",
+            "D) Obriga a interrupção imediata da produção de petróleo."
+        ],
+        "resposta": "B",
+        "explicacao": "A precipitação de sais calcários sobre o metal polarizado atua como barreira complementar protetora, indicando proteção catódica ativa.",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 158,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "No contexto da inspeção visual de estruturas tubulares offshore, qual é a região geométrica de um nó tubular mais suscetível à concentração de tensões e consequente surgimento de trincas de fadiga?",
+        "opcoes": [
+            "A) O centro exato da alma do tubo reto longe das conexões.",
+            "B) A linha de interpolação e margem da solda de contorno entre o elemento ramificado (bracing) e a corda (chord).",
+            "C) A extremidade superior da escada de marinheiro na superfície.",
+            "D) O interior dos tanques de lastro emersos."
+        ],
+        "resposta": "B",
+        "explicacao": "A interseção geométrica soldada entre membros tubulares (toe da solda) concentra as maiores tensões dinâmicas das ondas.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 159,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Em uma inspeção visual remota por ROV, o que deve fazer o operador/inspetor caso ocorra perda de sinal de vídeo ou turbidez extrema repentina na área de interesse?",
+        "opcoes": [
+            "A) Forçar o avanço do ROV às cegas colidindo com a estrutura até achar o ponto.",
+            "B) Parar a movimentação do veículo, estabilizá-lo em posição segura em espaço aberto e aguardar a melhoria das condições ou reposicionar o sistema de iluminação/câmera.",
+            "C) Desligar o umbilical de superfície imediatamente.",
+            "D) Abandonar o equipamento no fundo do mar."
+        ],
+        "resposta": "B",
+        "explicacao": "Procedimento de segurança operacional básico para evitar enroscos e colisões do ROV em estruturas submarinas.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 160,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Qual é o principal objetivo de registrar a 'flecha máxima' em um vão livre de duto submarino?",
+        "opcoes": [
+            "A) Medir a quantidade de peixes abrigados sob o duto.",
+            "B) Calcular a deflexão máxima (flecha) no meio do vão suspenso para verificar se excede os limites admissíveis de projeto contra fadiga e deformação plástica.",
+            "C) Determinar o teor de sal da água do mar.",
+            "D) Avaliar a espessura da camada de tinta externa."
+        ],
+        "resposta": "B",
+        "explicacao": "A flecha mede o grau de envergadura/flexão do trecho não apoiado do duto perante seu peso e correntes.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 241,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Durante a inspeção de uma monobóia de amarração por ponto único (SPM), o inspetor observa danos na mangueira flutuante consistindo em 'torção acentuada' (twist). Qual é o risco operacional associado a essa irregularidade?",
+        "opcoes": [
+            "A) Aumento da flutuabilidade natural da boia.",
+            "B) Fadiga mecânica severa das camadas internas, cisalhamento de flanges e risco iminente de vazamento de óleo.",
+            "C) Economia de combustível para os navios-alívio.",
+            "D) Melhoria na flexibilidade do conjunto."
+        ],
+        "resposta": "B",
+        "explicacao": "A torção em mangotes induz esforços torcionais não previstos, danificando armaduras metálicas e gerando risco de vazamento ambiental.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 242,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "O que caracteriza a descontinuidade de soldagem denominada 'sobreposição' (overlap)?",
+        "opcoes": [
+            "A) Falta completa de metal na raiz da solda.",
+            "B) Excesso de metal da zona fundida que transborda sobreposto ao metal de base na margem da solda, sem estar fundido a ele.",
+            "C) Abertura acidental de arco elétrico longe do chanfro.",
+            "D) Presença de trincas longitudinais no centro do cordão."
+        ],
+        "resposta": "B",
+        "explicacao": "A sobreposição ocorre quando o metal líquido escorre sobre o metal de base frio sem criar fusão metalúrgica na borda.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 243,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Como o inspetor subaquático deve proceder ao encontrar um objeto estranho não catalogado (sucata metálica pesada) apoiado perigosamente sobre um duto rígido no leito marinho?",
+        "opcoes": [
+            "A) Ignorar o objeto, pois sucatas não afetam dutos.",
+            "B) Relatar a ocorrência detalhadamente, registrar dimensões, posição geográfica/relativa e o risco potencial de impacto ou dano mecânico ao duto.",
+            "C) Retirar o objeto sozinho puxando-o com o cabo do seu equipamento de mergulho.",
+            "D) Pintar a sucata com tinta amarela."
+        ],
+        "resposta": "B",
+        "explicacao": "O relatório de sucatas próximas a ativos submarinos é crítico para campanhas de remoção e mitigação de danos por impacto externo.",
+        "topico": "Dutos, Estruturas e Leito Marinho"
+    },
+    {
+        "id": 244,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Em relação à acuidade visual exigida pela norma ABENDI NA-003 para inspetores subaquáticos, com que periodicidade mínima o profissional deve submeter-se a exames oftalmológicos de comprovação?",
+        "opcoes": [
+            "A) A cada 10 anos.",
+            "B) A cada 12 meses (anualmente).",
+            "C) Apenas no momento da primeira certificação na vida.",
+            "D) A cada 6 meses obrigatoriamente."
+        ],
+        "resposta": "B",
+        "explicacao": "Os exames de acuidade visual (perto e longe/visão cromática) exigem renovação anual para manter a validade da certificação END.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 245,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Qual é a principal vantagem da utilização de moldes em epóxi (reunião de calafate ou moldes de réplica) durante inspeções visuais subaquáticas avançadas?",
+        "opcoes": [
+            "A) Soldar tubos embaixo d'água instantaneamente.",
+            "B) Obter uma cópia física fiel (negativa/positiva) de perfis de solda, profundidades de pites ou danos complexos para medição detalhada em superfície.",
+            "C) Filtrar a água do mar para consumo humano.",
+            "D) Aumentar a tensão elétrica do mergulhador."
+        ],
+        "resposta": "B",
+        "explicacao": "Resinas epóxi bicomponentes moldáveis permitem tirar o 'gesso' ou molde físico de irregularidades submarinas para análise metrológica posterior em laboratório.",
+        "topico": "Conceitos Gerais de Inspeção"
+    },
+    {
+        "id": 246,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "O que significa o termo 'ZTA' (Zona Afetada Termicamente) em uma junta soldada e qual sua relevância na inspeção?",
+        "opcoes": [
+            "A) É a parte da solda que permaneceu fria e intacta sem sofrer nenhuma alteração.",
+            "B) É a região do metal de base que não chegou a fundir-se, mas cuja microestrutura e propriedades mecânicas foram alteradas pelo ciclo térmico da soldagem, sendo área crítica para o surgimento de trincas.",
+            "C) É o nome dado ao revestimento de tinta anticorrosiva externa.",
+            "D) É a área onde se aplica o eletrodo de tungstênio."
+        ],
+        "resposta": "B",
+        "explicacao": "A ZTA sofre transformações metalúrgicas térmicas complexas, tornando-se frequentemente o local preferencial para trincas induzidas por hidrogênio ou fadiga.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 247,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Durante a inspeção de uma estrutura oceânica, o inspetor nota que um anodo de sacrifício perdeu totalmente a sua massa útil e apenas a alma de aço interna está visível. Como classificar este desgaste?",
+        "opcoes": [
+            "A) Anodo sem desgaste.",
+            "B) Desgaste generalizado severo / intenso com esgotamento da massa anódica.",
+            "C) Desgaste leve disperso.",
+            "D) Anodo com eficiência de 100%."
+        ],
+        "resposta": "B",
+        "explicacao": "Quando a alma de aço está exposta e resta pouca ou nenhuma massa de zinco/alumínio, o anodo está esgotado (desgaste severo).",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 248,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Qual é a finalidade do ensaio visual remoto em comparação ao ensaio visual direto executado por mergulhador profissional?",
+        "opcoes": [
+            "A) O método remoto substitui o mergulhador em locais de grande profundidade, alta hazard/risco ou geometrias confinadas, utilizando ROVs com câmeras de alta definição.",
+            "B) O método remoto é proibido pelas normas da Marinha do Brasil.",
+            "C) O método direto só pode ser feito em águas doces.",
+            "D) O método remoto não gera nenhum tipo de registro de imagem."
+        ],
+        "resposta": "A",
+        "explicacao": "O EV remoto com ROV protege mergulhadores de riscos hiperbáricos profundos e amplia o alcance de inspeção em grandes profundidades.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 249,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "O que caracteriza uma corrosão do tipo 'uniforme' em tubulações e tanques submersos?",
+        "opcoes": [
+            "A) O ataque corrosivo ocorre de forma homogênea por toda a extensão da superfície metálica exposta, resultando em previsível e gradual perda de espessura.",
+            "B) Ocorre apenas em pontos isolados formando furos profundos instantâneos.",
+            "C) É causada exclusivamente por correntes parasitas de geradores diesel.",
+            "D) Afeta somente soldas de aço inox."
+        ],
+        "resposta": "A",
+        "explicacao": "A corrosão uniforme distribui-se por igual em toda a área exposta.",
+        "topico": "Corrosão e Proteção Catódica"
+    },
+    {
+        "id": 250,
+        "categoria": "BANCO POPULAR EV - AVANÇADO",
+        "pergunta": "Em relação aos procedimentos operacionais escritos de ensaio visual subaquático, quem tem a prerrogativa legal e técnica de redigir, qualificar e aprovar o procedimento aplicável a uma campanha de inspeção?",
+        "opcoes": [
+            "A) O mergulhador estagiário recém-formado.",
+            "B) O Inspetor Nível 3 qualificado na modalidade de Ensaio Visual conforme diretrizes da ABENDI.",
+            "C) O cozinheiro da embarcação de apoio.",
+            "D) O capitão de longo curso do navio."
+        ],
+        "resposta": "B",
+        "explicacao": "A elaboração e qualificação de procedimentos de END competem exclusivamente ao profissional de Nível 3 certificado na modalidade.",
+        "topico": "Equipamentos, Iluminação e Segurança"
+    },
+    {
+        "id": 251,
+        "categoria": "ESPECIAL - SOLDA DIFÍCIL",
+        "pergunta": "Na metalurgia da soldagem de aços estruturais de alta resistência, a formação de microestruturas de alta dureza e fragilidade na Zona Afetada Termicamente (ZTA), como a martensita não revenida, está fortemente associada a:",
+        "opcoes": [
+            "A) Taxas de resfriamento extremamente baixas (aquecimento lento e prolongado).",
+            "B) Taxas de resfriamento excessivamente rápidas (alto 'cooling rate') combinadas com equivalentes de carbono elevados no material base.",
+            "C) Uso exclusivo de corrente contínua em polaridade reversa com baixa amperagem.",
+            "D) Ausência total de hidrogênio no arame de solda."
+        ],
+        "resposta": "B",
+        "explicacao": "Resfriamentos rápidos em aços com carbono equivalente elevado promovem a transformação martensítica na ZTA, aumentando o risco de trincas a frio.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 252,
+        "categoria": "ESPECIAL - SOLDA DIFÍCIL",
+        "pergunta": "O fenômeno da 'trinca a frio' (ou trinca induzida por hidrogênio) em juntas soldadas de aços carbono e baixa liga requer simultaneamente a presença de três fatores críticos. Quais são eles?",
+        "opcoes": [
+            "A) Presença de hidrogênio difusível, microestrutura sensível (ex: martensita) e nível elevado de tensões residuais mecânicas.",
+            "B) Alta temperatura do arco, excesso de oxigênio no gás e baixa espessura de chapa.",
+            "C) Corrente alternada, eletrodo de tungstênio e umidade no mar.",
+            "D) Baixa dureza na ZTA, ausência de restrição e resfriamento lento."
+        ],
+        "resposta": "A",
+        "explicacao": "Os três pilares clássicos da trinca a frio são: hidrogênio difusível na solda, microestrutura endurecida (sensível) e tensões mecânicas trativas residuais.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 253,
+        "categoria": "ESPECIAL - SOLDA DIFÍCIL",
+        "pergunta": "Qual é o principal mecanismo físico-químico que torna a soldagem hiperbárica a molhada ('wet welding') tecnicamente mais desafiadora e propensa a defeitos severos do que a soldagem a seco?",
+        "opcoes": [
+            "A) A alta pressão hidrostática dissocia a água em oxigênio e hidrogênio atômico, resultando em severa absorção de hidrogênio pelo metal de solda e taxas de resfriamento ultrarrápidas impostas pelo meio aquoso.",
+            "B) A ausência de gravidade sob a água.",
+            "C) O congelamento instantâneo do eletrodo por criogenia marinha.",
+            "D) O campo magnético gerado pelos peixes."
+        ],
+        "resposta": "A",
+        "explicacao": "O contato direto com a água provoca resfriamento brusco e dissociação de vapor, introduzindo hidrogênio difusível que gera porosidades e trincas.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 254,
+        "categoria": "ESPECIAL - SOLDA DIFÍCIL",
+        "pergunta": "O que caracteriza a descontinuidade metalúrgica conhecida como 'trinca de solidificação' (ou trinca a quente) na zona fundida?",
+        "opcoes": [
+            "A) Ocorre em temperaturas abaixo de 200°C após o resfriamento completo da peça.",
+            "B) Ocorre durante o estágio final de solidificação do metal de solda (altas temperaturas), devido à segregação de elementos de baixo ponto de fusão (como enxofre e fósforo) nos contornos de grão sob contração.",
+            "C) É causada exclusivamente por infiltração de água salgada na raiz.",
+            "D) Só aparece após 10 anos de operação do duto."
+        ],
+        "resposta": "B",
+        "explicacao": "Trincas a quente formam-se na faixa de solidificação da poça de fusão devido a filmes líquidos residuais de impurezas (S e P) tracionados pelas tensões de contração.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 255,
+        "categoria": "ESPECIAL - SOLDA DIFÍCIL",
+        "pergunta": "Em processos de soldagem com eletrodo revestido (SMAW), qual é a principal função prática da desoxidação do banho promovida pelos elementos químicos presentes no revestimento?",
+        "opcoes": [
+            "A) Aumentar o peso do eletrodo para facilitar o manuseio embaixo d'água.",
+            "B) Combinar-se com o oxigênio livre na poça de fusão para formar escórias flutuantes, evitando a formação de óxidos metálicos frágeis e porosidade por monóxido de carbono.",
+            "C) Elevar infinitamente a tensão elétrica da rede.",
+            "D) Colorir o cordão de solda com tons chamativos."
+        ],
+        "resposta": "B",
+        "explicacao": "Desoxidantes como silício e manganês no revestimento capturam o oxigênio e formam compostos que migram para a escória, purificando a solda.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 256,
+        "categoria": "ESPECIAL - SOLDA DIFÍCIL",
+        "pergunta": "O que significa o termo 'Preaquecimento' ('preheat') especificado em procedimentos de soldagem para aços de maior carbono equivalente?",
+        "opcoes": [
+            "A) Aquecer a peça antes da soldagem para reduzir o gradiente térmico, desacelerar a velocidade de resfriamento da ZTA e prevenir a formação de martensita dura e trincas a frio.",
+            "B) Esquentar o café da equipe de soldagem no convés.",
+            "C) Derreter completamente a chapa de aço antes de colocar o arame.",
+            "D) Evitar que a água do mar ferva durante o mergulho."
+        ],
+        "resposta": "A",
+        "explicacao": "O preaquecimento diminui a severidade do choque térmico, reduz a taxa de resfriamento e ajuda a difundir hidrogênio residual.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 257,
+        "categoria": "ESPECIAL - SOLDA DIFÍCIL",
+        "pergunta": "Qual descontinuidade interna em soldas por fusão é caracterizada por cavidades cilíndricas ou alongadas orientadas na direção do crescimento dos grãos (porosidade em forma de 'verme' ou 'tubo')?",
+        "opcoes": [
+            "A) Porosidade vermiforme",
+            "B) Trinca interlamelar",
+            "C) Falta de penetração na raiz",
+            "D) Mordedura dupla"
+        ],
+        "resposta": "A",
+        "explicacao": "A porosidade vermiforme apresenta canais alongados em forma de minhoca, gerados por liberação gás/umidade retida durante a solidificação.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 258,
+        "categoria": "ESPECIAL - SOLDA DIFÍCIL",
+        "pergunta": "No processo de soldagem GTAW (TIG), o que ocorre se houver contaminação da ponta do eletrodo de tungstênio com o metal de solda fundido (toque acidental do eletrodo na poça)?",
+        "opcoes": [
+            "A) O arco elétrico estabiliza perfeitamente em alta potência.",
+            "B) O eletrodo contamina-se, o arco torna-se instável e errático, exigindo a interrupção imediata para desbaste ou substituição do eletrodo.",
+            "C) O tungstênio funde-se totalmente e vira ouro.",
+            "D) A polaridade da máquina inverte-se sozinha."
+        ],
+        "resposta": "B",
+        "explicacao": "O tungstênio contaminado dispersa o arco elétrico e perde a capacidade de emissão eletrônica estável, exigindo remoção da ponta contaminada.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 259,
+        "categoria": "ESPECIAL - SOLDA DIFÍCIL",
+        "pergunta": "O que caracteriza o defeito de soldagem conhecido como 'falta de fusão' e por que ele é altamente perigoso estruturalmente?",
+        "opcoes": [
+            "A) É apenas um problema estético na cor do cordão.",
+            "B) É a ausência de união metalúrgica entre passes adjacentes ou entre a solda e o metal de base, comportando-se como um entalhe plano agudo altamente perigoso à fadiga.",
+            "C) Ocorre quando o soldador usa óculos escuros demais.",
+            "D) Significa que a peça ficou muito pesada."
+        ],
+        "resposta": "B",
+        "explicacao": "Falta de fusão é um defeito planar severo que atua como concentrador crítico de tensões mecânicas.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 260,
+        "categoria": "ESPECIAL - SOLDA DIFÍCIL",
+        "pergunta": "Qual é a principal função do fluxo mineral granular consumido no processo de soldagem a arco submerso (SAW)?",
+        "opcoes": [
+            "A) Gerar fumaça tóxica para afastar mergulhadores.",
+            "B) Proteger a poça de fusão contra a atmosfera, estabilizar o arco elétrico e adicionar elementos de liga desejados ao metal de solda.",
+            "C) Resfriar instantaneamente o cordão para evitar trincas.",
+            "D) Servir de adesivo mecânico para colar duas chapas sem soldar."
+        ],
+        "resposta": "B",
+        "explicacao": "O fluxo no arco submerso atua como cobertura isolante protetora, refinadora e metalúrgica do banho fundido.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 261,
+        "categoria": "ESPECIAL - SOLDA DIFÍCIL",
+        "pergunta": "O que representa o parâmetro 'Carbono Equivalente' (CE) calculado para aços estruturais destinados a soldagem?",
+        "opcoes": [
+            "A) A quantidade de calor necessária para ferver água na obra.",
+            "B) Uma fórmula matemática que correlaciona o teor de carbono e outros elementos de liga para estimar a soldabilidade e a susceptibilidade do aço à têmpera e trincas a frio.",
+            "C) O peso exato da estrutura em toneladas métricas.",
+            "D) A resistência elétrica dos cabos de solda."
+        ],
+        "resposta": "B",
+        "explicacao": "O CE quantifica o impacto dos elementos de liga na temperabilidade do aço, ditando a necessidade de preaquecimento.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 262,
+        "categoria": "ESPECIAL - SOLDA DIFÍCIL",
+        "pergunta": "Na inspeção visual de raiz de solda executada por acesso interno em tubulações, o que caracteriza a descontinuidade de 'penetração excessiva'?",
+        "opcoes": [
+            "A) Falta total de metal na raiz formando um furo vazado.",
+            "B) Excesso de metal depositado na raiz da junta, ultrapassando o limite tolerado para dentro do diâmetro interno do tubo.",
+            "C) Desalinhamento milimétrico das bordas.",
+            "D) Presença de trincas longitudinais na face externa."
+        ],
+        "resposta": "B",
+        "explicacao": "Penfração excessiva (reforço de raiz exagerado) restringe a seção interna de passagem de fluidos na tubulação.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 263,
+        "categoria": "ESPECIAL - SOLDA DIFÍCIL",
+        "pergunta": "Qual é o efeito indesejado do 'sopro magnético' ('magnetic arc blow') durante a soldagem ao arco elétrico com corrente contínua (CC)?",
+        "opcoes": [
+            "A) O arco elétrico desvia-se erraticamente de sua trajetória normal devido a forças magnéticas induzidas, gerando respingos excessivos, instabilidade e defeitos de fusão.",
+            "B) Aumento automático da velocidade de avanço em 500%.",
+            "C) Congelamento da máquina de solda por curto-circuitos.",
+            "D) Eliminação total de escória na solda."
+        ],
+        "resposta": "A",
+        "explicacao": "O sopro magnético perturba o arco elétrico em CC devido à assimetria do campo magnético na peça.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 264,
+        "categoria": "ESPECIAL - SOLDA DIFÍCIL",
+        "pergunta": "O que caracteriza uma 'solda heterogênea' em oposição a uma 'solda homogênea'?",
+        "opcoes": [
+            "A) Solda heterogênea é aquela em que a composição química da zona fundida difere significativamente da composição dos metais de base unidos.",
+            "B) Solda heterogênea é feita apenas com plástico e metal.",
+            "C) Solda homogênea é executada exclusivamente debaixo d'água salgada.",
+            "D) Não há diferença técnica entre os termos."
+        ],
+        "resposta": "A",
+        "explicacao": "Na solda heterogênea, o metal de adição possui composição química distinta dos metais base (ex: união de aço carbono com inox usando Inconel).",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 265,
+        "categoria": "ESPECIAL - SOLDA DIFÍCIL",
+        "pergunta": "Por que o ensaio visual (EV) de soldas estruturais submarinas deve ser complementado em muitas situações por ensaios não destrutivos volumétricos ou superficiais (como ultrassom ou partículas magnéticas)?",
+        "opcoes": [
+            "A) Porque o ensaio visual é totalmente inútil em qualquer hipótese.",
+            "B) Porque o EV detecta estritamente descontinuidades abertas à superfície, sendo incapaz de revelar trincas subsuperficiais, faltas de fusão internas ou porosidades encobertas.",
+            "C) Porque as normas exigem gastar mais orçamento do projeto.",
+            "D) Porque o inspetor visual não tem permissão para olhar para o aço."
+        ],
+        "resposta": "B",
+        "explicacao": "A limitação fundamental do EV é a restrição à superfície, exigindo métodos volumétricos complementares para falhas internas.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 266,
+        "categoria": "ESPECIAL - SOLDA DIFÍCIL",
+        "pergunta": "O que é o 'rechupe de cratera' e em que local da solda ele ocorre tipicamente?",
+        "opcoes": [
+            "A) Cavidade em forma de poro ou fenda localizada no término do cordão de solda (cratera), gerada pela contração volumétrica do metal líquido ao solidificar sem preenchimento adequado.",
+            "B) Um trincamento na margem superior do tubo.",
+            "C) Uma falha de pintura epóxi na zona de maré.",
+            "D) Desgaste por abrasão no leito marinho."
+        ],
+        "resposta": "A",
+        "explicacao": "O rechupe de cratera ocorre no encerramento do passe quando o soldador abre o arco abruptamente sem utilizar técnica de retrocesso ou enchimento da cratera.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 267,
+        "categoria": "ESPECIAL - SOLDA DIFÍCIL",
+        "pergunta": "Em processos de soldagem com arame tubular (FCAW) com proteção gasosa externa, qual é a principal função do fluxo enclausurado no interior do arame tubular?",
+        "opcoes": [
+            "A) Servir de canal para passagem de água de refrigeração.",
+            "B) Forçar a formação de escória protetora, estabilizar o arco e refinar quimicamente a poça de fusão de forma similar aos eletrodos revestidos.",
+            "C) Aumentar o peso específico do carretel de arame.",
+            "D) Substituir totalmente a necessidade de corrente elétrica."
+        ],
+        "resposta": "B",
+        "explicacao": "O núcleo fundente do arame tubular cumpre funções metalúrgicas e de proteção análogas às dos revestimentos tradicionais.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 268,
+        "categoria": "ESPECIAL - SOLDA DIFÍCIL",
+        "pergunta": "O que determina a severidade de uma descontinuidade linear como uma trinca em serviço sob carregamento dinâmico cíclico?",
+        "opcoes": [
+            "A) A cor da tinta ao redor da trinca.",
+            "B) O fator de intensidade de tensão na ponta da trinca, sua orientação perpendicular às tensões principais e sua profundidade/comprimento.",
+            "C) O peso do eletrodo usado na solda original.",
+            "D) A temperatura da água no momento da medição."
+        ],
+        "resposta": "B",
+        "explicacao": "Trincas perpendiculares a tensões trativas cíclicas propagam-se rapidamente por fadiga, ditadas pela mecânica da fratura (fator de intensidade de tensão).",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 269,
+        "categoria": "ESPECIAL - SOLDA DIFÍCIL",
+        "pergunta": "No contexto da soldagem hiperbárica a seco em habitat pressurizado, por que o controle da umidade relativa e do ponto de orvalho ('dew point') no interior da câmara é rigorosamente monitorado?",
+        "opcoes": [
+            "A) Para evitar o desconforto térmico dos mergulhadores apenas.",
+            "B) Para prevenir a contaminação por hidrogênio na poça de fusão, o que causaria trincas a frio imediatas na junta soldada estrutural.",
+            "C) Para garantir que o habitat flutue na superfície.",
+            "D) Para economizar energia elétrica das lâmpadas."
+        ],
+        "resposta": "B",
+        "explicacao": "Umidade elevada no habitat hiperbárico a seco introduz vapor de água dissociável, comprometendo a integridade metalúrgica da solda hiperbárica.",
+        "topico": "Soldagem e Descontinuidades"
+    },
+    {
+        "id": 270,
+        "categoria": "ESPECIAL - SOLDA DIFÍCIL",
+        "pergunta": "Qual é o critério básico para rejeição visual de uma descontinuidade do tipo 'respingo excessivo de solda' fundido firmemente sobre o metal de base adjacente em áreas de alta solicitação dinâmica?",
+        "opcoes": [
+            "A) Respindos nunca causam problemas e são aceitos em 100 dos casos.",
+            "B) Respingos excessivos podem atuar como pontos de início de pites de corrosão ou entalhes de fadiga, devendo ser removidos por esmerilhamento quando especificado em norma.",
+            "C) Devem ser pintados por cima com esmalte sintético.",
+            "D) Obrigam a troca de toda a plataforma offshore."
+        ],
+        "resposta": "B",
+        "explicacao": "Embora superficiais, respingos severos geram descontinuidades geométricas locais que favorecem pites de corrosão e pontos de concentração de tensão.",
+        "topico": "Corrosão e Proteção Catódica"
+    }
+]

@@ -2,7 +2,9 @@ import streamlit as st
 import random
 import json
 import os
+import uuid
 from datetime import datetime
+from supabase import create_client, Client
 
 # Configuração da Página para Mobile e Desktop (Layout Responsivo)
 st.set_page_config(
@@ -11,8 +13,19 @@ st.set_page_config(
     layout="centered"
 )
 
-# Arquivos de Histórico e Módulos
-ARQUIVO_HISTORICO = "historico_estatisticas.json"
+# --- CONFIGURAÇÃO DO SUPABASE ---
+# Insira aqui as suas credenciais do projeto Supabase (Planos Gratuitos)
+SUPABASE_URL = "https://xjmfinkltpsexxljzndy.supabase.co"
+SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhqbWZpbmtsdHBzZXh4bGp6bmR5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTI0NDgwODUsImV4cCI6MjEwODAyNDA4NX0.8qqjMFzSKO7hWvOrXFaFEdfnjw2cUilhMNUwZd8lvkA"
+
+@st.cache_resource
+def init_supabase():
+    try:
+        return create_client(SUPABASE_URL, SUPABASE_KEY)
+    except Exception as e:
+        return None
+
+supabase: Client = init_supabase()
 
 MODULOS = {
     "EV": {
@@ -29,7 +42,12 @@ MODULOS = {
     }
 }
 
-# --- FUNÇÕES DE SUPORTE E BANCO DE DADOS ---
+# --- GERENCIAMENTO DE IDENTIDADE DO DISPOSITIVO (UUID) ---
+if "device_id" not in st.session_state:
+    # Tenta resgatar do session_state ou gera um identificador único para o navegador
+    st.session_state.device_id = str(uuid.uuid4())
+
+# --- FUNÇÕES DE BANCO DE DADOS (SUPABASE) ---
 
 def carregar_banco(modulo_atual):
     arquivo_json = MODULOS[modulo_atual]["json"]
@@ -41,26 +59,70 @@ def carregar_banco(modulo_atual):
             st.error(f"Erro ao ler o arquivo {arquivo_json}: {e}")
     return []
 
-def carregar_historico():
-    if os.path.exists(ARQUIVO_HISTORICO):
-        try:
-            with open(ARQUIVO_HISTORICO, "r", encoding="utf-8") as f:
-                return json.load(f)
-        except Exception:
-            return []
+def carregar_historico_nuvem(modulo_atual):
+    if not supabase:
+        return []
+    try:
+        response = supabase.table("historico_usuarios") \
+            .select("historico_json") \
+            .eq("device_id", st.session_state.device_id) \
+            .eq("modulo", modulo_atual) \
+            .execute()
+        
+        if response.data and len(response.data) > 0:
+            return response.data[0].get("historico_json", [])
+    except Exception as e:
+        print(f"Erro ao carregar do Supabase: {e}")
     return []
 
-def salvar_historico(novo_registro):
-    historico = carregar_historico()
-    historico.append(novo_registro)
+def salvar_historico_nuvem(modulo_atual, novo_registro):
+    if not supabase:
+        return
     try:
-        with open(ARQUIVO_HISTORICO, "w", encoding="utf-8") as f:
-            json.dump(historico, f, indent=4, ensure_ascii=False)
+        # Carrega o histórico atual da nuvem para este dispositivo/módulo
+        historico_atual = carregar_historico_nuvem(modulo_atual)
+        historico_atual.append(novo_registro)
+        
+        # Verifica se já existe registro para este device_id + modulo
+        response = supabase.table("historico_usuarios") \
+            .select("id") \
+            .eq("device_id", st.session_state.device_id) \
+            .eq("modulo", modulo_atual) \
+            .execute()
+        
+        if response.data and len(response.data) > 0:
+            # Atualiza o registro existente
+            supabase.table("historico_usuarios") \
+                .update({"historico_json": historico_atual, "updated_at": datetime.now().isoformat()}) \
+                .eq("device_id", st.session_state.device_id) \
+                .eq("modulo", modulo_atual) \
+                .execute()
+        else:
+            # Insere um novo registro
+            supabase.table("historico_usuarios") \
+                .insert({
+                    "device_id": st.session_state.device_id,
+                    "modulo": modulo_atual,
+                    "historico_json": historico_atual
+                }) \
+                .execute()
     except Exception as e:
-        st.error(f"Erro ao salvar histórico: {e}")
+        st.error(f"Erro ao salvar histórico na nuvem: {e}")
+
+def limpar_historico_nuvem(modulo_atual):
+    if not supabase:
+        return
+    try:
+        supabase.table("historico_usuarios") \
+            .delete() \
+            .eq("device_id", st.session_state.device_id) \
+            .eq("modulo", modulo_atual) \
+            .execute()
+    except Exception as e:
+        st.error(f"Erro ao limpar histórico: {e}")
 
 def calcular_estatisticas(modulo_atual):
-    historico = carregar_historico()
+    historico = carregar_historico_nuvem(modulo_atual)
     stats = {
         "10 Questões": {"qtd": 0, "soma_aproveitamento": 0.0},
         "20 Questões": {"qtd": 0, "soma_aproveitamento": 0.0},
@@ -70,25 +132,24 @@ def calcular_estatisticas(modulo_atual):
     }
 
     for item in historico:
-        if item.get("modulo") == modulo_atual:
-            t = item.get("total")
-            tipo_str = item.get("tipo", "")
-            aprov = item.get("aproveitamento", 0)
-            if "Revisão" in tipo_str:
-                stats["Revisão de Erros"]["qtd"] += 1
-                stats["Revisão de Erros"]["soma_aproveitamento"] += aprov
-            elif t == 10:
-                stats["10 Questões"]["qtd"] += 1
-                stats["10 Questões"]["soma_aproveitamento"] += aprov
-            elif t == 20:
-                stats["20 Questões"]["qtd"] += 1
-                stats["20 Questões"]["soma_aproveitamento"] += aprov
-            elif t == 40:
-                stats["40 Questões"]["qtd"] += 1
-                stats["40 Questões"]["soma_aproveitamento"] += aprov
-            else:
-                stats["Completos/Outros"]["qtd"] += 1
-                stats["Completos/Outros"]["soma_aproveitamento"] += aprov
+        t = item.get("total")
+        tipo_str = item.get("tipo", "")
+        aprov = item.get("aproveitamento", 0)
+        if "Revisão" in tipo_str:
+            stats["Revisão de Erros"]["qtd"] += 1
+            stats["Revisão de Erros"]["soma_aproveitamento"] += aprov
+        elif t == 10:
+            stats["10 Questões"]["qtd"] += 1
+            stats["10 Questões"]["soma_aproveitamento"] += aprov
+        elif t == 20:
+            stats["20 Questões"]["qtd"] += 1
+            stats["20 Questões"]["soma_aproveitamento"] += aprov
+        elif t == 40:
+            stats["40 Questões"]["qtd"] += 1
+            stats["40 Questões"]["soma_aproveitamento"] += aprov
+        else:
+            stats["Completos/Outros"]["qtd"] += 1
+            stats["Completos/Outros"]["soma_aproveitamento"] += aprov
 
     resultado = {}
     for chave, val in stats.items():
@@ -99,17 +160,16 @@ def calcular_estatisticas(modulo_atual):
     return resultado
 
 def calcular_pesos_questoes(modulo_atual, questoes):
-    historico = carregar_historico()
+    historico = carregar_historico_nuvem(modulo_atual)
     estatisticas_topicos = {}
     
     for item in historico:
-        if item.get("modulo") == modulo_atual:
-            dep_topicos = item.get("desempenho_por_topico", {})
-            for topico, res in dep_topicos.items():
-                if topico not in estatisticas_topicos:
-                    estatisticas_topicos[topico] = {"acertos": 0, "erros": 0}
-                estatisticas_topicos[topico]["acertos"] += res.get("acertos", 0)
-                estatisticas_topicos[topico]["erros"] += res.get("erros", 0)
+        dep_topicos = item.get("desempenho_por_topico", {})
+        for topico, res in dep_topicos.items():
+            if topico not in estatisticas_topicos:
+                estatisticas_topicos[topico] = {"acertos": 0, "erros": 0}
+            estatisticas_topicos[topico]["acertos"] += res.get("acertos", 0)
+            estatisticas_topicos[topico]["erros"] += res.get("erros", 0)
 
     pesos = []
     for q in questoes:
@@ -133,7 +193,7 @@ if "modulo_atual" not in st.session_state:
     st.session_state.modulo_atual = "EV"
 
 if "tela" not in st.session_state:
-    st.session_state.tela = "menu" # telas: 'menu', 'questao', 'feedback', 'resultado'
+    st.session_state.tela = "menu"
 
 if "questoes_selecionadas" not in st.session_state:
     st.session_state.questoes_selecionadas = []
@@ -164,7 +224,6 @@ if "gabarito_letra" not in st.session_state:
 if st.session_state.tela == "menu":
     st.title("🌊 Simulado Subaquático - ABENDI")
     
-    # Seletor de Módulos
     col_mod1, col_mod2, col_mod3 = st.columns(3)
     with col_mod1:
         if st.button("EV (Visual)", use_container_width=True):
@@ -182,7 +241,7 @@ if st.session_state.tela == "menu":
     questoes = carregar_banco(st.session_state.modulo_atual)
     total_q = len(questoes)
     
-    st.info(f"**Módulo Ativo:** {MODULOS[st.session_state.modulo_atual]['nome']} | **Banco:** {total_q} questões disponíveis.")
+    st.info(f"**Módulo Ativo:** {MODULOS[st.session_state.modulo_atual]['nome']} | **Banco:** {total_q} questões.")
     
     st.markdown("### Escolha a modalidade de estudo:")
     
@@ -221,18 +280,17 @@ if st.session_state.tela == "menu":
             st.rerun()
 
     if st.button("🔄 Revisar Questões Erradas (Erros Pendentes)", use_container_width=True):
-        historico = carregar_historico()
+        historico = carregar_historico_nuvem(st.session_state.modulo_atual)
         contagem_erros = {}
         for item in historico:
-            if item.get("modulo") == st.session_state.modulo_atual:
-                for q_id in item.get("questoes_erradas_ids", []):
-                    contagem_erros[q_id] = contagem_erros.get(q_id, 0) + 1
-                if "Revisão" in item.get("tipo", ""):
-                    for q_id_acerto in item.get("questoes_acertadas_revisao_ids", []):
-                        if q_id_acerto in contagem_erros:
-                            contagem_erros[q_id_acerto] -= 1
-                            if contagem_erros[q_id_acerto] <= 0:
-                                del contagem_erros[q_id_acerto]
+            for q_id in item.get("questoes_erradas_ids", []):
+                contagem_erros[q_id] = contagem_erros.get(q_id, 0) + 1
+            if "Revisão" in item.get("tipo", ""):
+                for q_id_acerto in item.get("questoes_acertadas_revisao_ids", []):
+                    if q_id_acerto in contagem_erros:
+                        contagem_erros[q_id_acerto] -= 1
+                        if contagem_erros[q_id_acerto] <= 0:
+                            del contagem_erros[q_id_acerto]
         
         ids_para_revisar = [q_id for q_id, saldo in contagem_erros.items() if saldo > 0]
         questoes_para_revisar = [q for q in questoes if q.get("id") in ids_para_revisar]
@@ -249,17 +307,13 @@ if st.session_state.tela == "menu":
             st.session_state.tela = "questao"
             st.rerun()
 
-    # Botões de Administração e Histórico
     with st.expander("⚙️ Ferramentas e Estatísticas"):
         estatisticas = calcular_estatisticas(st.session_state.modulo_atual)
         for tipo, dados in estatisticas.items():
             st.write(f"• **{tipo}** ➔ Realizados: {dados['qtd']} | Média: {dados['media']}%")
         
         if st.button("🗑️ Limpar Histórico do Módulo Atual"):
-            historico = carregar_historico()
-            novo_historico = [item for item in historico if item.get("modulo") != st.session_state.modulo_atual]
-            with open(ARQUIVO_HISTORICO, "w", encoding="utf-8") as f:
-                json.dump(novo_historico, f, indent=4, ensure_ascii=False)
+            limpar_historico_nuvem(st.session_state.modulo_atual)
             st.success("Histórico limpo com sucesso!")
             st.rerun()
 
@@ -278,7 +332,6 @@ elif st.session_state.tela == "questao":
     
     st.subheader(q["pergunta"])
     
-    # Formata as opções para exibição amigável no Radio
     opcoes = q["opcoes"]
     escolha = st.radio("Selecione a alternativa:", opcoes, key=f"q_{idx}")
     
@@ -347,7 +400,6 @@ elif st.session_state.tela == "resultado":
     
     st.metric(label="Aproveitamento Geral", value=f"{aproveitamento:.1f}%", delta=f"{pontos} acertos de {total}")
     
-    # Processa dados para salvar no histórico
     desempenho_topicos = {}
     questoes_erradas_ids = []
     questoes_acertadas_revisao_ids = []
@@ -369,7 +421,6 @@ elif st.session_state.tela == "resultado":
 
     tipo_str = "Revisão de Erros" if st.session_state.modo_revisao_ativo else f"{total} Questões"
     
-    # Salva o histórico automaticamente ao chegar na tela de resultado
     novo_registro = {
         "data": datetime.now().strftime("%d/%m/%Y %H:%M"),
         "modulo": st.session_state.modulo_atual,
@@ -381,7 +432,9 @@ elif st.session_state.tela == "resultado":
         "questoes_erradas_ids": questoes_erradas_ids,
         "questoes_acertadas_revisao_ids": questoes_acertadas_revisao_ids
     }
-    salvar_historico(novo_registro)
+    
+    # Salva diretamente no banco de dados na nuvem (Supabase)
+    salvar_historico_nuvem(st.session_state.modulo_atual, novo_registro)
     
     if aproveitamento >= 70:
         st.success("Excelente! Pronto para a certificação ABENDI. 🚀")

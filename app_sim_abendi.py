@@ -14,9 +14,8 @@ st.set_page_config(
 )
 
 # --- CONFIGURAÇÃO DO SUPABASE ---
-# Insira aqui as suas credenciais do projeto Supabase (Planos Gratuitos)
 SUPABASE_URL = "https://xjmfinkltpsexxljzndy.supabase.co"
-SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhqbWZpbmtsdHBzZXh4bGp6bmR5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTI0NDgwODUsImV4cCI6MjEwODAyNDA4NX0.8qqjMFzSKO7hWvOrXFaFEdfnjw2cUilhMNUwZd8lvkA"
+SUPABASE_KEY = "sb_publishable_ojfqSCiUn3oGntqUWdK6w_3Jkxw..."
 
 @st.cache_resource
 def init_supabase():
@@ -44,7 +43,6 @@ MODULOS = {
 
 # --- GERENCIAMENTO DE IDENTIDADE DO DISPOSITIVO (UUID) ---
 if "device_id" not in st.session_state:
-    # Tenta resgatar do session_state ou gera um identificador único para o navegador
     st.session_state.device_id = str(uuid.uuid4())
 
 # --- FUNÇÕES DE BANCO DE DADOS (SUPABASE) ---
@@ -75,15 +73,19 @@ def carregar_historico_nuvem(modulo_atual):
         print(f"Erro ao carregar do Supabase: {e}")
     return []
 
-def salvar_historico_nuvem(modulo_atual, novo_registro):
+def salvar_historico_nuvem_unico(modulo_atual, novo_registro):
+    """Salva no Supabase garantindo que o mesmo registro não seja duplicado na sessão."""
     if not supabase:
         return
     try:
-        # Carrega o histórico atual da nuvem para este dispositivo/módulo
         historico_atual = carregar_historico_nuvem(modulo_atual)
+        
+        # Evita duplicidade estrita se já foi salvo nesta mesma sessão de resultado
+        if historico_atual and historico_atual[-1].get("data") == novo_registro.get("data") and historico_atual[-1].get("acertos") == novo_registro.get("acertos"):
+            return
+
         historico_atual.append(novo_registro)
         
-        # Verifica se já existe registro para este device_id + modulo
         response = supabase.table("historico_usuarios") \
             .select("id") \
             .eq("device_id", st.session_state.device_id) \
@@ -91,14 +93,12 @@ def salvar_historico_nuvem(modulo_atual, novo_registro):
             .execute()
         
         if response.data and len(response.data) > 0:
-            # Atualiza o registro existente
             supabase.table("historico_usuarios") \
                 .update({"historico_json": historico_atual, "updated_at": datetime.now().isoformat()}) \
                 .eq("device_id", st.session_state.device_id) \
                 .eq("modulo", modulo_atual) \
                 .execute()
         else:
-            # Insere um novo registro
             supabase.table("historico_usuarios") \
                 .insert({
                     "device_id": st.session_state.device_id,
@@ -210,14 +210,8 @@ if "respostas_sessao" not in st.session_state:
 if "modo_revisao_ativo" not in st.session_state:
     st.session_state.modo_revisao_ativo = False
 
-if "ultima_resposta_correta" not in st.session_state:
-    st.session_state.ultima_resposta_correta = False
-
-if "ultima_explicacao" not in st.session_state:
-    st.session_state.ultima_explicacao = ""
-
-if "gabarito_letra" not in st.session_state:
-    st.session_state.gabarito_letra = ""
+if "resultado_salvo" not in st.session_state:
+    st.session_state.resultado_salvo = False
 
 
 # --- TELA 1: MENU PRINCIPAL ---
@@ -265,6 +259,7 @@ if st.session_state.tela == "menu":
                 st.session_state.pontuacao = 0
                 st.session_state.respostas_sessao = []
                 st.session_state.modo_revisao_ativo = False
+                st.session_state.resultado_salvo = False
                 st.session_state.tela = "questao"
                 st.rerun()
 
@@ -276,6 +271,7 @@ if st.session_state.tela == "menu":
             st.session_state.pontuacao = 0
             st.session_state.respostas_sessao = []
             st.session_state.modo_revisao_ativo = False
+            st.session_state.resultado_salvo = False
             st.session_state.tela = "questao"
             st.rerun()
 
@@ -304,6 +300,7 @@ if st.session_state.tela == "menu":
             st.session_state.pontuacao = 0
             st.session_state.respostas_sessao = []
             st.session_state.modo_revisao_ativo = True
+            st.session_state.resultado_salvo = False
             st.session_state.tela = "questao"
             st.rerun()
 
@@ -400,42 +397,44 @@ elif st.session_state.tela == "resultado":
     
     st.metric(label="Aproveitamento Geral", value=f"{aproveitamento:.1f}%", delta=f"{pontos} acertos de {total}")
     
-    desempenho_topicos = {}
-    questoes_erradas_ids = []
-    questoes_acertadas_revisao_ids = []
+    # Executa o salvamento apenas uma única vez utilizando a flag de controle
+    if not st.session_state.resultado_salvo:
+        desempenho_topicos = {}
+        questoes_erradas_ids = []
+        questoes_acertadas_revisao_ids = []
 
-    for item in st.session_state.respostas_sessao:
-        t = item["topico"]
-        q_id = item["id"]
-        if t not in desempenho_topicos:
-            desempenho_topicos[t] = {"acertos": 0, "erros": 0}
+        for item in st.session_state.respostas_sessao:
+            t = item["topico"]
+            q_id = item["id"]
+            if t not in desempenho_topicos:
+                desempenho_topicos[t] = {"acertos": 0, "erros": 0}
+            
+            if item["acertou"]:
+                desempenho_topicos[t]["acertos"] += 1
+                if st.session_state.modo_revisao_ativo and q_id is not None:
+                    questoes_acertadas_revisao_ids.append(q_id)
+            else:
+                desempenho_topicos[t]["erros"] += 1
+                if q_id is not None:
+                    questoes_erradas_ids.append(q_id)
+
+        tipo_str = "Revisão de Erros" if st.session_state.modo_revisao_ativo else f"{total} Questões"
         
-        if item["acertou"]:
-            desempenho_topicos[t]["acertos"] += 1
-            if st.session_state.modo_revisao_ativo and q_id is not None:
-                questoes_acertadas_revisao_ids.append(q_id)
-        else:
-            desempenho_topicos[t]["erros"] += 1
-            if q_id is not None:
-                questoes_erradas_ids.append(q_id)
+        novo_registro = {
+            "data": datetime.now().strftime("%d/%m/%Y %H:%M"),
+            "modulo": st.session_state.modulo_atual,
+            "tipo": tipo_str,
+            "acertos": pontos,
+            "total": total,
+            "aproveitamento": round(aproveitamento, 1),
+            "desempenho_por_topico": desempenho_topicos,
+            "questoes_erradas_ids": questoes_erradas_ids,
+            "questoes_acertadas_revisao_ids": questoes_acertadas_revisao_ids
+        }
+        
+        salvar_historico_nuvem_unico(st.session_state.modulo_atual, novo_registro)
+        st.session_state.resultado_salvo = True  # Trava para impedir duplicações
 
-    tipo_str = "Revisão de Erros" if st.session_state.modo_revisao_ativo else f"{total} Questões"
-    
-    novo_registro = {
-        "data": datetime.now().strftime("%d/%m/%Y %H:%M"),
-        "modulo": st.session_state.modulo_atual,
-        "tipo": tipo_str,
-        "acertos": pontos,
-        "total": total,
-        "aproveitamento": round(aproveitamento, 1),
-        "desempenho_por_topico": desempenho_topicos,
-        "questoes_erradas_ids": questoes_erradas_ids,
-        "questoes_acertadas_revisao_ids": questoes_acertadas_revisao_ids
-    }
-    
-    # Salva diretamente no banco de dados na nuvem (Supabase)
-    salvar_historico_nuvem(st.session_state.modulo_atual, novo_registro)
-    
     if aproveitamento >= 70:
         st.success("Excelente! Pronto para a certificação ABENDI. 🚀")
     else:

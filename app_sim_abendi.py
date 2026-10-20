@@ -6,6 +6,9 @@ import uuid
 from datetime import datetime
 from supabase import create_client, Client
 
+# --- CONTROLE DE VERSÃO DO APLICATIVO ---
+VERSAO_APP = "v1.4 (Supabase Cloud + Persistent ID)"
+
 # Configuração da Página para Mobile e Desktop (Layout Responsivo)
 st.set_page_config(
     page_title="Simulado Subaquático - ABENDI",
@@ -41,9 +44,14 @@ MODULOS = {
     }
 }
 
-# --- GERENCIAMENTO DE IDENTIDADE DO DISPOSITIVO (UUID) ---
-if "device_id" not in st.session_state:
-    st.session_state.device_id = str(uuid.uuid4())
+# --- GERENCIAMENTO DE IDENTIDADE PERSISTENTE VIA URL (DEVICE ID) ---
+query_params = st.query_params
+if "did" in query_params:
+    st.session_state.device_id = query_params["did"]
+else:
+    novo_id = str(uuid.uuid4())
+    st.session_state.device_id = novo_id
+    st.query_params["did"] = novo_id
 
 # --- FUNÇÕES DE BANCO DE DADOS (SUPABASE) ---
 
@@ -74,13 +82,11 @@ def carregar_historico_nuvem(modulo_atual):
     return []
 
 def salvar_historico_nuvem_unico(modulo_atual, novo_registro):
-    """Salva no Supabase garantindo que o mesmo registro não seja duplicado na sessão."""
     if not supabase:
         return
     try:
         historico_atual = carregar_historico_nuvem(modulo_atual)
         
-        # Evita duplicidade estrita se já foi salvo nesta mesma sessão de resultado
         if historico_atual and historico_atual[-1].get("data") == novo_registro.get("data") and historico_atual[-1].get("acertos") == novo_registro.get("acertos"):
             return
 
@@ -315,7 +321,7 @@ if st.session_state.tela == "menu":
             st.rerun()
 
     st.markdown("---")
-    st.caption("O Simulado não substitui as fontes oficiais de informações da Abendi - dev. Beto")
+    st.caption(f"O Simulado não substitui as fontes oficiais de informações da Abendi | Versão: **{VERSAO_APP}** - dev. Beto")
 
 
 # --- TELA 2: RESPONDENDO A QUESTÃO ---
@@ -397,7 +403,6 @@ elif st.session_state.tela == "resultado":
     
     st.metric(label="Aproveitamento Geral", value=f"{aproveitamento:.1f}%", delta=f"{pontos} acertos de {total}")
     
-    # Executa o salvamento apenas uma única vez utilizando a flag de controle
     if not st.session_state.resultado_salvo:
         desempenho_topicos = {}
         questoes_erradas_ids = []
@@ -433,7 +438,7 @@ elif st.session_state.tela == "resultado":
         }
         
         salvar_historico_nuvem_unico(st.session_state.modulo_atual, novo_registro)
-        st.session_state.resultado_salvo = True  # Trava para impedir duplicações
+        st.session_state.resultado_salvo = True
 
     if aproveitamento >= 70:
         st.success("Excelente! Pronto para a certificação ABENDI. 🚀")
